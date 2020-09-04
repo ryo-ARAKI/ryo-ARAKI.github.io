@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryo ARAKI"
+title                    : "ARAKI Ryo"
 title_separator          : "-"
-name                     : &name "Ryo ARAKI"
-description              : &description "PhD student at Osaka University"
+name                     : &name "ARAKI Ryo"
+description              : &description "Ph.D student at École Centrale de Lyon and  Osaka University"
 url                      : https://ryo-araki.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ryo-ARAKI/ryo-ARAKI.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryo ARAKI"
+  name             : "ARAKI Ryo"
   avatar           : "Profile_OIST.png"
-  bio              : "PhD student working on turbulence & its fundamental laws"
+  bio              : "PhD student working on fundamental laws of turbulence"
   location         : "Osaka, Japan"
   employer         :
   pubmed           :
@@ -175,33 +175,25 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+  memo:
+    output: true
+    permalink: /:collection/:path/
+  link:
+    output: true
+    permalink: /:collection/:path/
+  japanese:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -209,41 +201,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _memo
   - scope:
       path: ""
-      type: teaching
+      type: memo
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+      related: true
 
 # Sass/SCSS
 sass:

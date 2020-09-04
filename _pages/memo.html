@@ -1,0 +1,13 @@
+---
+layout: archive
+permalink: /memo/
+title: "Memorandum"
+author_profile: true
+redirect_from:
+  - /wordpress/memo/
+---
+
+{% include base_path %}
+{% for post in site.memo %}
+  {% include archive-single.html %}
+{% endfor %}
