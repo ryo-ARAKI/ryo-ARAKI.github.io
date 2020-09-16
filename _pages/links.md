@@ -26,9 +26,9 @@ redirect_from:
 
 ## Friends
 
-- [YOSHII Kiwamu](https://qyoshii.github.io/)
-  - 後藤研究室の同期
 - [澤端 日華瑠](https://hikaruri.jp/)
   - 吉田育英会の先輩
 - [桶谷龍成](http://labusers.net/~oketani/)
   - 吉田育英会の先輩
+- [吉井 究](https://qyoshii.github.io/)
+  - 後藤研究室の同期
