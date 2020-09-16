@@ -9,7 +9,7 @@ author_profile: true
 
 ## Oral Presentation
 
-- **Ryo ARAKI** and Susumu GOTO  \
+- **ARAKI Ryo** and GOTO Susumu  \
   "Large Spatio-temporal Fluctuation and Energy Cascade Dynamics in von Kármán Turbulence" \
   The 16th International Conference on Flow Dynamics, oral presentation \
   Sendai, 2019/11/6-8
@@ -19,11 +19,15 @@ author_profile: true
 ### 学会発表
 
 - **荒木 亮**，後藤 晋 \
+  「von Kármán 乱流中の渦構造とエネルギカスケード機構」 \
+  日本機械学会 2020 年度年次大会，口頭発表 \
+  名古屋大学（オンライン），2020年9月15日
+- **荒木 亮**，後藤 晋 \
   「von Kármán乱流中の大規模時空間変動とエネルギ・カスケードのダイナミクス」 \
   日本機械学会 関西支部第95期定時総会講演会，口頭発表 \
   同志社大学，2020年3月12日
 - **荒木 亮**，杉谷 優治，後藤 晋 \
-  「von Kármán乱流中の大変動とエネルギ・カスケード過程」 \
+  「von Kármán乱流中の大変動とエネルギ・カスケード過程」（[講演論文](https://www.jstage.jst.go.jp/article/jsmekansai/2019.94/0/2019.94_P035/_article/-char/ja/)） \
   日本機械学会 関西支部第94期定時総会講演会，ポスター発表 \
   立命館大学，2019年3月11日
 - **荒木 亮**，杉谷 優治，後藤 晋 \
@@ -41,13 +45,13 @@ author_profile: true
 - **荒木 亮** \
   「閉じた系の乱流の非平衡カスケード」 \
   流体若手夏のオンライン交流会 2020，口頭発表 \
-  Zoom，2020年8月29日
+  オンライン，2020年8月29日
 - **荒木 亮** \
   「閉じた系の乱流における非平衡なエネルギカスケード」 \
   非平衡オンライン若手の会 2020 オンライン交流会，ポスター発表 \
-  Zoom，2020年8月18日
+  オンライン，2020年8月18日
 - **荒木 亮** \
-  「乱流の秩序構造とそのダイナミクス」 \
+  「乱流の秩序構造とそのダイナミクス」（[アブストラクト](../files/201911_YSF_abstract.pdf)） \
   吉田育英会 研究交流会，口頭発表 \
   YKK 60ビル（東京都），2019年11月9日
 - **荒木 亮** \
