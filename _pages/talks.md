@@ -9,7 +9,7 @@ author_profile: true
 
 ## Oral Presentation
 
-- **Ryo ARAKI** and Susumu GOTO  \
+- **ARAKI Ryo** and GOTO Susumu  \
   "Large Spatio-temporal Fluctuation and Energy Cascade Dynamics in von Kármán Turbulence" \
   The 16th International Conference on Flow Dynamics, oral presentation \
   Sendai, 2019/11/6-8
@@ -27,7 +27,7 @@ author_profile: true
   日本機械学会 関西支部第95期定時総会講演会，口頭発表 \
   同志社大学，2020年3月12日
 - **荒木 亮**，杉谷 優治，後藤 晋 \
-  「von Kármán乱流中の大変動とエネルギ・カスケード過程」 \
+  「von Kármán乱流中の大変動とエネルギ・カスケード過程」（[講演論文](https://www.jstage.jst.go.jp/article/jsmekansai/2019.94/0/2019.94_P035/_article/-char/ja/)） \
   日本機械学会 関西支部第94期定時総会講演会，ポスター発表 \
   立命館大学，2019年3月11日
 - **荒木 亮**，杉谷 優治，後藤 晋 \
