@@ -35,7 +35,8 @@ First year of Ph.D student (Double-degree program) at
 
 ## Membership
 
-- Student member of The Japan Society of Mechanical Engineers
+- The Physical Society of Japan
+- The Japan Society of Mechanical Engineers
 
 ----
 
