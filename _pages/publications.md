@@ -17,5 +17,5 @@ author_profile: true
 
 - **ARAKI Ryo** and GOTO Susumu  \
   "Quasiperiodic fluctuations of von Kármán turbulence driven by viscous stirring" \
-  Physical Review Fluids, **6**, 084603
+  Physical Review Fluids, **6**, 084603 (2021)
   - doi: [https://doi.org/10.1103/PhysRevFluids.6.084603](https://doi.org/10.1103/PhysRevFluids.6.084603)
