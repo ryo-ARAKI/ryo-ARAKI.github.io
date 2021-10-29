@@ -10,6 +10,10 @@ author_profile: true
 ## Oral Presentation
 
 - **ARAKI Ryo**, Wouter J. T. Bos and GOTO Susumu  \
+  "The intrinsic periodicity of turbulence and its minimal model" \
+  [GDR Navier-Stokes 2.00](https://gdr-turbulence.universite-lyon.fr/reunion-2021-des-gdr-turbulence-ns2-00-173050.kjsp) \
+  Université Paris-Saclay, 27-29 October 2021
+- **ARAKI Ryo**, Wouter J. T. Bos and GOTO Susumu  \
   "Predator-prey modeling of large-scale energy fluctuations in turbulence" \
   [EuroMech colloquium 620: Extreme dissipation and intermittency in turbulence](https://620.euromech.org/) \
   Online, 17-19 May 2021
