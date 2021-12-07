@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "ARAKI Ryo"
   avatar           : "Profile_OIST.png"
-  bio              : "PhD student working on fundamental laws of turbulence"
-  location         : "Osaka, Japan"
+  bio              : "PhD student working on fundamental aspects of turbulence"
+  location         : "Lyon, France"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "r_araki@fm.me.es.osaka-u.ac.jp"
+  email            : "araki.ryo@ec-lyon.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "https://orcid.org/0000-0003-1700-0392"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
