@@ -10,6 +10,10 @@ author_profile: true
 ## Oral Presentation
 
 - **ARAKI Ryo**, Wouter J. T. Bos and GOTO Susumu  \
+  "Minimal modelling of the quasi-periodic behaviour of turbulence" \
+  [ERCOFTAC Workshop ASTROFLU V](http://chb.ec-lyon.fr/news/2021/ERCOFTAC_workshop_December_7_8/) \
+  École Centrale de Lyon, 7-8/12/2021
+- **ARAKI Ryo**, Wouter J. T. Bos and GOTO Susumu  \
   "The intrinsic periodicity of turbulence and its minimal model" \
   [GDR Navier-Stokes 2.00](https://gdr-turbulence.universite-lyon.fr/reunion-2021-des-gdr-turbulence-ns2-00-173050.kjsp) \
   Université Paris-Saclay, 27-29/10/2021
