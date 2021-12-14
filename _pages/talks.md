@@ -10,7 +10,7 @@ author_profile: true
 ## Oral Presentation
 
 - **ARAKI Ryo**, Wouter J. T. Bos and GOTO Susumu  \
-  "Minimal modelling of the quasi-periodic behaviour of turbulence" \
+  "Minimal modelling of the quasi-periodic behaviour of turbulence" ([Slide](http://chb.ec-lyon.fr/news/2021/pdf-astroflu5/araki.pdf)) \
   [ERCOFTAC Workshop ASTROFLU V](http://chb.ec-lyon.fr/news/2021/ERCOFTAC_workshop_December_7_8/) \
   École Centrale de Lyon, 7-8/12/2021
 - **ARAKI Ryo**, Wouter J. T. Bos and GOTO Susumu  \
