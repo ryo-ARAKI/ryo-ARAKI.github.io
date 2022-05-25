@@ -18,7 +18,7 @@ author_profile: true
 ## Preprint
 
 - **ARAKI Ryo**, Wouter J. T. Bos, and GOTO Susumu \
-  "Intrinsic periodicity of turbulence" [arXiv link](https://arxiv.org/abs/2112.03417)
+  "Minimal modeling of the intrinsic cycle of turbulence driven by steady forcing" [arXiv link](https://arxiv.org/abs/2112.03417)
 
 ## Published
 
