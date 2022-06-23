@@ -20,6 +20,9 @@ author_profile: true
 - **ARAKI Ryo**, Wouter J. T. Bos, and GOTO Susumu \
   "Minimal modeling of the intrinsic cycle of turbulence driven by steady forcing" [arXiv link](https://arxiv.org/abs/2112.03417)
 
+- Tomohiro Tanogami and **ARAKI Ryo** \
+  "Information-Thermodynamic Bound on Information Flow in Turbulent Cascade" [arXiv link](https://arxiv.org/abs/2206.11163)
+
 ## Published
 
 - **ARAKI Ryo** and GOTO Susumu  \
