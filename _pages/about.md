@@ -27,10 +27,8 @@ Second year of Ph.D student (Double-degree program) at
 
 ## Research Interests
 
-- Turbulence
-  - Energy cascade dynamics and quasi-periodic behaviour
-  - Direct Numerical Simulation (DNS)
-  - Particle Image Velocimetry (PIV)
+- Turbulence, in particular its energy cascade dynamics
+- Information theory and information thermodynamics
 - Active Matter
 
 ## Membership
