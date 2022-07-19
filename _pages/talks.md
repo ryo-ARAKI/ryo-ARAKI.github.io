@@ -10,6 +10,10 @@ author_profile: true
 ## Oral Presentation
 
 - **ARAKI Ryo**, Wouter J. T. Bos and GOTO Susumu  \
+  " Low-order modelling of turbulent quasi-cyclic behaviour and sudden relaminarisation" \
+  [TSFP12](https://www.tsfp12.org/) \
+  Online, 19-22/07/2022
+- **ARAKI Ryo**, Wouter J. T. Bos and GOTO Susumu  \
   "Minimal modelling of the quasi-periodic behaviour of turbulence" ([Slide](http://chb.ec-lyon.fr/news/2021/pdf-astroflu5/araki.pdf)) \
   [ERCOFTAC Workshop ASTROFLU V](http://chb.ec-lyon.fr/news/2021/ERCOFTAC_workshop_December_7_8/) \
   École Centrale de Lyon, 7-8/12/2021
