@@ -20,6 +20,14 @@ tags:
 
 ## Boulder School for Condensed Matter and Materials Physicsとは
 
+[公式サイト](https://boulderschool.yale.edu/)より概要を引用します：
+
+> The Boulder School in Condensed Matter and Materials Physics provides education for advanced graduate students and postdoctoral fellows working in condensed matter physics, materials science and related fields. The goal is to enable students to work at the frontiers of science and technology by providing expert training not easily available within the traditional system of graduate education and postdoctoral apprenticeship. The School, which is supported by the National Science Foundation and the University of Colorado, will meet annually during July in Boulder Colorado.
+
+「従来の大学院やポスドクの教育課程では容易に得られなかった...」とあるように，単一の大学院や研究室ではなかなか勉強できないさまざまなトピックを集中的に学ぶ機会を作ることが第一の目標なようです．
+
+このサマースクールはUniversity of Colorado, Boulderの[Leo Radzihovsky教授](http://spot.colorado.edu/~radzihov/)を中心として2000年から開催されており，2022年で22回目（2020年はCOVID-19パンデミックのため一年延期）を迎えています．
+
 ## 参加までの手続き
 
 ある年のテーマは前年のサマースクール開催中には発表されているようです．
