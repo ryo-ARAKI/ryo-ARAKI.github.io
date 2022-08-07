@@ -6,6 +6,10 @@ tags:
   - 留学
 ---
 
+<div style="text-align: center;">
+<img src='/images/2022_BSS/Farrand_field.jpg' width="600">
+</div>
+
 ## アブストラクト
 
 - 2022年の7月にUniversity of Colorado, Boulderで開催された[Boulder School 2022: Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)に参加した
@@ -48,9 +52,19 @@ tags:
 
 ## BoulderとUniversity of Colorado, Boulderの紹介
 
+<div style="text-align: center;">
+<img src='/images/2022_BSS/Colorado_State_Capitol_building.jpg' width="600">
+<figcaption align = "center">Denverには州会議事堂があります．ここでは妊娠中絶の違法化に反対するデモがおこなわれていました．</figcaption>
+</div>
+
 Boulderはアメリカ西部にある（とWikipediaに書いていましたが中部と言ったほうがよい気がします）Colorado州にある都市で，州都であり国際空港をもつDenverからバスに乗って一時間弱の距離にあります．
 陸上選手が高地トレーニングをするくらい標高が高く（Denverは"mile high city"（1マイル=約1.6km）と呼ばれています），到着して数日は頭痛や手足のしびれを感じるかもしれません．
 私の場合，Denverに到着した日は大丈夫だったものの，翌朝起きるとしんどくて大変でした．
+
+<div style="text-align: center;">
+<img src='/images/2022_BSS/BCycle.jpg' width="600">
+<figcaption align = "center">キャンパス内にあるシェアサイクルのスタンド．</figcaption>
+</div>
 
 街にはいたるところに電動シェアサイクルのスタンドがあります．
 大学のキャンパスはBoulderの中心街から丘を登った先にあり，徒歩はそこそこしんどいのでシェアサイクルのアプリを入れておくことを強くおすすめします．
@@ -60,8 +74,20 @@ Boulderの中心街にはPearl Streetという歩行者天国の区間があり�
 参加者の中には週に何度もパブに繰り出している人もいました．
 Colorado州はクラフトビールのブリュワリーが数多くあることで有名なので，いろいろなパブを巡って飲み比べするのも楽しいと思います．
 
+<div style="text-align: center;">
+<img src='/images/2022_BSS/physics_building.jpg' width="370">
+<img src='/images/2022_BSS/campus_stadium.jpg' width="370">
+<figcaption align = "center">University of Colorado, Boulderのキャンパスの様子．左は講義がおこなわれる物理学科の建物で右はアメフトスタジアム．</figcaption>
+</div>
+
 先程述べたようにUniversity of Colorado, Boulderのキャンパスは中心街から丘を登った先にあり，ロッキー山脈の石や煉瓦を使った統一感のある建物が並んでいます．
 キャンパスには緑も多く，到着して巨大なアメフトスタジアムを見たときは「アメリカの大学だ！」と感じました（筆者はフランスの学校でPhDをしています）．
+
+<div style="text-align: center;">
+<img src='/images/2022_BSS/campus_residence.jpg' width="370">
+<img src='/images/2022_BSS/dormitory.jpg' width="370">
+<figcaption align = "center">期間中滞在する学生寮は池のほとりにあります．右は室内の様子．</figcaption>
+</div>
 
 ## Boulder School 2022について
 
@@ -76,6 +102,11 @@ Colorado州はクラフトビールのブリュワリーが数多くあること
 
 ### 一週間のスケジュール
 
+<div style="text-align: center;">
+<img src='/images/2022_BSS/poster_session.jpg' width="600">
+<figcaption align = "center">ポスターセッションの様子．3時間ほどマスクをつけて議論をした後なので疲れていますね．</figcaption>
+</div>
+
 一週間での計15コマを5名の講師が担当する（一人あたり3コマ）のが基本のスタイルです．
 また，第1-3週目の木曜の夜にはポスターセッションがあり，ここでは参加者のほとんどが自身の研究について発表します．
 ここでも講義に劣らず幅広いトピックの発表があり，とても楽しかったです．
@@ -86,6 +117,11 @@ Colorado州はクラフトビールのブリュワリーが数多くあること
 印象に残っているのは「なぜ理学部での流体力学の講義は（工学部に比べて）貧弱なのか？」というもので，日本以外でも同じなんだなと感じました．
 
 ### Tシャツコンペティションについて
+
+<div style="text-align: center;">
+<img src='/images/2022_BSS/t_shirt.png' width="600">
+<figcaption align = "center">Tシャツ背面のK\'arman渦列が山脈に相転移（？）していくデザインがお気に入りです．</figcaption>
+</div>
 
 Boulder Schoolでは毎年参加者によるTシャツのデザインコンペがあり，最も票を集めた2つの案を表と裏にプリントしたものが最終週に配布されます（私が参加した2022年のTシャツデザインは[ここ](https://boulderschool.yale.edu/2022/boulder-school-2022-tee-shirts)から見ることができます）．
 デザインの募集はサマースクールの開始前から始まっているので，Illustratorなどを使える方は是非チャレンジしてみると良いと思います．
