@@ -20,11 +20,11 @@ author_profile: true
 - Tomohiro Tanogami and **ARAKI Ryo** \
   "Information-Thermodynamic Bound on Information Flow in Turbulent Cascade" [arXiv link](https://arxiv.org/abs/2206.11163)
 
-- **ARAKI Ryo**, Wouter J. T. Bos, and GOTO Susumu \
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Minimal modeling of the intrinsic cycle of turbulence driven by steady forcing" [arXiv link](https://arxiv.org/abs/2112.03417)
 
 ## Published
 
-- **ARAKI Ryo** and GOTO Susumu  \
+- **ARAKI Ryo** and Susumu Goto  \
   "Quasiperiodic fluctuations of von Kármán turbulence driven by viscous stirring" \
   Physical Review Fluids, **6**, 084603 (2021) [doi link](https://doi.org/10.1103/PhysRevFluids.6.084603)
