@@ -25,11 +25,17 @@ author_profile: true
   "Predator-prey modeling of large-scale energy fluctuations in turbulence" \
   [EuroMech colloquium 620: Extreme dissipation and intermittency in turbulence](https://620.euromech.org/) \
   Online, 17-19/5/2021
-
 - **ARAKI Ryo** and GOTO Susumu  \
   "Large Spatio-temporal Fluctuation and Energy Cascade Dynamics in von Kármán Turbulence" \
   The 16th International Conference on Flow Dynamics, oral presentation \
   Sendai, 6-8/11/2019
+
+## Poster presentaion
+
+- **ARAKI Ryo** \
+  "Intrinsic periodicity of turbulence and its minimal modeling/Turbulence without spatially non-local interactions/Information-thermodynamic description of energy cascade" ([Slide](https://boulderschool.yale.edu/sites/default/files/202207_boulder_poster.png)) \
+  [Boulder School 2022: Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022) \
+  University of Colorado, Boulder, 4-29/07/2022
 
 ## 日本語での発表
 
