@@ -13,19 +13,19 @@ author_profile: true
   "Navier-Stokes turbulence without spatially non-local interactions" \
   [EFMC14](https://www.erasmus.gr/microsites/1240) \
   Athens, Greece, 13-16/09/2022
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto  \
-  " Low-order modelling of turbulent quasi-cyclic behaviour and sudden relaminarisation" \
+- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+  "Low-order modelling of turbulent quasi-cyclic behaviour and sudden relaminarisation" \
   [TSFP12](https://www.tsfp12.org/) \
   Online, 19-22/07/2022
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto  \
+- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Minimal modelling of the quasi-periodic behaviour of turbulence" ([Slide](http://chb.ec-lyon.fr/news/2021/pdf-astroflu5/araki.pdf)) \
   [ERCOFTAC Workshop ASTROFLU V](http://chb.ec-lyon.fr/news/2021/ERCOFTAC_workshop_December_7_8/) \
   École Centrale de Lyon, 7-8/12/2021
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto  \
+- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "The intrinsic periodicity of turbulence and its minimal model" \
   [GDR Navier-Stokes 2.00](https://gdr-turbulence.universite-lyon.fr/reunion-2021-des-gdr-turbulence-ns2-00-173050.kjsp) \
   Université Paris-Saclay, 27-29/10/2021
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto  \
+- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Predator-prey modeling of large-scale energy fluctuations in turbulence" \
   [EuroMech colloquium 620: Extreme dissipation and intermittency in turbulence](https://620.euromech.org/) \
   Online, 17-19/5/2021
