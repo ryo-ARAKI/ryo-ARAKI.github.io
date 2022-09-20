@@ -11,11 +11,11 @@ author_profile: true
 
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Navier-Stokes turbulence without spatially non-local interactions" \
-  [EFMC14](https://www.erasmus.gr/microsites/1240) \
+  [14th European Fluid Mechanics Conference (EFMC14)](https://www.erasmus.gr/microsites/1240) \
   Megaron Athens International Conference Centre, Athens, Greece, 13-16/09/2022
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Low-order modelling of turbulent quasi-cyclic behaviour and sudden relaminarisation" \
-  [TSFP12](https://www.tsfp12.org/) \
+  [Twelfth International Symposium on Turbulence and Shear Flow Phenomena (TSFP12)](https://www.tsfp12.org/) \
   Online, 19-22/07/2022
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Minimal modelling of the quasi-periodic behaviour of turbulence" ([Slide](http://chb.ec-lyon.fr/news/2021/pdf-astroflu5/araki.pdf)) \
@@ -31,7 +31,7 @@ author_profile: true
   Online, 17-19/5/2021
 - **ARAKI Ryo** and Susumu Goto  \
   "Large Spatio-temporal Fluctuation and Energy Cascade Dynamics in von Kármán Turbulence" \
-  [The 16th International Conference on Flow Dynamics](http://www.ifs.tohoku.ac.jp/icfd2019/) \
+  [Sixteenth International Conference on Flow Dynamics (ICFD16)](http://www.ifs.tohoku.ac.jp/icfd2019/) \
   Sendai International Center, Sendai, Japan, 6-8/11/2019
 
 ## Poster presentaion
