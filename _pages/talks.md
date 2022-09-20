@@ -9,6 +9,10 @@ author_profile: true
 
 ## Oral Presentation
 
+- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+  "Navier-Stokes turbulence without spatially non-local interactions" \
+  [EFMC14](https://www.erasmus.gr/microsites/1240) \
+  Athens, Greece, 13-16/09/2022
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto  \
   " Low-order modelling of turbulent quasi-cyclic behaviour and sudden relaminarisation" \
   [TSFP12](https://www.tsfp12.org/) \
