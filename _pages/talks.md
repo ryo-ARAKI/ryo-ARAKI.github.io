@@ -12,7 +12,7 @@ author_profile: true
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Navier-Stokes turbulence without spatially non-local interactions" \
   [EFMC14](https://www.erasmus.gr/microsites/1240) \
-  Athens, Greece, 13-16/09/2022
+  Megaron Athens International Conference Centre, Athens, Greece, 13-16/09/2022
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Low-order modelling of turbulent quasi-cyclic behaviour and sudden relaminarisation" \
   [TSFP12](https://www.tsfp12.org/) \
@@ -20,11 +20,11 @@ author_profile: true
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Minimal modelling of the quasi-periodic behaviour of turbulence" ([Slide](http://chb.ec-lyon.fr/news/2021/pdf-astroflu5/araki.pdf)) \
   [ERCOFTAC Workshop ASTROFLU V](http://chb.ec-lyon.fr/news/2021/ERCOFTAC_workshop_December_7_8/) \
-  École Centrale de Lyon, 7-8/12/2021
+  École Centrale de Lyon, Lyon, France, 7-8/12/2021
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "The intrinsic periodicity of turbulence and its minimal model" \
   [GDR Navier-Stokes 2.00](https://gdr-turbulence.universite-lyon.fr/reunion-2021-des-gdr-turbulence-ns2-00-173050.kjsp) \
-  Université Paris-Saclay, 27-29/10/2021
+  Université Paris-Saclay, Paris, France, 27-29/10/2021
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Predator-prey modeling of large-scale energy fluctuations in turbulence" \
   [EuroMech colloquium 620: Extreme dissipation and intermittency in turbulence](https://620.euromech.org/) \
@@ -32,14 +32,14 @@ author_profile: true
 - **ARAKI Ryo** and Susumu Goto  \
   "Large Spatio-temporal Fluctuation and Energy Cascade Dynamics in von Kármán Turbulence" \
   [The 16th International Conference on Flow Dynamics](http://www.ifs.tohoku.ac.jp/icfd2019/) \
-  Sendai, 6-8/11/2019
+  Sendai International Center, Sendai, Japan, 6-8/11/2019
 
 ## Poster presentaion
 
 - **ARAKI Ryo** \
   "Intrinsic periodicity of turbulence and its minimal modeling/Turbulence without spatially non-local interactions/Information-thermodynamic description of energy cascade" ([Poster](https://boulderschool.yale.edu/sites/default/files/202207_boulder_poster.png)) \
   [Boulder School 2022: Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022) \
-  University of Colorado, Boulder, 4-29/07/2022
+  University of Colorado, Boulder, USA, 4-29/07/2022
 
 ## 日本語での発表
 
