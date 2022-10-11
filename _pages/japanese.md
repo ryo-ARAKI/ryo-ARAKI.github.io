@@ -7,7 +7,7 @@ author_profile: true
 
 ## 所属
 
-博士後期課程2年（ダブル・ディグリープログラム）
+博士後期課程3年（ダブル・ディグリープログラム）
 
 - [Laboratoire de Mécanique des Fluides et d’Acoustique (LMFA)](http://lmfa.ec-lyon.fr/), École Centrale de Lyon
 - 大阪大学基礎工学研究科[流体力学グループ（後藤研究室）](http://fm.me.es.osaka-u.ac.jp/)

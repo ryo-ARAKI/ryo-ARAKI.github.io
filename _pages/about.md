@@ -20,7 +20,7 @@ At the EFMC14 in Athens, Greece, on September 2022.
 
 ## Current Affiliation
 
-Second year of Ph.D student (Double-degree program) at
+Third year of Ph.D student (Double-degree program) at
 
 - [Laboratoire de Mécanique des Fluides et d’Acoustique (LMFA)](http://lmfa.ec-lyon.fr/), École Centrale de Lyon
 - [Fluid Mechanics Group (Goto Laboratory)](http://fm.me.es.osaka-u.ac.jp/), Graduate School of Engineering Science, Osaka University
