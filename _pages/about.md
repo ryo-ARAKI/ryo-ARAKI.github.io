@@ -11,11 +11,11 @@ redirect_from:
 Welcome to ARAKI Ryo's website!
 
 <div style="text-align:center">
-<img src='/images/201909_EnjoyHonda.png' width="400">
+<img src='/images/202209_EFMC14.JPG' width="700">
 </div>
 
 <div style="text-align:right;">
-At the "Enjoy Honda 2019" with 2019 Toro Rosso Honda F1 car.
+At the EFMC14 in Athens, Greece, on September 2022.
 </div>
 
 ## Current Affiliation
