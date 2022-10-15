@@ -12,7 +12,7 @@ author_profile: true
 - [Laboratoire de Mécanique des Fluides et d’Acoustique (LMFA)](http://lmfa.ec-lyon.fr/), École Centrale de Lyon
 - 大阪大学基礎工学研究科[流体力学グループ（後藤研究室）](http://fm.me.es.osaka-u.ac.jp/)
 
-### 学会
+### 所属学会
 
 - 日本物理学会
 - 日本機械学会
@@ -42,6 +42,6 @@ author_profile: true
 
 ## 興味のあること
 
-- 乱流，とくにエネルギカスケードの動力学
-- 情報熱力学
+- 乱流，とくにそのエネルギ・カスケード機構に関する動力学
+- 情報理論と情報熱力学
 - アクティブマター

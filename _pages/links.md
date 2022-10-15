@@ -21,7 +21,7 @@ redirect_from:
 
 ## Supervisors
 
-- [Prof. GOTO Susumu](http://fm.me.es.osaka-u.ac.jp/goto/) of Osaka University
+- [Prof. Susumu Goto](http://fm.me.es.osaka-u.ac.jp/goto/) of Osaka University
 - [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) of École Centrale de Lyon
 
 ## Friends

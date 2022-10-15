@@ -18,7 +18,7 @@ author_profile: true
 ## Preprint
 
 - Tomohiro Tanogami and **ARAKI Ryo** \
-  "Information-Thermodynamic Bound on Information Flow in Turbulent Cascade" [arXiv link](https://arxiv.org/abs/2206.11163)
+  "Information-thermodynamic bound on information flow in turbulent cascade" [arXiv link](https://arxiv.org/abs/2206.11163)
 
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Minimal modeling of the intrinsic cycle of turbulence driven by steady forcing" [arXiv link](https://arxiv.org/abs/2112.03417)
