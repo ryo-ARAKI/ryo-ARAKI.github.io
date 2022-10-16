@@ -32,7 +32,7 @@ redirect_from:
   - **Supervisor** [Dr. David Moxey](https://davidmoxey.uk/)
 
 - **08/2014-09/2014 Research Internship**
-  - **Place** The University College London, UK
+  - **Place** University College London, UK
   - **Project** Contribute to research projects at Pedestrian Accessibility Movement Environment Laboratory (PAMELA).
 
 ## Skills
