@@ -5,6 +5,8 @@ permalink: /japanese/
 author_profile: true
 ---
 
+## 氏名
+
 荒木 亮（あらき りょう）
 
 ## 所属
