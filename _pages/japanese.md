@@ -5,6 +5,7 @@ permalink: /japanese/
 author_profile: true
 ---
 
+荒木 亮（あらき りょう）
 ## 所属
 
 博士後期課程3年（ダブル・ディグリープログラム）
