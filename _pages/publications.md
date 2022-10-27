@@ -17,9 +17,10 @@ author_profile: true
 
 ## Preprint
 
+- **ARAKI Ryo** and Wouter J. T. Bos \
+  "Inertial range scaling of inhomogeneous turbulence" [arXiv link](https://arxiv.org/abs/2210.14516)
 - Tomohiro Tanogami and **ARAKI Ryo** \
   "Information-thermodynamic bound on information flow in turbulent cascade" [arXiv link](https://arxiv.org/abs/2206.11163)
-
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Minimal modeling of the intrinsic cycle of turbulence driven by steady forcing" [arXiv link](https://arxiv.org/abs/2112.03417)
 
