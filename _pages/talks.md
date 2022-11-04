@@ -10,6 +10,10 @@ author_profile: true
 ## Oral Presentation
 
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+  "Space-locality versus scale-locality in turbulence" \
+  [Réunion du GDR Navier-Stokes 2.00](https://gdr-turbulence.universite-lyon.fr/reunion-2022-du-gdr-ns-2-00-lille-programme-283832.kjsp) \
+  Centrale Lille, Villeneuve d’Ascq, France, 2-4/11/2022
+- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Navier-Stokes turbulence without spatially non-local interactions" \
   [14th European Fluid Mechanics Conference (EFMC14)](https://www.erasmus.gr/microsites/1240) \
   Megaron Athens International Conference Centre, Athens, Greece, 13-16/09/2022
