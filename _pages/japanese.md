@@ -45,7 +45,7 @@ author_profile: true
   - **場所** University College London（英国）
   - **プロジェクト** Pedestrian Accessibility Movement Environment Laboratory (PAMELA) における研究補助
 
-### 奨学金/研究費
+## 奨学金/研究費
 
 - **2020年10月- 海外留学奨学生** [竹中育英会](https://www.takenaka-ikueikai.or.jp/)
   - 授業料，¥1,200,000/年を上限とする研究補助費および¥2,000,000/年の滞在費
