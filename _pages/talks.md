@@ -32,7 +32,7 @@ author_profile: true
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Predator-prey modeling of large-scale energy fluctuations in turbulence" \
   [EuroMech colloquium 620: Extreme dissipation and intermittency in turbulence](https://620.euromech.org/) \
-  Online, 17-19/5/2021
+  Online, 17-19/05/2021
 - **ARAKI Ryo** and Susumu Goto  \
   "Large Spatio-temporal Fluctuation and Energy Cascade Dynamics in von Kármán Turbulence" \
   [Sixteenth International Conference on Flow Dynamics (ICFD16)](http://www.ifs.tohoku.ac.jp/icfd2019/) \
