@@ -34,7 +34,7 @@ author_profile: true
   [EuroMech colloquium 620: Extreme dissipation and intermittency in turbulence](https://620.euromech.org/) \
   Online, 17-19/05/2021
 - **ARAKI Ryo** and Susumu Goto  \
-  "Large Spatio-temporal Fluctuation and Energy Cascade Dynamics in von Kármán Turbulence" \
+  "Large spatio-temporal fluctuation and energy cascade dynamics in von Kármán turbulence" \
   [Sixteenth International Conference on Flow Dynamics (ICFD16)](http://www.ifs.tohoku.ac.jp/icfd2019/) \
   Sendai International Center, Sendai, Japan, 6-8/11/2019
 
