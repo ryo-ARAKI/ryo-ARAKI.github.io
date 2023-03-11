@@ -10,6 +10,10 @@ author_profile: true
 ## Oral Presentation
 
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+  "Space-local turbulence" \
+  [APS March Meeting 2023](https://march.aps.org/) \
+  Caesars Forum Convention Center, Las Vegas, Nevada, USA. 5-10/3/2023
+- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Space-locality versus scale-locality in turbulence" \
   [Réunion du GDR Navier-Stokes 2.00](https://gdr-turbulence.universite-lyon.fr/reunion-2022-du-gdr-ns-2-00-lille-programme-283832.kjsp) \
   Centrale Lille, Villeneuve d’Ascq, France, 2-4/11/2022
