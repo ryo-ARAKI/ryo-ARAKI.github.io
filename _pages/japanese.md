@@ -15,6 +15,9 @@ author_profile: true
 
 - [Laboratoire de Mécanique des Fluides et d’Acoustique (LMFA)](http://lmfa.ec-lyon.fr/), École Centrale de Lyon
 - 大阪大学基礎工学研究科[流体力学グループ（後藤研究室）](http://fm.me.es.osaka-u.ac.jp/)
+
+## 書いたものなど
+
 - JSIAM Online Magazineに留学記を寄稿しました：[コロナ禍でのフランスPhD留学記](https://jsiam.org/online_magazine/lab/3572/)
 
 ### 所属学会
