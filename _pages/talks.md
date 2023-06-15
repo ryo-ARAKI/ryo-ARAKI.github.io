@@ -22,7 +22,7 @@ author_profile: true
   [14th European Fluid Mechanics Conference (EFMC14)](https://www.erasmus.gr/microsites/1240) \
   Megaron Athens International Conference Centre, Athens, Greece, 13-16 September 2022
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
-  "Low-order modelling of turbulent quasi-cyclic behaviour and sudden relaminarisation" \
+  "Low-order modelling of turbulent quasi-cyclic behaviour and sudden relaminarisation" ([Proceeding](http://www.tsfp-conference.org/proceedings/2022/36.pdf)) \
   [Twelfth International Symposium on Turbulence and Shear Flow Phenomena (TSFP12)](https://www.tsfp12.org/) \
   Online, 19-22 July 2022
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
