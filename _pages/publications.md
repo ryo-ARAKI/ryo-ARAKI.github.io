@@ -22,7 +22,7 @@ author_profile: true
 - Tomohiro Tanogami and **ARAKI Ryo** \
   "Information-thermodynamic bound on information flow in turbulent cascade" [arXiv link](https://arxiv.org/abs/2206.11163)
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
-  "Minimal modelling of turbulence driven by steady forcing" [arXiv link](https://arxiv.org/abs/2112.03417)
+  "Minimal model of quasi-cyclic behaviour in turbulence driven by Taylor--Green forcing" [arXiv link](https://arxiv.org/abs/2112.03417)
 
 ## Published
 
