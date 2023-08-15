@@ -17,6 +17,8 @@ author_profile: true
 
 ## Preprint
 
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
+  "Space-local Navier--Stokes turbulence" [arXiv link](https://arxiv.org/abs/2308.07255)
 - **ARAKI Ryo** and Wouter J. T. Bos \
   "Inertial range scaling of inhomogeneous turbulence" [arXiv link](https://arxiv.org/abs/2210.14516)
 - Tomohiro Tanogami and **ARAKI Ryo** \
