@@ -10,6 +10,10 @@ author_profile: true
 ## Oral Presentation
 
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+  "Enstrophy flux and physical-space locality in three-dimensional turbulence" \
+  [18th European Turbulence Conference (ETC18)](https://etc18.webs.upv.es/) \
+  Universidad Politécnica de Valencia, Valencia, Spain, 4-6 September 2023
+- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Space-local turbulence" \
   [APS March Meeting 2023](https://march.aps.org/) \
   Caesars Forum Convention Center, Las Vegas, Nevada, USA, 5-10 March 2023 ([Abstract](https://meetings.aps.org/Meeting/MAR23/Session/S18.8))
