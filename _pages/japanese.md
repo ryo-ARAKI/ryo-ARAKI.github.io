@@ -11,14 +11,7 @@ author_profile: true
 
 ## 所属
 
-博士後期課程3年（ダブル・ディグリープログラム）
-
-- [Laboratoire de Mécanique des Fluides et d’Acoustique (LMFA)](http://lmfa.ec-lyon.fr/), École Centrale de Lyon
-- 大阪大学基礎工学研究科[流体力学グループ（後藤研究室）](http://fm.me.es.osaka-u.ac.jp/)
-
-## 書いたものなど
-
-- JSIAM Online Magazineに留学記を寄稿しました：[コロナ禍でのフランスPhD留学記](https://jsiam.org/online_magazine/lab/3572/)
+[東京理科大学](https://www.tus.ac.jp/) [創域理工学部](https://dept.tus.ac.jp/st/) [機械航空宇宙工学科](https://www.rs.tus.ac.jp/me/index.html) [塚原研究室](https://www.rs.tus.ac.jp/~t2lab/index-j.html) 嘱託助教
 
 ### 所属学会
 
@@ -27,6 +20,8 @@ author_profile: true
 
 ## 略歴
 
+- **2023年9月 理学博士号** 大阪大学基礎工学研究科/École Centrale de Lyon（ダブル・ディグリープログラム）
+  - **博士論文** 「乱流運動エネルギカスケードの時空間的特徴」
 - **2020年3月 工学修士号** 大阪大学基礎工学研究科 博士前期課程修了
   - **修士論文** 「von Kármán 乱流の時空間大変動とエネルギカスケードの動力学」
   - **指導教員** [後藤 晋 教授](http://fm.me.es.osaka-u.ac.jp/goto/)
@@ -64,3 +59,7 @@ author_profile: true
 - 乱流，とくにそのエネルギ・カスケード機構に関する動力学
 - 情報理論と情報熱力学
 - アクティブマター
+
+### 書いたものなど
+
+- JSIAM Online Magazineに留学記を寄稿しました：[コロナ禍でのフランスPhD留学記](https://jsiam.org/online_magazine/lab/3572/)
