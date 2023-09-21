@@ -20,21 +20,12 @@ At the EFMC14 in Athens, Greece, on September 2022.
 
 ## Current Affiliation
 
-Third year of Ph.D student (Double-degree program) at
-
-- [Laboratoire de Mécanique des Fluides et d’Acoustique (LMFA)](http://lmfa.ec-lyon.fr/), École Centrale de Lyon
-- [Fluid Mechanics Group (Goto Laboratory)](http://fm.me.es.osaka-u.ac.jp/), Graduate School of Engineering Science, Osaka University
+Assistant professor (fixed-term) at [Tsukahara laboratory](https://www.rs.tus.ac.jp/~t2lab/index-j.html), [Tokyo University of Science](https://www.tus.ac.jp/)
 
 ## Research Interests
 
-- Turbulence, in particular its energy cascade dynamics
-- Information theory and information thermodynamics
-- Active Matter
-
-## Membership
-
-- The Physical Society of Japan
-- The Japan Society of Mechanical Engineers
+- Turbulence (energy cascade dynamics, information-theoretic description)
+- Active matter
 
 ----
 
@@ -43,5 +34,5 @@ Third year of Ph.D student (Double-degree program) at
 </div>
 
 <div style="text-align: right;">
-Amanohashidate (天橋立, "the bridge to heaven") in my hometown Miyazu-shi, Kyoto, Japan.
+Amano-hashidate (天橋立, "the bridge to heaven") in my hometown Miyazu-shi, Kyoto, Japan.
 </div>
