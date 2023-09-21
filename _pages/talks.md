@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## Oral Presentation
+## Oral Presentations
+
+I have attended conferences including ETC, EFMC, TSFP, APS, and many others.
 
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Enstrophy flux and physical-space locality in three-dimensional turbulence" \
@@ -46,7 +48,7 @@ author_profile: true
   [Sixteenth International Conference on Flow Dynamics (ICFD16)](http://www.ifs.tohoku.ac.jp/icfd2019/) \
   Sendai International Center, Sendai, Japan, 6-8 November 2019
 
-## Poster presentaion
+## Poster presentaions
 
 - **ARAKI Ryo** \
   "Intrinsic periodicity of turbulence and its minimal modeling/Turbulence without spatially non-local interactions/Information-thermodynamic description of energy cascade" ([Poster](https://boulderschool.yale.edu/sites/default/files/202207_boulder_poster.png)) \
