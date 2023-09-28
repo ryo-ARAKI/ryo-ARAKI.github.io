@@ -11,20 +11,24 @@ author_profile: true
 
 ## 所属
 
-[東京理科大学](https://www.tus.ac.jp/) [創域理工学部](https://dept.tus.ac.jp/st/) [機械航空宇宙工学科](https://www.rs.tus.ac.jp/me/index.html) [塚原研究室](https://www.rs.tus.ac.jp/~t2lab/index-j.html) 嘱託助教
+[東京理科大学](https://www.tus.ac.jp/) [創域理工学部](https://dept.tus.ac.jp/st/) [機械航空宇宙工学科](https://www.rs.tus.ac.jp/me/index.html) [塚原研究室](https://www.rs.tus.ac.jp/~t2lab/index-j.html) 嘱託助教（任期つき）
 
 ### 所属学会
 
-- 日本物理学会
-- 日本機械学会
+- 日本物理学会，日本機械学会
+
+### 担当講義
+
+- 機械工学実験，流体力学演習
 
 ## 略歴
 
-- **2023年9月 理学博士号** 大阪大学基礎工学研究科/École Centrale de Lyon（ダブル・ディグリープログラム）
+- **2023年9月 博士（理学）** 大阪大学基礎工学研究科/École Centrale de Lyon（ダブル・ディグリープログラム）
   - **博士論文** 「乱流運動エネルギカスケードの時空間的特徴」
+  - **指導教員** [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189)および[後藤 晋 教授](http://fm.me.es.osaka-u.ac.jp/goto/)
 - **2020年3月 工学修士号** 大阪大学基礎工学研究科 博士前期課程修了
   - **修士論文** 「von Kármán 乱流の時空間大変動とエネルギカスケードの動力学」
-  - **指導教員** [後藤 晋 教授](http://fm.me.es.osaka-u.ac.jp/goto/)
+  - **指導教員** 後藤 晋 教授
   - **基礎工学研究科長賞**
 - **2018年3月 工学学士号** 大阪大学基礎工学部 卒業
 - **2016年3月 工学準学士号** 舞鶴工業高等専門学校 機械工学科卒業
@@ -45,7 +49,7 @@ author_profile: true
 
 ## 奨学金/研究費
 
-- **2020年10月- 海外留学奨学生** [竹中育英会](https://www.takenaka-ikueikai.or.jp/)
+- **2020年10月-2023年9月 海外留学奨学生** [竹中育英会](https://www.takenaka-ikueikai.or.jp/)
   - 授業料，¥1,200,000/年を上限とする研究補助費および¥2,000,000/年の滞在費
 - **2018年4月-2020年3月 マスター21プログラム** [吉田育英会](https://www.ysf.or.jp/index.php)
   - ¥2,420,000（¥960,000/年および海外での研究活動支援費として¥500,000）
@@ -56,10 +60,9 @@ author_profile: true
 
 ## 興味のあること
 
-- 乱流，とくにそのエネルギ・カスケード機構に関する動力学
-- 情報理論と情報熱力学
+- 乱流，とくにそのエネルギ・カスケード機構の動力学や情報理論的側面
 - アクティブマター
 
 ### 書いたものなど
 
-- JSIAM Online Magazineに留学記を寄稿しました：[コロナ禍でのフランスPhD留学記](https://jsiam.org/online_magazine/lab/3572/)
+- （2022年7月）JSIAM Online Magazineに留学記を寄稿しました：[コロナ禍でのフランスPhD留学記](https://jsiam.org/online_magazine/lab/3572/)

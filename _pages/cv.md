@@ -47,7 +47,7 @@ redirect_from:
 
 ## Competitive Scholarships/Funds
 
-- **10/2020- Scholarship at Overseas Educational Institution** [Takenaka Scholarship Foundation](http://www.takenaka-ikueikai.or.jp/en/index.html)
+- **10/2020-09/2023 Scholarship at Overseas Educational Institution** [Takenaka Scholarship Foundation](http://www.takenaka-ikueikai.or.jp/en/index.html)
   - ¥2,000,000 per year for living expense, tuition fees, plus ¥1,200,000 per year as research grant
 - **04/2018-03/2020 Master 21 Program** [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html)
   - Total of ¥2,420,000 (¥960,000 per year plus ¥500,000 for overseas activities)
