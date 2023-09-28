@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Career
+
+- **10/2023- Assistant professor (fixed-term)** Tokyo University of Science
+
 ## Education
 
 - **09/2023 PhD of Science** Osaka University/École Centrale de Lyon (Double degree program)
