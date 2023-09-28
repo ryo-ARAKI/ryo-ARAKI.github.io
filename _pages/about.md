@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to ARAKI Ryo's website!
-
 <div style="text-align:center">
 <img src='/images/202209_EFMC14.JPG' width="700">
 </div>
@@ -20,11 +18,11 @@ At the EFMC14 in Athens, Greece, on September 2022.
 
 ## Current Affiliation
 
-Assistant professor (fixed-term) at [Tsukahara laboratory](https://www.rs.tus.ac.jp/~t2lab/index-j.html), [Tokyo University of Science](https://www.tus.ac.jp/)
+Assistant professor (fixed-term) at [Tsukahara laboratory](https://www.rs.tus.ac.jp/~t2lab/index.html), [Faculty of Science and Technology](https://dept.tus.ac.jp/st/), [Tokyo University of Science](https://www.tus.ac.jp/en/).
 
 ## Research Interests
 
-- Turbulence (energy cascade dynamics, information-theoretic description)
+- Turbulence, in particular its energy cascade dynamics and information-theoretic perspectives.
 - Active matter
 
 ----
