@@ -35,9 +35,7 @@ redirect_from:
     - [Mechanical Science Course/機械科学コース](http://www.me.es.osaka-u.ac.jp/msc/index.html)
 - [École Centrale de Lyon](https://www.ec-lyon.fr/)
   - [Laboratoire de Mécanique des Fluides et d’Acoustique (LMFA)](http://lmfa.ec-lyon.fr/)
-<!--
 - [Université de Lyon](https://www.universite-lyon.fr/)
   - [École doctorale MEGA](https://edmega.universite-lyon.fr/)
--->
 - [Prof. Susumu Goto/後藤晋 教授](http://fm.me.es.osaka-u.ac.jp/goto/) of Osaka University
 - [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) of École Centrale de Lyon
