@@ -59,6 +59,10 @@ I have attended conferences including ETC, EFMC, TSFP, APS, and many others.
 
 ### 学会発表
 
+- **荒木 亮**，Wouter J. T. Bos，後藤 晋，「空間局所にのみ非線形相互作用するNavier-Stokes 乱流」 \
+  [第37回数値流体力学シンポジウム](https://www2.nagare.or.jp/cfd/cfd37/index.html)，口頭発表，名古屋大学，2023年12月15〜17日
+- **荒木 亮**，「乱流の統計的普遍性とエネルギカスケード機構の「忘れっぽさ」」 \
+  [Dynamics Days 2023 Kagurazaka](https://sites.google.com/view/dynamicsdays23/)，ポスター発表，東京理科大学，2023年12月4〜8日
 - **荒木 亮**，Wouter J. T. Bos，後藤 晋，「乱流中の準周期変動の被食者-捕食者モデリング」 \
   [日本物理学会 2021年秋季大会](https://w4.gakkai-web.net/jps_search/2021au/index.html)，口頭発表，東京工業大学（オンライン），2021年9月20〜23日
 - **荒木 亮**，後藤 晋，「粘性駆動されるvon Kármán乱流の準周期変動」 \
