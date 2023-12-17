@@ -28,7 +28,7 @@ author_profile: true
 
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Minimal model of quasi-cyclic behaviour in turbulence driven by Taylor--Green forcing" \\
-  Fluid Dynamics Research, **55** 035507 (2023) [doi link](https://doi.org/10.1088/1873-7005/acdff7) [arXiv link](https://arxiv.org/abs/2112.03417)
+  Fluid Dynamics Research, **55** 035507 (2023) [doi link](https://doi.org/10.1088/1873-7005/acdff7), [arXiv link](https://arxiv.org/abs/2112.03417)
 - **ARAKI Ryo** and Susumu Goto  \
   "Quasiperiodic fluctuations of von Kármán turbulence driven by viscous stirring" \
   Physical Review Fluids, **6**, 084603 (2021) [doi link](https://doi.org/10.1103/PhysRevFluids.6.084603)
