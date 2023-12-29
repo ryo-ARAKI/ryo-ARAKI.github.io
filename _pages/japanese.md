@@ -26,6 +26,7 @@ author_profile: true
 
 ## 略歴
 
+- **2023年10月〜** 現職
 - **2023年9月 博士（理学）** 大阪大学基礎工学研究科/École Centrale de Lyon（ダブル・ディグリープログラム）
   - **博士論文** 「乱流運動エネルギカスケードの時空間的特徴」
   - **指導教員** [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189)および[後藤 晋 教授](http://fm.me.es.osaka-u.ac.jp/goto/)
