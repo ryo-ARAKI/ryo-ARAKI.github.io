@@ -5,24 +5,9 @@ permalink: /japanese/
 author_profile: true
 ---
 
-## 氏名
-
-荒木 亮（あらき りょう）
-
-## 所属
-
-[東京理科大学](https://www.tus.ac.jp/) [創域理工学部](https://dept.tus.ac.jp/st/) [機械航空宇宙工学科](https://www.rs.tus.ac.jp/me/index.html) [塚原研究室](https://www.rs.tus.ac.jp/~t2lab/index-j.html) 嘱託助教（任期つき）
-
-### 所属学会
-
-日本物理学会，日本流体力学会，日本機械学会
-
-### 担当講義
-
-- 2024年度
-  - TBA
-- 2023年度
-  - 機械工学実験，流体力学演習（ともに学部三年次）
+- 氏名：荒木 亮（あらき りょう）
+- 所属：[東京理科大学](https://www.tus.ac.jp/) [創域理工学部](https://dept.tus.ac.jp/st/) [機械航空宇宙工学科](https://www.rs.tus.ac.jp/me/index.html) [塚原研究室](https://www.rs.tus.ac.jp/~t2lab/index-j.html) 嘱託助教（任期つき）
+- 所属学会：日本物理学会，日本流体力学会，日本機械学会
 
 ## 略歴
 
@@ -42,7 +27,7 @@ author_profile: true
 - **2019年8月 研究インターンシップ**
   - **場所** 宇宙航空研究開発機構
   - **プロジェクト** 数値流体シミュレーションプログラムの大規模計算に向けた高速化に関する研究
-  - **指導者** 堤 誠司 博士
+  - **指導教員** 堤 誠司 博士
 - **2019年3月〜4月 海外滞在**
   - **場所** University of Exeter（英国）
   - **プロジェクト** 自身の開発するスペクトルFourier要素法プログラムの "adaptive-hybrid parallelisation algorithm" による高速化を主眼とした改善
@@ -50,6 +35,10 @@ author_profile: true
 - **2014年8月〜9月 海外滞在**
   - **場所** University College London（英国）
   - **プロジェクト** Pedestrian Accessibility Movement Environment Laboratory (PAMELA) における研究補助
+
+### 担当講義
+
+- 2023年度：機械工学実験，流体力学演習（ともに学部三年次）
 
 ## 奨学金/研究費
 
@@ -62,11 +51,6 @@ author_profile: true
 - **2017年4月-2018年3月 国内奨学生** [藤井国際奨学財団](https://www.fujii-zaidan.or.jp/)
   - ¥360,000
 
-## 興味のあること
-
-- 乱流，とくにそのエネルギ・カスケード機構の動力学や情報理論的側面
-- アクティブマター
-
-### 書いたものなど
+## 書いたものなど
 
 - （2022年7月）JSIAM Online Magazineに留学記を寄稿しました：[コロナ禍でのフランスPhD留学記](https://jsiam.org/online_magazine/lab/3572/)

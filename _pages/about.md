@@ -23,7 +23,7 @@ Assistant professor (fixed-term) at [Tsukahara laboratory](https://www.rs.tus.ac
 ## Research Interests
 
 - Turbulence, in particular its energy cascade dynamics and information-theoretic perspectives.
-- Active matter
+- "Information hydrodynamics"
 
 ----
 
