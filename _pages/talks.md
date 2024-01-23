@@ -60,7 +60,8 @@ I have attended conferences including ETC, EFMC, TSFP, APS, and many others.
 ### 学会発表
 
 - **荒木 亮**，Wouter J. T. Bos，後藤 晋，「空間局所にのみ非線形相互作用するNavier-Stokes 乱流」 \
-  [第37回数値流体力学シンポジウム](https://www2.nagare.or.jp/cfd/cfd37/index.html)，口頭発表，名古屋大学，2023年12月15〜17日
+  [第37回数値流体力学シンポジウム](https://www2.nagare.or.jp/cfd/cfd37/index.html)，口頭発表，名古屋大学，2023年12月15〜17日 \
+  **若手優秀講演表彰を受賞**
 - **荒木 亮**，Wouter J. T. Bos，後藤 晋，「乱流中の準周期変動の被食者-捕食者モデリング」 \
   [日本物理学会 2021年秋季大会](https://w4.gakkai-web.net/jps_search/2021au/index.html)，口頭発表，東京工業大学（オンライン），2021年9月20〜23日
 - **荒木 亮**，後藤 晋，「粘性駆動されるvon Kármán乱流の準周期変動」 \
@@ -75,7 +76,7 @@ I have attended conferences including ETC, EFMC, TSFP, APS, and many others.
   [日本機械学会 第96期 流体工学部門 講演会](https://www.jsme.or.jp/conference/fedconf18/)，ポスター発表，室蘭工業大学，2018年11月29日〜30日
 - **荒木 亮**，後藤 晋，「閉じた系内の乱流に見られる大規模な時空間変動」 \
   [日本機械学会 関西学生会2017年度学生員卒業研究発表講演会](http://conf.kansai.jsme.or.jp/ksconf18-2/)，口頭発表，甲南大学，2018年3月10日 \
-  **ベストプレゼンテーション賞受賞**
+  **ベストプレゼンテーション賞を受賞**
 
 ### 研究集会等発表
 

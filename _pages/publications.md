@@ -17,6 +17,8 @@ author_profile: true
 
 ## Preprint
 
+- **ARAKI Ryo**, Alberto Vela-Martı́n and Adrián Lozano-Durán \
+  "Forgetfulness of turbulent energy cascade associated with different mechanisms"
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Space-local Navier--Stokes turbulence" [arXiv link](https://arxiv.org/abs/2308.07255)
 - Tomohiro Tanogami and **ARAKI Ryo** \
