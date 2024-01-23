@@ -59,7 +59,8 @@ We further aim to expand information hydrodynamics by taking advantage of the un
 </div>
 
 <div style="text-align: center;">
-(Left) Energy spectrum of turbulent flows driven by different large-scale forcing exhibits different behaviour in the large scales while collapsing in the small scales, indicating the small-scale statistical universality.
+(Left) Energy spectra of turbulent flows driven by different large-scale forcing.
+They exhibit different behaviour in the large scales while collapsing in the small scales, indicating the small-scale statistical universality.
 (Right) Visualisations of large (red), intermediate (yellow), and small (cyan) scale vortices of turbulent flows driven by different large-scale forcing.
 The large-scale vortices constitute distinctive structures influenced by the forcing, while the small-scale vortices of different flows are quite similar to each other.
 </div>
