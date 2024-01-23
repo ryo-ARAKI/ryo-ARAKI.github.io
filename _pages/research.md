@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+日本語で書いた研究紹介は[このページ](https://ryo-araki.github.io/research_jp)を参照してください．
+
 ## Information hydrodynamics
 
 ### Energy cascade and small-scale universality of turbulence

@@ -8,6 +8,7 @@ author_profile: true
 - 氏名：荒木 亮（あらき りょう）
 - 所属：[東京理科大学](https://www.tus.ac.jp/) [創域理工学部](https://dept.tus.ac.jp/st/) [機械航空宇宙工学科](https://www.rs.tus.ac.jp/me/index.html) [塚原研究室](https://www.rs.tus.ac.jp/~t2lab/index-j.html) 嘱託助教（任期つき）
 - 所属学会：日本物理学会，日本流体力学会，日本機械学会
+- 研究テーマ：流体力学，とくに乱流現象の維持機構であるエネルギカスケードの動力学．最近の興味は[情報流体力学による新しい乱流描像の構築](https://ryo-araki.github.io/research_jp)．
 
 ## 略歴
 
