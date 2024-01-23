@@ -18,7 +18,9 @@ redirect_from:
 
 ## Collaborators
 
-- [Tomohiro Tanogami/田之上 智宏](https://sites.google.com/view/tomohiro-tanogami/home)
+- [Adrián Lozano-Durán](https://aeroastro.mit.edu/people/adrian-lozano-duran/) (Massachusetts Institute of Technology)
+- [Alberto Vela-Martı́n](https://scholar.google.com/citations?user=oO6Y6H8AAAAJ) (Universidad Carlos III de Madrid)
+- [Tomohiro Tanogami/田之上 智宏](https://sites.google.com/view/tomohiro-tanogami/home)（Osaka University/阪大）
 
 ## Friends
 
