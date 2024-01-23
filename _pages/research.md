@@ -53,3 +53,13 @@ Building upon this discussion, we have been applying the information thermodynam
 Recently, we proved the existence of information transfer from large to small scales in turbulence, associated with the energy cascade, by the second law of information thermodynamics.
 This approach represents a departure from conventional thermofluid dynamics employed in domains like weather prediction and air conditioner design.
 We further aim to expand information hydrodynamics by taking advantage of the universal laws on information flow discovered by information thermodynamics.
+
+<div style="text-align: center;">
+<img src='/images/information_hydrodynamics.png' width="600">
+</div>
+
+<div style="text-align: center;">
+(Left) Energy spectrum of turbulent flows driven by different large-scale forcing exhibits different behaviour in the large scales while collapsing in the small scales, indicating the small-scale statistical universality.
+(Right) Visualisations of large (red), intermediate (yellow), and small (cyan) scale vortices of turbulent flows driven by different large-scale forcing.
+The large-scale vortices constitute distinctive structures influenced by the forcing, while the small-scale vortices of different flows are quite similar to each other.
+</div>
