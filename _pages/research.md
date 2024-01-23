@@ -55,7 +55,7 @@ This approach represents a departure from conventional thermofluid dynamics empl
 We further aim to expand information hydrodynamics by taking advantage of the universal laws on information flow discovered by information thermodynamics.
 
 <div style="text-align: center;">
-<img src='/images/information_hydrodynamics.png' width="600">
+<img src='/images/information_hydrodynamics.png' width="800">
 </div>
 
 <div style="text-align: center;">
