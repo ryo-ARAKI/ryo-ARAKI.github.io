@@ -19,13 +19,13 @@ author_profile: true
 
 - **ARAKI Ryo**, Alberto Vela-Martı́n and Adrián Lozano-Durán \
   "Forgetfulness of turbulent energy cascade associated with different mechanisms"
-- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
-  "Space-local Navier--Stokes turbulence" [arXiv link](https://arxiv.org/abs/2308.07255)
 - Tomohiro Tanogami and **ARAKI Ryo** \
   "Information-thermodynamic bound on information flow in turbulent cascade" [arXiv link](https://arxiv.org/abs/2206.11163)
 
 ## Published
 
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
+  "Space-local Navier--Stokes turbulence" [doi link](https://doi.org/10.1103/PhysRevFluids.9.014603);  [arXiv link](https://arxiv.org/abs/2308.07255)
 - **ARAKI Ryo** and Wouter J. T. Bos \
   "Inertial range scaling of inhomogeneous turbulence" \
   Journal of Fluid Mechanics, **978** A9 (2024) [doi link](https://doi.org/10.1017/jfm.2023.940); [arXiv link](https://arxiv.org/abs/2210.14516)
