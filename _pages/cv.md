@@ -47,6 +47,8 @@ redirect_from:
 
 ## Competitive Scholarships/Funds
 
+- **4/2024-03/2025 Tokyo University of Science Research Grants**
+  - ¥1,000,000 per year
 - **10/2020-09/2023 Scholarship at Overseas Educational Institution** [Takenaka Scholarship Foundation](http://www.takenaka-ikueikai.or.jp/en/index.html)
   - ¥2,000,000 per year for living expense, tuition fees, plus ¥1,200,000 per year as research grant
 - **04/2018-03/2020 Master 21 Program** [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html)
