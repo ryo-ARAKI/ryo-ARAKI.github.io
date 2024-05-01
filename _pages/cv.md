@@ -9,51 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-## Career
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
-- **10/2023- Assistant professor (fixed-term)** Tokyo University of Science
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-## Education
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-- **09/2023 PhD of Science** Osaka University/École Centrale de Lyon (Double degree program)
-  - **Thesis** "Temporal and Spatial Features of the Turbulent Kinetic Energy Cascade"
-  - **Supervisors** [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) and [Prof. Susumu Goto](http://fm.me.es.osaka-u.ac.jp/goto/)
-- **03/2020 Master of Engineering** Osaka University
-  - **Thesis** "Large Spatio-temporal Fluctuation of von Karman Turbulence and its Energy Cascade Dynamics"
-  - **Supervisor** Prof. Susumu Goto
-  - **Awarded "Graduate School of Engineering Science Outstanding Student Award"**
-- **03/2018 Batchelor of Engineering** Osaka University
-  - **Supervisor** Prof. Susumu Goto
-- **03/2016 Associate Degree of Engineering** National Institute of Technology, Maizuru College
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-## Other experiences
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-- **08/2019 Research Internship**
-  - **Place** The Japan Aerospace Exploration Agency (JAXA), Japan
-  - **Project** Research on acceleration of computational fluid simulation program for large-scale computation.
-  - **Supervisor** Dr. Seiji Tsutsumi
-- **03/2019-04/2019 Visiting Student**
-  - **Place** The University of Exeter, UK
-  - **Project** Improve my spectral element-Fourier method code, especially focus on implementation of "adaptive-hybrid parallelisation algorithm".
-  - **Supervisor** [Dr. David Moxey](https://davidmoxey.uk/)
-- **08/2014-09/2014 Research Internship**
-  - **Place** University College London, UK
-  - **Project** Contribute to research projects at Pedestrian Accessibility Movement Environment Laboratory (PAMELA).
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-## Skills
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
 
-- **Language** Japanese (native), English (fluent, IELTS overall 7.5)
-- **Programming** Fortran, Python, Julia
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-## Competitive Scholarships/Funds
-
-- **4/2024-03/2025 Tokyo University of Science Research Grants**
-  - ¥1,000,000 per year
-- **10/2020-09/2023 Scholarship at Overseas Educational Institution** [Takenaka Scholarship Foundation](http://www.takenaka-ikueikai.or.jp/en/index.html)
-  - ¥2,000,000 per year for living expense, tuition fees, plus ¥1,200,000 per year as research grant
-- **04/2018-03/2020 Master 21 Program** [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html)
-  - Total of ¥2,420,000 (¥960,000 per year plus ¥500,000 for overseas activities)
-- **04/2018-03/2020 Type I Scholarship** (interest-free loan), Japan Student Services Organization
-  - ¥2,112,000 (Exempted from repayment for students who have achieved an especially excellent record)
-- **04/2017-03/2018 Domestic Scholarship Student** [The Fujii International Scholarship Foundation](http://www.fujii-zaidan.or.jp/index.html)
-  - ¥360,000
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
