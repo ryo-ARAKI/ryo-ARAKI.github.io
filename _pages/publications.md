@@ -19,14 +19,17 @@ author_profile: true
 
 ## Preprint
 
-- **ARAKI Ryo**, Alberto Vela-Martı́n and Adrián Lozano-Durán \
-  "Forgetfulness of turbulent energy cascade associated with different mechanisms"
+- Shunsuke Someya, **ARAKI Ryo**, and Takahiro Tsukahara \
+  "CNN for scalar-source distance estimation in grid-generated turbulence"
 
 ## Published
 
+- **ARAKI Ryo**, Alberto Vela-Martı́n, and Adrián Lozano-Durán \
+  "Forgetfulness of turbulent energy cascade associated with different mechanisms" \
+  Journal of Physics: Conference Series, **2753** 012001 [doi link](https://dx.doi.org/10.1088/1742-6596/2753/1/012001) (Open Access)
 - Tomohiro Tanogami and **ARAKI Ryo** \
   "Information-thermodynamic bound on information flow in turbulent cascade" \
-  Physical Review Research, **6** 013090 (2024) [doi link](https://doi.org/10.1103/PhysRevResearch.6.013090); [arXiv link](https://arxiv.org/abs/2206.11163)
+  Physical Review Research, **6** 013090 (2024) [doi link](https://doi.org/10.1103/PhysRevResearch.6.013090) (Open Access); [arXiv link](https://arxiv.org/abs/2206.11163)
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Space-local Navier--Stokes turbulence" \
   Physical Review Fluids, **9** 014603 (2024) [doi link](https://doi.org/10.1103/PhysRevFluids.9.014603);  [arXiv link](https://arxiv.org/abs/2308.07255)
