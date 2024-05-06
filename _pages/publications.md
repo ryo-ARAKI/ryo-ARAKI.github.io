@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
  -->
 
-## Preprint
+## Preprint/submitted
 
 - Shunsuke Someya, **ARAKI Ryo**, and Takahiro Tsukahara \
   "CNN for scalar-source distance estimation in grid-generated turbulence"
