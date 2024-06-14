@@ -9,7 +9,7 @@ author_profile: true
 
 ## Oral Presentations
 
-I have attended conferences including ETC, EFMC, TSFP, APS, and many others.
+List of presentations in which I am the presenter or the corresponding author.
 
 - **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
   "Enstrophy flux and physical-space locality in three-dimensional turbulence" \
@@ -60,6 +60,8 @@ I have attended conferences including ETC, EFMC, TSFP, APS, and many others.
   University of Colorado, Boulder, USA, 4-29 July 2022
 
 ## 日本語での発表
+
+自身が発表 or 責任著者である発表のみ記載している．
 
 ### 学会発表
 
