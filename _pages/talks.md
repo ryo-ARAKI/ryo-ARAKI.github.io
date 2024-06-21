@@ -11,35 +11,35 @@ author_profile: true
 
 List of presentations in which I am the presenter or the corresponding author.
 
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Enstrophy flux and physical-space locality in three-dimensional turbulence" \
   [18th European Turbulence Conference (ETC18)](https://etc18.webs.upv.es/) \
   Universidad Politécnica de Valencia, Valencia, Spain, 4-6 September 2023
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Space-local turbulence" \
   [APS March Meeting 2023](https://march.aps.org/) \
   Caesars Forum Convention Center, Las Vegas, Nevada, USA, 5-10 March 2023 ([Abstract](https://meetings.aps.org/Meeting/MAR23/Session/S18.8))
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Space-locality versus scale-locality in turbulence" \
   [Réunion du GDR Navier-Stokes 2.00](https://gdr-turbulence.universite-lyon.fr/reunion-2022-du-gdr-ns-2-00-lille-programme-283832.kjsp) \
   Centrale Lille, Villeneuve d’Ascq, France, 2-4 November 2022
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Navier-Stokes turbulence without spatially non-local interactions" \
   [14th European Fluid Mechanics Conference (EFMC14)](https://www.erasmus.gr/microsites/1240) \
   Megaron Athens International Conference Centre, Athens, Greece, 13-16 September 2022
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Low-order modelling of turbulent quasi-cyclic behaviour and sudden relaminarisation" ([Proceeding](http://www.tsfp-conference.org/proceedings/2022/36.pdf)) \
   [Twelfth International Symposium on Turbulence and Shear Flow Phenomena (TSFP12)](https://www.tsfp12.org/) \
   Online, 19-22 July 2022
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Minimal modelling of the quasi-periodic behaviour of turbulence" ([Slide](http://chb.ec-lyon.fr/news/2021/pdf-astroflu5/araki.pdf)) \
   [ERCOFTAC Workshop ASTROFLU V](http://chb.ec-lyon.fr/news/2021/ERCOFTAC_workshop_December_7_8/) \
   École Centrale de Lyon, Lyon, France, 7-8 December 2021
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "The intrinsic periodicity of turbulence and its minimal model" \
   [GDR Navier-Stokes 2.00](https://gdr-turbulence.universite-lyon.fr/reunion-2021-des-gdr-turbulence-ns2-00-173050.kjsp) \
   Université Paris-Saclay, Paris, France, 27-29 October 2021
-- **ARAKI Ryo**, Wouter J. T. Bos and Susumu Goto \
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Predator-prey modeling of large-scale energy fluctuations in turbulence" \
   [EuroMech colloquium 620: Extreme dissipation and intermittency in turbulence](https://620.euromech.org/) \
   Online, 17-19 May 2021
