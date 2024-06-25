@@ -11,6 +11,10 @@ author_profile: true
 
 List of presentations in which I am the presenter or the corresponding author.
 
+- **ARAKI Ryo** \
+  "Information Perspectives on Turbulent Cascade" \
+  [Advances in Fluctuating Hydrodynamics: Bridging the Micro and Macro Scales](https://www2.yukawa.kyoto-u.ac.jp/~hydro-2024/home.html) \
+  Kyoto University, Japan, 17-28 July 2024
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Enstrophy flux and physical-space locality in three-dimensional turbulence" \
   [18th European Turbulence Conference (ETC18)](https://etc18.webs.upv.es/) \
@@ -86,6 +90,8 @@ List of presentations in which I am the presenter or the corresponding author.
 
 ### 研究集会等発表
 
+- **荒木 量**，「乱流の「忘れっぽさ」とエネルギカスケードの物理機構」\
+  「非平衡物理学に基づく乱流から惑星規模流の理解」ワークショップ，口頭発表，東京工業大学，2024年6月24日
 - **荒木 亮**，「乱流の統計的普遍性とエネルギカスケード機構の「忘れっぽさ」」 \
   [Dynamics Days 2023 Kagurazaka](https://sites.google.com/view/dynamicsdays23/)，ポスター発表，東京理科大学，2023年12月4〜8日
 - **荒木 亮**，「乱流の普遍性を情報理論から理解する」 \
