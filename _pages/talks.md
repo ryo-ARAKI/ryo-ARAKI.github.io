@@ -11,8 +11,12 @@ author_profile: true
 
 List of presentations in which I am the presenter or the corresponding author.
 
+- **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
+  "$C_\epsilon$-$\mathrm{Re}_\lambda$ scaling of inhomogeneous and unsteady turbulence" \
+  [12th International Conference on Computational Fluid Dynamics (ICCFD12)](https://www.iccfd.org/iccfd12/) \
+  Kobe International Conference Center, Japan, 15-19 July 2024
 - **ARAKI Ryo** \
-  "Information Perspectives on Turbulent Cascade" \
+  "Information perspectives on turbulent cascade" \
   [Advances in Fluctuating Hydrodynamics: Bridging the Micro and Macro Scales](https://www2.yukawa.kyoto-u.ac.jp/~hydro-2024/home.html) ([slide](https://www2.yukawa.kyoto-u.ac.jp/~hydro-2024/slides/hydro2024-Araki.pdf))\
   Kyoto University, Japan, 17-28 July 2024
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
