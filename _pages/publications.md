@@ -19,6 +19,9 @@ author_profile: true
 
 ## Preprint/submitted
 
+- Tomohiro Tanogami and **ARAKI Ryo** \
+  "Scale-to-scale information flow amplifies turbulent fluctuations" \
+  [arXiv link](https://arxiv.org/abs/2408.03635)
 - Shunsuke Someya, **ARAKI Ryo**, and Takahiro Tsukahara \
   "CNN for scalar-source distance estimation in grid-generated turbulence"
 
