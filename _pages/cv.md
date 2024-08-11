@@ -47,7 +47,9 @@ redirect_from:
 
 ## Competitive Scholarships/Funds
 
-- **4/2024-03/2025 Tokyo University of Science Research Grants**
+- **7/2024-3/2026 Grant-in-Aid for Research Activity Start-up** JSPS KAKENHI, [Grant Number JP24K22942](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K22942/)
+  - Total of ¥-,---,---
+- **4/2024-03/2026 Tokyo University of Science Research Grants**
   - ¥1,000,000 per year
 - **10/2020-09/2023 Scholarship at Overseas Educational Institution** [Takenaka Scholarship Foundation](http://www.takenaka-ikueikai.or.jp/en/index.html)
   - ¥2,000,000 per year for living expense, tuition fees, plus ¥1,200,000 per year as research grant
