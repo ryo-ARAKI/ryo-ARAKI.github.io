@@ -11,6 +11,10 @@ author_profile: true
 
 List of presentations in which I am the presenter or the corresponding author.
 
+- **ARAKI Ryo**, Alberto Vela-Martı́n, and Adrián Lozano-Durán \
+  "Information-theoretic description of the "forgetful" energy cascade" \
+  [1st European Fluid Dynamics Conference (EFDC1)](https://efdc1.de/) \
+  RWTH Aachen University, Aachen, Germany, 16-20 September 2024
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "$C_\epsilon$-$\mathrm{Re}_\lambda$ scaling of inhomogeneous and unsteady turbulence" \
   [12th International Conference on Computational Fluid Dynamics (ICCFD12)](https://www.iccfd.org/iccfd12/) \
