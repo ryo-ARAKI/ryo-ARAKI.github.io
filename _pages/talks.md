@@ -100,7 +100,9 @@ List of presentations in which I am the presenter or the corresponding author.
 
 ### 研究集会等発表
 
-- **荒木 量**，「乱流の「忘れっぽさ」とエネルギカスケードの物理機構」\
+- **荒木 亮**，「乱流の中の情報の流れ」 \
+  [流体若手夏の学校 2024](https://sites.google.com/view/ryutaiwakate2024/)，口頭発表，ホテルあかね（神奈川県），2024年8月21〜23日
+- **荒木 亮**，「乱流の「忘れっぽさ」とエネルギカスケードの物理機構」\
   「非平衡物理学に基づく乱流から惑星規模流の理解」ワークショップ，口頭発表，東京工業大学，2024年6月24日
 - **荒木 亮**，「乱流の統計的普遍性とエネルギカスケード機構の「忘れっぽさ」」 \
   [Dynamics Days 2023 Kagurazaka](https://sites.google.com/view/dynamicsdays23/)，ポスター発表，東京理科大学，2023年12月4〜8日
