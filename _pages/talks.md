@@ -77,6 +77,8 @@ List of presentations in which I am the presenter or the corresponding author.
 
 ### 学会発表
 
+- **荒木 亮**，Alberto Vela-Martı́n，Adrián Lozano-Durán，「エネルギカスケードに伴う情報の輸送とその物理機構」 \
+  [日本流体力学会 年会 2024](https://www2.nagare.or.jp/nenkai2024/)，口頭発表，東北大学，2024年9月25日〜27日
 - **荒木 亮**，Wouter J. T. Bos，後藤 晋，「空間局所にのみ非線形相互作用するNavier-Stokes 乱流」 \
   [第37回数値流体力学シンポジウム](https://www2.nagare.or.jp/cfd/cfd37/index.html)，口頭発表，名古屋大学，2023年12月15〜17日 \
   **若手優秀講演表彰を受賞**
