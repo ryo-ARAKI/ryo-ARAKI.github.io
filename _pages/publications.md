@@ -22,6 +22,9 @@ author_profile: true
 - Tomohiro Tanogami and **ARAKI Ryo** \
   "Scale-to-scale information flow amplifies turbulent fluctuations" \
   [arXiv link](https://arxiv.org/abs/2408.03635)
+- Wouter J. T. Bos and **ARAKI Ryo** \
+  "Equilibrium and non-equilibrium statistics in inhomogeneous and unsteady turbulence"
+
 
 ## Published
 
