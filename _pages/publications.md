@@ -23,7 +23,8 @@ author_profile: true
   "Scale-to-scale information flow amplifies turbulent fluctuations" \
   [arXiv link](https://arxiv.org/abs/2408.03635)
 - Wouter J. T. Bos and **ARAKI Ryo** \
-  "Equilibrium and non-equilibrium statistics in inhomogeneous and unsteady turbulence"
+  "Equilibrium and non-equilibrium statistics in inhomogeneous and unsteady turbulence" \
+  [HAL link](https://hal.science/hal-04967602)
 
 
 ## Published
