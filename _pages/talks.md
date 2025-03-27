@@ -55,7 +55,7 @@ List of presentations in which I am the presenter or the corresponding author.
   "Predator-prey modeling of large-scale energy fluctuations in turbulence" \
   [EuroMech colloquium 620: Extreme dissipation and intermittency in turbulence](https://620.euromech.org/) \
   Online, 17-19 May 2021
-- **ARAKI Ryo** and Susumu Goto  \
+- **ARAKI Ryo** and Susumu Goto \
   "Large spatio-temporal fluctuation and energy cascade dynamics in von Kármán turbulence" \
   [Sixteenth International Conference on Flow Dynamics (ICFD16)](http://www.ifs.tohoku.ac.jp/icfd2019/) \
   Sendai International Center, Sendai, Japan, 6-8 November 2019
@@ -100,6 +100,8 @@ List of presentations in which I am the presenter or the corresponding author.
 
 ### 研究集会等発表
 
+- **荒木 亮**，「乱流中の情報輸送の物理機構と情報を保存する乱流モデル」 \
+  [第3回 MfIP連携探索ワークショップ：数学を軸とする新たな価値の探索・創出](https://sites.google.com/view/mfip-matching250314/)，ポスター発表，武蔵野大学 有明キャンパス（東京都），2025年3月14日
 - **荒木 亮**，「乱流の中の情報の流れ」 \
   [流体若手夏の学校 2024](https://sites.google.com/view/ryutaiwakate2024/)，口頭発表，ホテルあかね（神奈川県），2024年8月21〜23日
 - **荒木 亮**，「乱流の「忘れっぽさ」とエネルギカスケードの物理機構」\
