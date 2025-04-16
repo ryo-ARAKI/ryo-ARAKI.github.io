@@ -40,7 +40,7 @@ author_profile: true
   _Physical Review Research_, **6** 013090 (2024) [doi link](https://doi.org/10.1103/PhysRevResearch.6.013090) (Open Access); [arXiv link](https://arxiv.org/abs/2206.11163)
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Space-local Navier--Stokes turbulence" \
-  _Physical Review Fluids_, **9** 014603 (2024) [doi link](https://doi.org/10.1103/PhysRevFluids.9.014603);  [arXiv link](https://arxiv.org/abs/2308.07255)
+  _Physical Review Fluids_, **9** 014603 (2024) [doi link](https://doi.org/10.1103/PhysRevFluids.9.014603); [arXiv link](https://arxiv.org/abs/2308.07255)
 - **ARAKI Ryo** and Wouter J. T. Bos \
   "Inertial range scaling of inhomogeneous turbulence" \
   _Journal of Fluid Mechanics_, **978** A9 (2024) [doi link](https://doi.org/10.1017/jfm.2023.940); [arXiv link](https://arxiv.org/abs/2210.14516)
@@ -48,6 +48,6 @@ author_profile: true
   "Minimal model of quasi-cyclic behaviour in turbulence driven by Taylor--Green forcing" \
   _Fluid Dynamics Research_, **55** 035507 (2023) [doi link](https://doi.org/10.1088/1873-7005/acdff7); [arXiv link](https://arxiv.org/abs/2112.03417) \
   Selected as **"Highlights of 2023"** of _Fluid Dynamics Research_.
-- **ARAKI Ryo** and Susumu Goto  \
+- **ARAKI Ryo** and Susumu Goto \
   "Quasiperiodic fluctuations of von Kármán turbulence driven by viscous stirring" \
   _Physical Review Fluids_, **6** 084603 (2021) [doi link](https://doi.org/10.1103/PhysRevFluids.6.084603)
