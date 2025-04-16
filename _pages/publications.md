@@ -22,13 +22,12 @@ author_profile: true
 - Tomohiro Tanogami and **ARAKI Ryo** \
   "Scale-to-scale information flow amplifies turbulent fluctuations" \
   [arXiv link](https://arxiv.org/abs/2408.03635)
-- Wouter J. T. Bos and **ARAKI Ryo** \
-  "Equilibrium and non-equilibrium statistics in inhomogeneous and unsteady turbulence" \
-  [HAL link](https://hal.science/hal-04967602)
-
 
 ## Published
 
+- Wouter J. T. Bos and **ARAKI Ryo** \
+  "Equilibrium and non-equilibrium statistics in inhomogeneous and unsteady turbulence" \
+  _Physical Review Fluids_, **10** 044603 (2025) [doi link](https://doi.org/10.1103/PhysRevFluids.10.044603); [HAL link](https://hal.science/hal-04967602)
 - Shunsuke Someya, **ARAKI Ryo**, and Takahiro Tsukahara \
   "CNN for scalar-source distance estimation in grid-generated turbulence" \
   _Applied Thermal Engineering_, **258** 124516 (2024) [doi link](https://doi.org/10.1016/j.applthermaleng.2024.124516) (Open Access)
