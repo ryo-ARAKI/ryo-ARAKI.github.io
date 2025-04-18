@@ -63,9 +63,13 @@ List of presentations in which I am the presenter or the corresponding author.
 ## Poster presentaions
 
 - **ARAKI Ryo** \
+  "Information transfer and its mechanism in turbulence" \
+  [CISM-EUROMECH Advanced Course on "Instabilities in Turbulence"](https://cism.it/en/activities/courses/C2501/) \
+  CISM, Udine, Italy, 7-11 April 2025
+- **ARAKI Ryo** \
   "Information flux in turbulence: How does turbulence "forget" about the large scales?" \
   [Current Advances in Turbulence and multiphase flowS - 24CATS](https://groups.oist.jp/24cats) \
-  Okinawa Institute of Science and Technology Graduate University, Japan, 16-19 April 2024
+  Okinawa Institute of Science and Technology Graduate University, Okinawa, Japan, 16-19 April 2024
 - **ARAKI Ryo** \
   "Intrinsic periodicity of turbulence and its minimal modeling/Turbulence without spatially non-local interactions/Information-thermodynamic description of energy cascade" ([Poster](https://boulderschool.yale.edu/sites/default/files/202207_boulder_poster.png)) \
   [Boulder School 2022: Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022) \
