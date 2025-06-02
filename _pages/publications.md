@@ -19,6 +19,10 @@ author_profile: true
 
 ## Preprint/submitted
 
+- Kai Fukami and **ARAKI Ryo** \
+  "Information-theoretic machine learning for time-varying mode decomposition of separated airfoil wakes" \
+  [arXiv `2505.24132`](https://arxiv.org/abs/2505.24132)
+
 ## Published
 
 - Tomohiro Tanogami and **ARAKI Ryo** \
