@@ -75,6 +75,15 @@ List of presentations in which I am the presenter or the corresponding author.
   [Boulder School 2022: Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022) \
   University of Colorado, Boulder, USA, 4-29 July 2022
 
+## Seminars
+
+- **ARAKI Ryo** \
+  "Information-theoretic description of turbulent energy cascade" \
+  [JK-FLOW (Japan-Korea Fluid Mechanics Online Workshop)](https://www.kaif.mech.tohoku.ac.jp/jk-flow), Online, June 6 2025
+- **ARAKI Ryo** \
+  "Energy and information transfer mechanisms in turbulence" \
+  [Prof. Luca Biferale](https://biferale.web.roma2.infn.it/)'s group, University of Rome, Tor Vergata, Italy, April 15 2025
+
 ## 日本語での発表
 
 自身が発表 or 責任著者である発表のみ記載している．
