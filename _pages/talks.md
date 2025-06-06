@@ -60,7 +60,7 @@ List of presentations in which I am the presenter or the corresponding author.
   [Sixteenth International Conference on Flow Dynamics (ICFD16)](http://www.ifs.tohoku.ac.jp/icfd2019/) \
   Sendai International Center, Sendai, Japan, 6-8 November 2019
 
-## Poster presentaions
+## Poster Presentations
 
 - **ARAKI Ryo** \
   "Information transfer and its mechanism in turbulence" \
