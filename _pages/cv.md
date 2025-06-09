@@ -28,16 +28,13 @@ redirect_from:
 
 ## Other experiences
 
-- **08/2019 Research Internship**
-  - **Place** The Japan Aerospace Exploration Agency (JAXA), Japan
+- **08/2019 Research Internship** @The Japan Aerospace Exploration Agency (JAXA), Japan
   - **Project** Research on acceleration of computational fluid simulation program for large-scale computation.
   - **Supervisor** Dr. Seiji Tsutsumi
-- **03/2019-04/2019 Visiting Student**
-  - **Place** The University of Exeter, UK
+- **03/2019-04/2019 Visiting Student** @The University of Exeter, UK
   - **Project** Improve my spectral element-Fourier method code, especially focus on implementation of "adaptive-hybrid parallelisation algorithm".
   - **Supervisor** [Dr. David Moxey](https://davidmoxey.uk/)
-- **08/2014-09/2014 Research Internship**
-  - **Place** University College London, UK
+- **08/2014-09/2014 Research Internship** @University College London, UK
   - **Project** Contribute to research projects at Pedestrian Accessibility Movement Environment Laboratory (PAMELA).
 
 ## Skills

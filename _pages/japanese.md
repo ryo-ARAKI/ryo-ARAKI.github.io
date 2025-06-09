@@ -26,16 +26,13 @@ author_profile: true
 
 ### インターンシップなど
 
-- **2019年8月 研究インターンシップ**
-  - **場所** 宇宙航空研究開発機構
+- **2019年8月 研究インターンシップ** @宇宙航空研究開発機構
   - **プロジェクト** 数値流体シミュレーションプログラムの大規模計算に向けた高速化に関する研究
   - **指導教員** 堤 誠司 博士
-- **2019年3月〜4月 海外滞在**
-  - **場所** University of Exeter（英国）
+- **2019年3月〜4月 海外滞在** @University of Exeter（英国）
   - **プロジェクト** 自身の開発するスペクトルFourier要素法プログラムの "adaptive-hybrid parallelisation algorithm" による高速化を主眼とした改善
   - **指導教員** [Dr. David Moxey](https://davidmoxey.uk/)
-- **2014年8月〜9月 海外滞在**
-  - **場所** University College London（英国）
+- **2014年8月〜9月 海外滞在** @University College London（英国）
   - **プロジェクト** Pedestrian Accessibility Movement Environment Laboratory (PAMELA) における研究補助
 
 ### 担当講義
