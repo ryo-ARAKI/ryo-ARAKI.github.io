@@ -24,7 +24,7 @@ Assistant professor (fixed-term) at [Tsukahara laboratory](https://www.rs.tus.ac
 - Turbulence, in particular its energy cascade dynamics.
 - "Information hydrodynamics" (See [Research](https://ryo-araki.github.io/research) page).
 
-----
+---
 
 <div style="text-align: center;">
 <img src='/images/Amanohashidate.jpg' width="600">
