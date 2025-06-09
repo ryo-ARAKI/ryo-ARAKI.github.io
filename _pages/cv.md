@@ -47,11 +47,11 @@ redirect_from:
 
 ## Competitive Funds
 
-|                     | 2024       | 2025       |
-| ------------------- | ---------- | ---------- |
-| Summary             | ¥2,430,000 | ¥2,300,000 |
-| KAKENHI             | ¥1,430,000 | ¥1,300,000 |
-| TUS Research Grants | ¥1,000,000 | ¥1,000,000 |
+|                     | 2025    | 2024    |
+| ------------------- | ------- | ------- |
+| Summary             | ¥2,300k | ¥2,430k |
+| KAKENHI             | ¥1,300k | ¥1,430k |
+| TUS Research Grants | ¥1,000k | ¥1,000k |
 
 - **7/2024-3/2026 Grant-in-Aid for Research Activity Start-up** JSPS KAKENHI, [Grant Number JP24K22942](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K22942/) (¥2,730,000)
 - **4/2024-03/2026 Next Generation Researcher Support Fund** Tokyo University of Science Research Grants (¥2,000,000)
