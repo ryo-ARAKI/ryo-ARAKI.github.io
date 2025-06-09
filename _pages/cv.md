@@ -45,12 +45,19 @@ redirect_from:
 - **Language** Japanese (native), English (fluent, IELTS overall 7.5)
 - **Programming** Fortran, Python, Julia
 
-## Competitive Scholarships/Funds
+## Competitive Funds
 
-- **7/2024-3/2026 Grant-in-Aid for Research Activity Start-up** JSPS KAKENHI, [Grant Number JP24K22942](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K22942/)
-  - Total of ¥-,---,---
-- **4/2024-03/2026 Next Generation Researcher Support Fund** Tokyo University of Science Research Grants
-  - Total of ¥2,000,000 (¥1,000,000 per year)
+|                     | 2024       | 2025       |
+| ------------------- | ---------- | ---------- |
+| Summary             | ¥2,430,000 | ¥2,300,000 |
+| KAKENHI             | ¥1,430,000 | ¥1,300,000 |
+| TUS Research Grants | ¥1,000,000 | ¥1,000,000 |
+
+- **7/2024-3/2026 Grant-in-Aid for Research Activity Start-up** JSPS KAKENHI, [Grant Number JP24K22942](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K22942/) (¥2,730,000)
+- **4/2024-03/2026 Next Generation Researcher Support Fund** Tokyo University of Science Research Grants (¥2,000,000)
+
+### Scholarships
+
 - **10/2020-09/2023 Scholarship at Overseas Educational Institution** [Takenaka Scholarship Foundation](http://www.takenaka-ikueikai.or.jp/en/index.html)
   - ¥2,000,000 per year for living expense, tuition fees, plus ¥1,200,000 per year as research grant
 - **04/2018-03/2020 Master 21 Program** [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html)
