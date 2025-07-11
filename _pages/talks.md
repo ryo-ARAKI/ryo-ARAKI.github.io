@@ -86,6 +86,11 @@ List of presentations in which I am the presenter or the corresponding author.
 
 自身が発表 or 責任著者である発表のみ記載している．
 
+### セミナー
+
+- **荒木 亮**，「「情報の保存」に基づいたSGSモデルと乱流中の因果関係」\
+  [LES研究会](http://www.iis.u-tokyo.ac.jp/~hamba/les/)，オンライン，2025年7月11日
+
 ### 学会発表
 
 - **荒木 亮**，Alberto Vela-Martı́n，Adrián Lozano-Durán，「エネルギカスケードに伴う情報の輸送とその物理機構」 \
