@@ -40,5 +40,5 @@ redirect_from:
   - [Laboratoire de Mécanique des Fluides et d’Acoustique (LMFA)](http://lmfa.ec-lyon.fr/)
 - [Université de Lyon](https://www.universite-lyon.fr/)
   - [École doctorale MEGA](https://edmega.universite-lyon.fr/)
-- [Prof. Susumu Goto/後藤晋 教授](http://fm.me.es.osaka-u.ac.jp/goto/) of Osaka University
-- [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) of École Centrale de Lyon
+- [Prof. Susumu Goto/後藤晋 教授](http://fm.me.es.osaka-u.ac.jp/goto/) of the University of Osaka
+- [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) of CNRS and École Centrale de Lyon
