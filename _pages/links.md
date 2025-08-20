@@ -20,7 +20,8 @@ redirect_from:
 
 - [Adrián Lozano-Durán](https://aeroastro.mit.edu/people/adrian-lozano-duran/) (Massachusetts Institute of Technology)
 - [Alberto Vela-Martı́n](https://scholar.google.com/citations?user=oO6Y6H8AAAAJ) (Universidad Carlos III de Madrid)
-- [Tomohiro Tanogami/田之上 智宏](https://sites.google.com/view/tomohiro-tanogami/home)（Osaka University/阪大）
+- [Tomohiro Tanogami/田之上 智宏](https://sites.google.com/view/tomohiro-tanogami/home)（The University of Osaka/大阪大学）
+- [Kai Fukami/深見 開](https://sites.google.com/view/kai-fukami/home)（Tohoku University/東北大学）
 
 ## Friends
 
