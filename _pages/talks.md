@@ -18,6 +18,11 @@ author_profile: true
 
 List of presentations in which I am the presenter or the corresponding author.
 
+- **ARAKI Ryo** \
+  "Energy and information transfer mechanisms in developed turbulence"
+  [2nd European Fluid Dynamics Conference (EFDC2)](https://www.efdc2.com/) \
+  University College Dublin, Dublin, Ireland, 26-29 September 2025 \
+  **Mini-symposium keynote**
 - **ARAKI Ryo**, Alberto Vela-Martı́n, and Adrián Lozano-Durán \
   "Information-theoretic description of the "forgetful" energy cascade" \
   [1st European Fluid Dynamics Conference (EFDC1)](https://efdc1.de/) \
