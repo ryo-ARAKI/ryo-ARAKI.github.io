@@ -45,7 +45,8 @@ author_profile: true
   [_Physical Review Fluids_ **9**, 014603 (2024)](https://doi.org/10.1103/PhysRevFluids.9.014603); [arXiv 2308.07255](https://arxiv.org/abs/2308.07255)
 - **ARAKI Ryo** and Wouter J. T. Bos \
   "Inertial range scaling of inhomogeneous turbulence" \
-  [_Journal of Fluid Mechanics_ **978**, A9 (2024)](https://doi.org/10.1017/jfm.2023.940); [arXiv 2210.14516](https://arxiv.org/abs/2210.14516)
+  [_Journal of Fluid Mechanics_ **978**, A9 (2024)](https://doi.org/10.1017/jfm.2023.940); [arXiv 2210.14516](https://arxiv.org/abs/2210.14516) \
+  Selected as **"Runners-up deserving honourable mention"** of _Journal of Fluid Mechanics_'s **Emerging Scholar Best paper 2024**
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Minimal model of quasi-cyclic behaviour in turbulence driven by Taylor--Green forcing" \
   [_Fluid Dynamics Research_ **55**, 035507 (2023)](https://doi.org/10.1088/1873-7005/acdff7); [arXiv 2112.03417](https://arxiv.org/abs/2112.03417) \
