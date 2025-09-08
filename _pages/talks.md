@@ -9,6 +9,10 @@ author_profile: true
 
 ## Seminars
 
+- "Causal mode decomposition of separated aerodynamic flows" \
+  [PhD Seminar Series](https://phd-aerospace.uc3m.es/2025/08/29/phd-seminar-series-how-universal-are-lagrangian-statistics-of-turbulence-insights-from-the-hierarchy-of-coherent-vortices-forgetful-turbulent-energy-cascade/), Universidad Carlos III de Madrid (UC3M), September 4 2025
+- ""Forgetful" turbulent energy cascade" \
+  [Fluid seminar](https://inphyni.univ-cotedazur.eu/fluid-seminar-ryo-araki-tokyo-yusuke-koide-nagoya), Institut de Physique de Nice (INPHYNI), September 2 2025
 - "Information-theoretic description of turbulent energy cascade" \
   [JK-FLOW (Japan-Korea Fluid Mechanics Online Workshop)](https://www.kaif.mech.tohoku.ac.jp/jk-flow), Online, June 6 2025
 - "Energy and information transfer mechanisms in turbulence" \
