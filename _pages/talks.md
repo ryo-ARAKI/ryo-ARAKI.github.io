@@ -21,6 +21,7 @@ author_profile: true
 ## Oral Presentations
 
 List of presentations in which I am the presenter or the corresponding author.
+For the full list, see my [researchmap](https://researchmap.jp/araki.ryo).
 
 - **ARAKI Ryo** \
   "Energy and information transfer mechanisms in developed turbulence"
@@ -93,7 +94,8 @@ List of presentations in which I am the presenter or the corresponding author.
 
 ## 日本語での発表
 
-自身が発表 or 責任著者である発表のみ記載している．
+自身が発表者 or 責任著者である発表のみ記載しています．
+全発表リストは[researchmap](https://researchmap.jp/araki.ryo)を参照してください．
 
 ### セミナー
 
