@@ -9,13 +9,17 @@ author_profile: true
 
 ## Seminars
 
-- "Causal mode decomposition of separated aerodynamic flows" \
+- **ARAKI Ryo** \
+  "Causal mode decomposition of separated aerodynamic flows" \
   [PhD Seminar Series](https://phd-aerospace.uc3m.es/2025/08/29/phd-seminar-series-how-universal-are-lagrangian-statistics-of-turbulence-insights-from-the-hierarchy-of-coherent-vortices-forgetful-turbulent-energy-cascade/), Universidad Carlos III de Madrid (UC3M), September 4 2025
-- ""Forgetful" turbulent energy cascade" \
+- **ARAKI Ryo** \
+  ""Forgetful" turbulent energy cascade" \
   [Fluid seminar](https://inphyni.univ-cotedazur.eu/fluid-seminar-ryo-araki-tokyo-yusuke-koide-nagoya), Institut de Physique de Nice (INPHYNI), September 2 2025
-- "Information-theoretic description of turbulent energy cascade" \
+- **ARAKI Ryo** \
+  "Information-theoretic description of turbulent energy cascade" \
   [JK-FLOW (Japan-Korea Fluid Mechanics Online Workshop)](https://www.kaif.mech.tohoku.ac.jp/jk-flow), Online, June 6 2025
-- "Energy and information transfer mechanisms in turbulence" \
+- **ARAKI Ryo** \
+  "Energy and information transfer mechanisms in turbulence" \
   [Prof. Luca Biferale](https://biferale.web.roma2.infn.it/)'s group, University of Rome, Tor Vergata, Italy, April 15 2025
 
 ## Oral Presentations
@@ -24,7 +28,7 @@ List of presentations in which I am the presenter or the corresponding author.
 For the full list, see my [researchmap](https://researchmap.jp/araki.ryo).
 
 - **ARAKI Ryo** \
-  "Energy and information transfer mechanisms in developed turbulence"
+  "Energy and information transfer mechanisms in developed turbulence" \
   [2nd European Fluid Dynamics Conference (EFDC2)](https://www.efdc2.com/) \
   University College Dublin, Dublin, Ireland, 26-29 September 2025 \
   **Mini-symposium keynote**
@@ -104,24 +108,33 @@ For the full list, see my [researchmap](https://researchmap.jp/araki.ryo).
 
 ### 学会発表
 
-- **荒木 亮**，Alberto Vela-Martı́n，Adrián Lozano-Durán，「エネルギカスケードに伴う情報の輸送とその物理機構」 \
+- **荒木 亮**，Alberto Vela-Martı́n，Adrián Lozano-Durán \
+  「エネルギカスケードに伴う情報の輸送とその物理機構」 \
   [日本流体力学会 年会 2024](https://www2.nagare.or.jp/nenkai2024/)，口頭発表，東北大学，2024年9月25日〜27日
-- **荒木 亮**，Wouter J. T. Bos，後藤 晋，「空間局所にのみ非線形相互作用するNavier-Stokes 乱流」 \
+- **荒木 亮**，Wouter J. T. Bos，後藤 晋 \
+  「空間局所にのみ非線形相互作用するNavier-Stokes 乱流」 \
   [第37回数値流体力学シンポジウム](https://www2.nagare.or.jp/cfd/cfd37/index.html)，口頭発表，名古屋大学，2023年12月15〜17日 \
   **若手優秀講演表彰を受賞**
-- **荒木 亮**，Wouter J. T. Bos，後藤 晋，「乱流中の準周期変動の被食者-捕食者モデリング」 \
+- **荒木 亮**，Wouter J. T. Bos，後藤 晋 \
+  「乱流中の準周期変動の被食者-捕食者モデリング」 \
   [日本物理学会 2021年秋季大会](https://w4.gakkai-web.net/jps_search/2021au/index.html)，口頭発表，東京工業大学（オンライン），2021年9月20〜23日
-- **荒木 亮**，後藤 晋，「粘性駆動されるvon Kármán乱流の準周期変動」 \
+- **荒木 亮**，後藤 晋 \
+  「粘性駆動されるvon Kármán乱流の準周期変動」 \
   [日本物理学会 第76回年次大会](https://w4.gakkai-web.net/jps_search/2021sp/index.html)，口頭発表，東京大学（オンライン），2021年3月12〜15日
-- **荒木 亮**，後藤 晋，「von Kármán乱流中の渦構造とエネルギカスケード機構」 \
+- **荒木 亮**，後藤 晋 \
+  「von Kármán乱流中の渦構造とエネルギカスケード機構」 \
   [日本機械学会 2020 年度年次大会](https://jsmempd.com/conference/jsme_annual/2020/)，口頭発表，名古屋大学（オンライン），2020年9月13〜16日
-- **荒木 亮**，後藤 晋，「von Kármán乱流中の大規模時空間変動とエネルギ・カスケードのダイナミクス」 \
+- **荒木 亮**，後藤 晋 \
+  「von Kármán乱流中の大規模時空間変動とエネルギ・カスケードのダイナミクス」 \
   [日本機械学会 関西支部第95期定時総会講演会](http://conf.kansai.jsme.or.jp/ksconf20/)，口頭発表，同志社大学，2020年3月12日 **開催中止**
-- **荒木 亮**，杉谷 優治，後藤 晋，「von Kármán乱流中の大変動とエネルギ・カスケード過程」（[講演論文](https://www.jstage.jst.go.jp/article/jsmekansai/2019.94/0/2019.94_P035/_article/-char/ja/)） \
+- **荒木 亮**，杉谷 優治，後藤 晋 \
+  「von Kármán乱流中の大変動とエネルギ・カスケード過程」（[講演論文](https://www.jstage.jst.go.jp/article/jsmekansai/2019.94/0/2019.94_P035/_article/-char/ja/)） \
   [日本機械学会 関西支部第94期定時総会講演会](http://conf.kansai.jsme.or.jp/ksconf19/)，ポスター発表，立命館大学，2019年3月11日
-- **荒木 亮**，杉谷 優治，後藤 晋，「von Kármán乱流中の大規模時空間変動」 \
+- **荒木 亮**，杉谷 優治，後藤 晋 \
+  「von Kármán乱流中の大規模時空間変動」 \
   [日本機械学会 第96期 流体工学部門 講演会](https://www.jsme.or.jp/conference/fedconf18/)，ポスター発表，室蘭工業大学，2018年11月29日〜30日
-- **荒木 亮**，後藤 晋，「閉じた系内の乱流に見られる大規模な時空間変動」 \
+- **荒木 亮**，後藤 晋 \
+  「閉じた系内の乱流に見られる大規模な時空間変動」 \
   [日本機械学会 関西学生会2017年度学生員卒業研究発表講演会](http://conf.kansai.jsme.or.jp/ksconf18-2/)，口頭発表，甲南大学，2018年3月10日 \
   **ベストプレゼンテーション賞を受賞**
 
