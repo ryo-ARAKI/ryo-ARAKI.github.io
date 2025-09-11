@@ -1,5 +1,5 @@
 ---
-title: "流体・統計物理関係の国際ワークショップ/スクール情報"
+title: "流体力学・統計物理関係の国際ワークショップ/スクール情報"
 date: 2025-09-11
 permalink: /memo/fluidmech_statphys_workshop_school/
 tags:
@@ -110,8 +110,7 @@ European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の�
 ## その他
 
 - [Gordon Research Conferences](https://www.grc.org/)
-  - [Integrating Theoretical Models and Big Data to Understand Predator-Prey Dynamics](https://www.grc.org/predator-prey-interactions-conference/2026/default.aspx)
-  - January 25 - 30, 2026
+  - January 25 - 30, 2026: [Integrating Theoretical Models and Big Data to Understand Predator-Prey Dynamics](https://www.grc.org/predator-prey-interactions-conference/2026/default.aspx)
 - [Events: Basque Center for Applied Mathematics](https://www.bcamath.org/en/news-events/events)
   - [2nd Bilbao Workshop on Fluid Dynamics](https://www.bcamath.org/events/2ndBiFluidDyn/en/)
 - [Lake Como School of Advanced Studies](https://lakecomoschool.org/)
