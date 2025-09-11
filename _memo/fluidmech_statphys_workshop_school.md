@@ -22,10 +22,16 @@ tags:
 
 アメリカのStanford UniversityのCenter for Turbulence Researchで偶数年に開催される一ヶ月の研究型プログラム．
 
-## [Advanced Summer School on Mathematical Fluids Dynamics](https://mfd.dma.ens.fr/)
+## [Boulder School for Condensed Matter and Materials Physics](https://boulderschool.yale.edu/)
 
-フランスのコルシカ島で奇数年に開催される流体力学の数理面に焦点を当てたサマースクール．
-2027年は7月7-19日．
+アメリカのコロラド大学ボルダー校が毎年夏に開催する1ヶ月間の物理の学校．
+
+- 2022年：[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)（私の[参加記](https://ryo-araki.github.io//memo/2022_Boulder_school/)）
+
+## [Bridges over turbulent matters](https://turbazur.github.io/cargese2025/)
+
+フランスのコルシカ島で2025年10月に開催される2週間の集中コース&ミニプロジェクト．
+第一回は2023年7月に[100 Years of Turbulent Cascades](https://univ-cotedazur.eu/events/turbulence-semester/summer-school)として開催され，参加した．
 
 ## [International Advanced Courses: CISM](https://cism.it/en/activities/courses/)
 
@@ -50,11 +56,6 @@ European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の�
 - 2023年：[Cardiovascular Fluid Mechanics](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2023/)
 - 2019年：[Network Science for Fluid Dynamics](https://www.ercoftac.org/events/ercoftac_montestigliano_spring_school_2/)
 
-## [Bridges over turbulent matters](https://turbazur.github.io/cargese2025/)
-
-フランスのコルシカ島で2025年10月に開催される2週間の集中コース&ミニプロジェクト．
-第一回は2023年7月に[100 Years of Turbulent Cascades](https://univ-cotedazur.eu/events/turbulence-semester/summer-school)として開催され，参加した．
-
 ## [Prague Summer School](https://prague-sum.com/)
 
 チェコのInstitute of Mathematicsで開催される1週間の集中コース．
@@ -67,12 +68,25 @@ European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の�
 ## [Advanced Cources/Conferences/Workshops: CRM](https://www.crm.cat/workshops-conferences/)
 
 スペインのバルセロナにあるCentre de Recerca Matemàtica（CRM）が主催するイベントの一覧．
-2025年10月には[Summer School on Statistical Physics of Complex Systems](https://www.crm.cat/xiii-gefenol-summer-school-on-statistical-physics-of-complex-systems/)が開催される．
+
+- 2025年10月：[Summer School on Statistical Physics of Complex Systems](https://www.crm.cat/xiii-gefenol-summer-school-on-statistical-physics-of-complex-systems/)
 
 <!--
 - Stochastic thermodynamics: theory and experiments, Fèlix Ritort, Universitat de Barcelona
 - Tutorial on Information Theory, Juan Manuel López, Instituto de Física de Cantabria
  -->
+
+## [Conferences: IHES](https://www.ihes.fr/en/events/#conferences)
+
+フランスのパリ近郊にあるInstitut des Hautes Études Scientifiques（IHES）が主催するイベントの一覧．
+
+- 2025年6-7月：[Statistical Aspects of Nonlinear Physics](https://indico.math.cnrs.fr/event/12319/)
+  - StatPhys29のサテライトイベント．
+    竹内さん@東大が講師をされた
+
+## [Advanced Summer School on Mathematical Fluids Dynamics](https://mfd.dma.ens.fr/)
+
+フランスのコルシカ島で奇数年に開催される流体力学の数理面に焦点を当てたサマースクール．
 
 ## [FLOW Schools and Workshops](https://www.flow.kth.se/courses/previous-flow-schools-and-workshops-1.849666)
 
@@ -83,21 +97,6 @@ European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の�
 フランスのマルセイユにあるCentre International de Rencontres Mathématiques（CIRM）という数学の研究所が主催するイベントの一覧．
 
 - 2025年5月：[Physics and Mathematics of hydrodynamic and wave turbulence](https://conferences.cirm-math.fr/3173.html)
-
-## [Boulder School for Condensed Matter and Materials Physics](https://boulderschool.yale.edu/)
-
-アメリカのコロラド大学ボルダー校が毎年夏に開催する1ヶ月間の物理の学校．
-
-- 2022年：[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)
-  - [参加記](https://ryo-araki.github.io//memo/2022_Boulder_school/)
-
-## [Conferences: IHES](https://www.ihes.fr/en/events/#conferences)
-
-フランスのパリ近郊にあるInstitut des Hautes Études Scientifiques（IHES）が主催するイベントの一覧．
-
-- 2025年6-7月：[Statistical Aspects of Nonlinear Physics](https://indico.math.cnrs.fr/event/12319/)
-  - StatPhys29のサテライトイベント．
-    竹内さん@東大が講師をされた
 
 ## [Events: ICTP](https://www.ictp.it/home/scientific-calendar)
 
