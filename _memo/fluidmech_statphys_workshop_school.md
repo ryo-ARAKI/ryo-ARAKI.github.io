@@ -20,7 +20,7 @@ tags:
 
 ## [Summer Program: Center for Turbulence Research](https://ctr.stanford.edu/summer-program)
 
-Stanford UniversityのCenter for Turbulence Researchで偶数年に開催される一ヶ月の研究型プログラム．
+アメリカのStanford UniversityのCenter for Turbulence Researchで偶数年に開催される一ヶ月の研究型プログラム．
 
 ## [Advanced Summer School on Mathematical Fluids Dynamics](https://mfd.dma.ens.fr/)
 
@@ -31,24 +31,24 @@ Stanford UniversityのCenter for Turbulence Researchで偶数年に開催され�
 
 イタリア北部のUdineにあるInternational Centre for Mechanical Sciences（CISM）で開催される1週間の集中コース．
 
-2026年には：
-
-- May 11-15, Fluid Mixing: Fundamentals and Practices
-- June 15-19, Brownian Motion, Hydrodynamics Fluid-Particle Interactions, and Fluctuation-Dissipation Relations
-- July 13-17, Fluid Flow and Geometry: On, In, and Of
-- September 14-18, Continuum Modelling of Complex Fluids
-
-2025年には：
-
-- April 7-11, Instabilities in Turbulence
+- 2026 May 11-15, Fluid Mixing: Fundamentals and Practices
+- 2026 June 15-19, Brownian Motion, Hydrodynamics Fluid-Particle Interactions, and Fluctuation-Dissipation Relations
+- 2026 July 13-17, Fluid Flow and Geometry: On, In, and Of
+- 2026 September 14-18, Continuum Modelling of Complex Fluids
+- 2025 April 7-11, [Instabilities in Turbulence](https://cism.it/en/activities/courses/C2501/)
   - 参加した
-- July 21-25, Non-Spherical Particles in Turbulence
-- September 8-12, Lagrangian Approaches to Multiphysics Two-phase Flows​​​​​​​
+- 2025 July 21-25, [Non-Spherical Particles in Turbulence](https://cism.it/en/activities/courses/C2510/)
+- 2025 September 8-12, [Lagrangian Approaches to Multiphysics Two-phase Flows​​​​​​​](https://cism.it/en/activities/courses/C2512/)
 
 ## [ERCOFTAC event list](https://www.ercoftac.org/events/events_list/)
 
 European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の主催するイベントリスト．
-毎年4月に開催されるのがYoung ERCOFTAC Montestigliano Spring School for Graduate Studentsで，2025年のテーマは[Data-Driven Model Reduction for Dynamical Systems](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2025/)
+毎年4月に開催されるのが[Young ERCOFTAC Montestigliano Spring School for Graduate Students](https://www.ercoftac.org/about/young-ercoftac-spring-school-in-montestigliano/)で，これまでのテーマは
+
+- 2025年：[Data-Driven Model Reduction for Dynamical Systems](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2025/)
+- 2024年：[Quantum Computing and its Application to Fluid Mechanics](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2024/)
+- 2023年：[Cardiovascular Fluid Mechanics](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2023/)
+- 2019年：[Network Science for Fluid Dynamics](https://www.ercoftac.org/events/ercoftac_montestigliano_spring_school_2/)
 
 ## [Bridges over turbulent matters](https://turbazur.github.io/cargese2025/)
 
@@ -59,13 +59,14 @@ European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の�
 
 チェコのInstitute of Mathematicsで開催される1週間の集中コース．
 
-- 2025: Rotation and Fluids
-- 2023: Stochastics in Fluids
-- 2021: Fluids under Control
+- 2025年：Rotation and Fluids
+- 2023年：[Stochastics in Fluids](https://prague-sum.com/stochastics-in-fluids-august-21-august-25-2023/)
+- 2021年：[Fluids under Control](https://prague-sum.com/fluids-under-control-august-2021/)
+- さらに過去：[Past events](https://prague-sum.com/past-events/)を参照
 
 ## [Advanced Cources/Conferences/Workshops: CRM](https://www.crm.cat/workshops-conferences/)
 
-Centre de Recerca Matemàtica（CRM）で開催される1週間の集中コース．
+スペインのバルセロナにあるCentre de Recerca Matemàtica（CRM）が主催するイベントの一覧．
 2025年10月には[Summer School on Statistical Physics of Complex Systems](https://www.crm.cat/xiii-gefenol-summer-school-on-statistical-physics-of-complex-systems/)が開催される．
 
 <!--
@@ -81,17 +82,22 @@ Centre de Recerca Matemàtica（CRM）で開催される1週間の集中コー�
 
 フランスのマルセイユにあるCentre International de Rencontres Mathématiques（CIRM）という数学の研究所が主催するイベントの一覧．
 
-2025年5月には[Physics and Mathematics of hydrodynamic and wave turbulence](https://conferences.cirm-math.fr/3173.html)が開催された．
+- 2025年5月：[Physics and Mathematics of hydrodynamic and wave turbulence](https://conferences.cirm-math.fr/3173.html)
 
 ## [Boulder School for Condensed Matter and Materials Physics](https://boulderschool.yale.edu/)
 
 アメリカのコロラド大学ボルダー校が毎年夏に開催する1ヶ月間の物理の学校．
-2022年には[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)をテーマに開催され，参加した．
+
+- 2022年：[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)
+  - [参加記](https://ryo-araki.github.io//memo/2022_Boulder_school/)
 
 ## [Conferences: IHES](https://www.ihes.fr/en/events/#conferences)
 
 フランスのパリ近郊にあるInstitut des Hautes Études Scientifiques（IHES）が主催するイベントの一覧．
-2025年6-7月には[Statistical Aspects of Nonlinear Physics](https://indico.math.cnrs.fr/event/12319/)がStatPhys29のサテライトイベントとして開催され，竹内さん@東大が講師をされた
+
+- 2025年6-7月：[Statistical Aspects of Nonlinear Physics](https://indico.math.cnrs.fr/event/12319/)
+  - StatPhys29のサテライトイベント．
+    竹内さん@東大が講師をされた
 
 ## [Events: ICTP](https://www.ictp.it/home/scientific-calendar)
 
