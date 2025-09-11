@@ -1,7 +1,7 @@
 ---
 title: "流体・統計物理関係の国際ワークショップ/スクール情報"
 date: 2025-09-11
-permalink: /memo/fluid_statphys_workshop_school/
+permalink: /memo/fluidmech_statphys_workshop_school/
 tags:
 ---
 
