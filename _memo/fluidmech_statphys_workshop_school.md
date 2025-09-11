@@ -26,12 +26,13 @@ tags:
 
 アメリカのコロラド大学ボルダー校が毎年夏に開催する1ヶ月間の物理の学校．
 
-- 2022年：[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)（私の[参加記](https://ryo-araki.github.io//memo/2022_Boulder_school/)）
+- 2022年：[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)（**参加した**．私の[参加記](https://ryo-araki.github.io//memo/2022_Boulder_school/)）
 
 ## [Bridges over turbulent matters](https://turbazur.github.io/cargese2025/)
 
 フランスのコルシカ島で2025年10月に開催される2週間の集中コース&ミニプロジェクト．
-第一回は2023年7月に[100 Years of Turbulent Cascades](https://univ-cotedazur.eu/events/turbulence-semester/summer-school)として開催され，参加した．
+
+- 2023年7月：[100 Years of Turbulent Cascades](https://univ-cotedazur.eu/events/turbulence-semester/summer-school)（**参加した**）
 
 ## [International Advanced Courses: CISM](https://cism.it/en/activities/courses/)
 
@@ -41,22 +42,26 @@ tags:
 - 2026 June 15-19, Brownian Motion, Hydrodynamics Fluid-Particle Interactions, and Fluctuation-Dissipation Relations
 - 2026 July 13-17, Fluid Flow and Geometry: On, In, and Of
 - 2026 September 14-18, Continuum Modelling of Complex Fluids
-- 2025 April 7-11, [Instabilities in Turbulence](https://cism.it/en/activities/courses/C2501/)
-  - 参加した
+- 2025 April 7-11, [Instabilities in Turbulence](https://cism.it/en/activities/courses/C2501/)（**参加した**）
 - 2025 July 21-25, [Non-Spherical Particles in Turbulence](https://cism.it/en/activities/courses/C2510/)
 - 2025 September 8-12, [Lagrangian Approaches to Multiphysics Two-phase Flows​​​​​​​](https://cism.it/en/activities/courses/C2512/)
 
 ## [ERCOFTAC event list](https://www.ercoftac.org/events/events_list/)
 
 European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の主催するイベントリスト．
-毎年4月に開催されるのが[Young ERCOFTAC Montestigliano Spring School for Graduate Students](https://www.ercoftac.org/about/young-ercoftac-spring-school-in-montestigliano/)で，これまでのテーマは
+
+- 2026年3月：[3rd ERCOFTAC "Machine learning for fluid dynamics" workshop](https://ml4fluids2026.github.io/)
+
+### [Young ERCOFTAC Montestigliano Spring School for Graduate Students](https://www.ercoftac.org/about/young-ercoftac-spring-school-in-montestigliano/)
+
+毎年4月に開催される1週間のスプリングスクールで，これまでのテーマは：
 
 - 2025年：[Data-Driven Model Reduction for Dynamical Systems](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2025/)
 - 2024年：[Quantum Computing and its Application to Fluid Mechanics](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2024/)
 - 2023年：[Cardiovascular Fluid Mechanics](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2023/)
 - 2019年：[Network Science for Fluid Dynamics](https://www.ercoftac.org/events/ercoftac_montestigliano_spring_school_2/)
 
-## [Prague Summer School](https://prague-sum.com/)
+### [Prague Summer School](https://prague-sum.com/)
 
 チェコのInstitute of Mathematicsで開催される1週間の集中コース．
 
