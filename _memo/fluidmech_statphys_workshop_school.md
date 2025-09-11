@@ -18,9 +18,9 @@ tags:
 直近では2025年2月（1週間），2023年7-8月（4週間），2021年2月（1週間）．
 2月開催は日本の大学にいると参加しにくい...
 
-## [Summer Program: Center for Turbulence Research](https://ctr.stanford.edu/summer-program)
+## [Summer Program: CTR](https://ctr.stanford.edu/summer-program)
 
-アメリカのStanford UniversityのCenter for Turbulence Researchで偶数年に開催される一ヶ月の研究型プログラム．
+アメリカのスタンフォード大学のCenter for Turbulence Research（CTR）で偶数年に開催される一ヶ月の研究型プログラム．
 
 ## [Boulder School for Condensed Matter and Materials Physics](https://boulderschool.yale.edu/)
 
@@ -36,7 +36,7 @@ tags:
 
 ## [International Advanced Courses: CISM](https://cism.it/en/activities/courses/)
 
-イタリア北部のUdineにあるInternational Centre for Mechanical Sciences（CISM）で開催される1週間の集中コース．
+イタリア北部のウディネにあるInternational Centre for Mechanical Sciences（CISM）で開催される1週間の集中コース．
 
 - 2026 May 11-15, Fluid Mixing: Fundamentals and Practices
 - 2026 June 15-19, Brownian Motion, Hydrodynamics Fluid-Particle Interactions, and Fluctuation-Dissipation Relations
@@ -54,7 +54,7 @@ European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の�
 
 ### [Young ERCOFTAC Montestigliano Spring School for Graduate Students](https://www.ercoftac.org/about/young-ercoftac-spring-school-in-montestigliano/)
 
-毎年4月に開催される1週間のスプリングスクールで，これまでのテーマは：
+イタリアのモンテスティリアーノで毎年4月に開催される1週間のスプリングスクールで，これまでのテーマは：
 
 - 2025年：[Data-Driven Model Reduction for Dynamical Systems](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2025/)
 - 2024年：[Quantum Computing and its Application to Fluid Mechanics](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2024/)
