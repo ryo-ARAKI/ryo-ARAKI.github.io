@@ -89,6 +89,12 @@ European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の�
   - StatPhys29のサテライトイベント．
     竹内さん@東大が講師をされた
 
+## [Program: CECAM](https://www.cecam.org/program?type=all&month=all&location=all)
+
+Centre Européen de Calcul Atomique et Moléculaire（CECAM）が主催するワークショップ，スクール，カンファレンスの一覧．
+
+- 2025年9月：[Dynamics of Non-Equilibrium Variables: Multiscale-multiphysics applications of fluctuating hydrodynamics](https://www.cecam.org/workshop-details/dynamics-of-non-equilibrium-variables-multiscale-multiphysics-applications-of-fluctuating-hydrodynamics-1408)@Universidad de Zaragoza, Spain
+
 ## [Advanced Summer School on Mathematical Fluids Dynamics](https://mfd.dma.ens.fr/)
 
 フランスのコルシカ島で奇数年に開催される流体力学の数理面に焦点を当てたサマースクール．
@@ -110,12 +116,14 @@ European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の�
 ## その他
 
 - [Gordon Research Conferences](https://www.grc.org/)
-  - January 25 - 30, 2026: [Integrating Theoretical Models and Big Data to Understand Predator-Prey Dynamics](https://www.grc.org/predator-prey-interactions-conference/2026/default.aspx)
+  - 2026年1月25-30日：[Integrating Theoretical Models and Big Data to Understand Predator-Prey Dynamics](https://www.grc.org/predator-prey-interactions-conference/2026/default.aspx)
 - [Events: Basque Center for Applied Mathematics](https://www.bcamath.org/en/news-events/events)
   - [2nd Bilbao Workshop on Fluid Dynamics](https://www.bcamath.org/events/2ndBiFluidDyn/en/)
 - [Lake Como School of Advanced Studies](https://lakecomoschool.org/)
 
 ## 単発イベントのリスト
 
-- [Non-Equilibrium Turbulence and Cascade Dynamics](https://www.conferencemanager.dk/phdsummerschoolnon-equilibriumturbulenceandcascadedynamics/conference)@Technical University of Denmark, 12-15 May, 2025
+- 2026年4月13日-6月10日[Mathematical Developments in Geophysical Fluid Dynamics, Paris](https://indico.math.cnrs.fr/event/13866/)@Institut Henri Poincaré, Paris, France
+- 2025年5月12-15日：[Non-Equilibrium Turbulence and Cascade Dynamics](https://www.conferencemanager.dk/phdsummerschoolnon-equilibriumturbulenceandcascadedynamics/conference)@Technical University of Denmark, Denmark
   - [Clara Velte先生](https://orbit.dtu.dk/en/persons/clara-marika-velte)が主催
+- 2025年4月7-11日：[School on Non-Equilibrium Statistical Physics](https://sites.google.com/view/noneqstatphys/home)@University of Barcelona, Spain
