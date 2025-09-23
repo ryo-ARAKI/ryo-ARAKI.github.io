@@ -111,6 +111,10 @@ For the full list, see my [researchmap](https://researchmap.jp/araki.ryo).
 #### 口頭発表
 
 - **荒木 亮**，Alberto Vela-Martı́n，Adrián Lozano-Durán \
+  「乱流の情報理論描像とエネルギカスケード 」 \
+  [日本流体力学会 年会 2025](https://www2.nagare.or.jp/nenkai2025/) \
+  大阪公立大学，2024年9月17日〜19日
+- **荒木 亮**，Alberto Vela-Martı́n，Adrián Lozano-Durán \
   「エネルギカスケードに伴う情報の輸送とその物理機構」 \
   [日本流体力学会 年会 2024](https://www2.nagare.or.jp/nenkai2024/) \
   東北大学，2024年9月25日〜27日
