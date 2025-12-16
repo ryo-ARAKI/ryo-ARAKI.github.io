@@ -38,13 +38,9 @@ tags:
 
 イタリア北部のウディネにあるInternational Centre for Mechanical Sciences（CISM）で開催される1週間の集中コース．
 
-- 2026 May 11-15, Fluid Mixing: Fundamentals and Practices
-- 2026 June 15-19, Brownian Motion, Hydrodynamics Fluid-Particle Interactions, and Fluctuation-Dissipation Relations
-- 2026 July 13-17, Fluid Flow and Geometry: On, In, and Of
-- 2026 September 14-18, Continuum Modelling of Complex Fluids
 - 2025 April 7-11, [Instabilities in Turbulence](https://cism.it/en/activities/courses/C2501/)（**参加した**）
 - 2025 July 21-25, [Non-Spherical Particles in Turbulence](https://cism.it/en/activities/courses/C2510/)
-- 2025 September 8-12, [Lagrangian Approaches to Multiphysics Two-phase Flows​​​​​​​](https://cism.it/en/activities/courses/C2512/)
+- 2025 September 8-12, [Lagrangian Approaches to Multiphysics Two-phase Flows](https://cism.it/en/activities/courses/C2512/)
 
 ## [ERCOFTAC event list](https://www.ercoftac.org/events/events_list/)
 
