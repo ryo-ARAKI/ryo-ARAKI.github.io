@@ -51,7 +51,7 @@ redirect_from:
 | KAKENHI             | ¥1,000k | ¥1,100k |
 | TUS Research Grants | ¥1,000k | ¥1,000k |
 
-- **10/2025-3/2029 Mathematical Sciences for the Future** JST PRESTO, Exploration of New Science Using Mathematics to Predict and Control the Future, Grant Number JPMJPR25K1
+- **10/2025-3/2029 Exploration of New Science Using Mathematics to Predict and Control the Future (Mathematical Sciences for the Future)** JST PRESTO, Grant Number JPMJPR25K1
   - Project name: Information-theoretic picture of turbulence and spontaneous stochasticity
 - **7/2024-3/2026 Grant-in-Aid for Research Activity Start-up** JSPS KAKENHI, [Grant Number JP24K22942](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K22942/) (¥2,100,000)
   - Project name: "Forgetfulness" of developed turbulence and transfer of information
