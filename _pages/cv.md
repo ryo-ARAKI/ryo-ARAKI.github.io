@@ -15,14 +15,14 @@ redirect_from:
 
 ## Education
 
-- **09/2023 PhD of Science** Osaka University and **Doctorat en Mécanique des Fluides** École Centrale de Lyon (Double degree program)
+- **09/2023 PhD of Science** The University of Osaka and **Doctorat en Mécanique des Fluides** École Centrale de Lyon (Double degree program)
   - **Thesis** "[Temporal and Spatial Features of the Turbulent Kinetic Energy Cascade](https://theses.hal.science/tel-04473864)"
   - **Supervisors** [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) and [Prof. Susumu Goto](http://fm.me.es.osaka-u.ac.jp/goto/)
-- **03/2020 Master of Engineering** Osaka University
+- **03/2020 Master of Engineering** The University of Osaka
   - **Thesis** "Large Spatio-temporal Fluctuation of von Karman Turbulence and its Energy Cascade Dynamics"
   - **Supervisor** Prof. Susumu Goto
   - **Awarded "Graduate School of Engineering Science Outstanding Student Award"**
-- **03/2018 Batchelor of Engineering** Osaka University
+- **03/2018 Batchelor of Engineering** The University of Osaka
   - **Supervisor** Prof. Susumu Goto
 - **03/2016 Associate Degree of Engineering** National Institute of Technology, Maizuru College
 

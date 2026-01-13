@@ -31,7 +31,7 @@ redirect_from:
 
 ## Past affiliations and supervisors
 
-- [Osaka University/大阪大学](https://www.osaka-u.ac.jp/)
+- [the University of Osaka/大阪大学](https://www.osaka-u.ac.jp/)
   - [Graduate School of Engineering Science/基礎工学研究科](https://www.es.osaka-u.ac.jp/)
     - [Department of Mechanical Science and Bioengineering/機能創成専攻](http://www.me.es.osaka-u.ac.jp/msb/index.html)
       - [Fluid Mechanics Group (Goto Laboratory)/流体力学グループ（後藤研究室）](http://fm.me.es.osaka-u.ac.jp/)
