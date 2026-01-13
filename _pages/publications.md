@@ -59,4 +59,4 @@ author_profile: true
 
 - 田之上 智宏，**荒木 亮**\
   「情報流体力学：乱流における情報の流れ」\
-  ながれ **44** (3), 237-244 (2025)
+  [ながれ **44** (3), 237-244 (2025)](https://www.nagare.or.jp/download/noauth.html?d=44-3-237_tokushu7.pdf)
