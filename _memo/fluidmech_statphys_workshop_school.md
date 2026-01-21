@@ -7,7 +7,7 @@ tags:
 
 流体力学や統計物理をテーマとするワークショップやスクール情報の私用まとめです．
 
-## [Les Houches School of Physics](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp)
+## [Les Houches School of Physics](https://www.houches-school-physics.com)
 
 > Les Houches School of Physicsは、季節ごとの学校やワークショップを専門とする国際的な物理学センターです。
 > [Wikipedia: Les Houches School of Physics](https://en.wikipedia.org/wiki/Les_Houches_School_of_Physics)
@@ -111,6 +111,8 @@ Centre Européen de Calcul Atomique et Moléculaire（CECAM）が主催するワ
 
 ## その他
 
+- [Aspen Center for Physics](https://aspenphys.org/)
+- [International School of Physics "Enrico Fermi"](https://en.sif.it/courses/fermi_school)
 - [Gordon Research Conferences](https://www.grc.org/)
   - 2026年1月25-30日：[Integrating Theoretical Models and Big Data to Understand Predator-Prey Dynamics](https://www.grc.org/predator-prey-interactions-conference/2026/default.aspx)
 - [Events: Basque Center for Applied Mathematics](https://www.bcamath.org/en/news-events/events)
