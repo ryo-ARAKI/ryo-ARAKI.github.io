@@ -125,7 +125,7 @@ For the full list, see my [researchmap](https://researchmap.jp/araki.ryo).
   「空間局所にのみ非線形相互作用するNavier-Stokes 乱流」 \
   [第37回数値流体力学シンポジウム](https://www2.nagare.or.jp/cfd/cfd37/index.html) \
   名古屋大学，2023年12月15〜17日 \
-  **若手優秀講演表彰を受賞**
+  [**若手優秀講演表彰を受賞**](https://www.nagare.or.jp/prize/6403/7037.html)
 - **荒木 亮**，Wouter J. T. Bos，後藤 晋 \
   「乱流中の準周期変動の被食者-捕食者モデリング」 \
   [日本物理学会 2021年秋季大会](https://w4.gakkai-web.net/jps_search/2021au/index.html) \
