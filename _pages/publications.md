@@ -19,12 +19,15 @@ author_profile: true
 
 ## Preprint/submitted
 
-- Kai Fukami and **ARAKI Ryo** \
-  "Information-theoretic machine learning for time-varying mode decomposition of separated airfoil wakes" \
-  [arXiv 2505.24132](https://arxiv.org/abs/2505.24132)
+- Ryo Koshikawa, **ARAKI Ryo**, Qiong Liu, Kai Fukami \
+  "Convolutional causal learning for aerodynamic flows" \
+  [arXiv 2505.24132](https://arxiv.org/abs/2601.19104)
 
 ## Published
 
+- Kai Fukami and **ARAKI Ryo** \
+  "Information-theoretic machine learning for time-varying mode decomposition of separated aerodynamic flows" \
+  [_AIAA Journal_ in press](https://doi.org/10.2514/1.J065914); [arXiv 2505.24132](https://arxiv.org/abs/2505.24132)
 - Tomohiro Tanogami and **ARAKI Ryo** \
   "Scale-to-scale information flow amplifies turbulent fluctuations" \
   [_Physical Review Research_ **7**, 023078 (2025)](https://doi.org/10.1103/PhysRevResearch.7.023078) (Open Access); [arXiv 2408.03635](https://arxiv.org/abs/2408.03635)
