@@ -49,11 +49,11 @@ author_profile: true
 - **ARAKI Ryo** and Wouter J. T. Bos \
   "Inertial range scaling of inhomogeneous turbulence" \
   [_Journal of Fluid Mechanics_ **978**, A9 (2024)](https://doi.org/10.1017/jfm.2023.940); [arXiv 2210.14516](https://arxiv.org/abs/2210.14516) \
-  Selected as **"Runners-up deserving honourable mention"** of _Journal of Fluid Mechanics_'s **Emerging Scholar Best paper 2024**
+  Selected as [**"Runners-up deserving honourable mention"** of _Journal of Fluid Mechanics_'s **Emerging Scholar Best paper 2024**](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/announcements/prizes-and-awards/emerging-scholar-best-paper-2024).
 - **ARAKI Ryo**, Wouter J. T. Bos, and Susumu Goto \
   "Minimal model of quasi-cyclic behaviour in turbulence driven by Taylor--Green forcing" \
   [_Fluid Dynamics Research_ **55**, 035507 (2023)](https://doi.org/10.1088/1873-7005/acdff7); [arXiv 2112.03417](https://arxiv.org/abs/2112.03417) \
-  Selected as **"Highlights of 2023"** of _Fluid Dynamics Research_.
+  Selected as [**"Highlights of 2023"** of _Fluid Dynamics Research_](https://iopscience.iop.org/journal/1873-7005/page/highlights-of-2023).
 - **ARAKI Ryo** and Susumu Goto \
   "Quasiperiodic fluctuations of von Kármán turbulence driven by viscous stirring" \
   [_Physical Review Fluids_ **6**, 084603 (2021)](https://doi.org/10.1103/PhysRevFluids.6.084603)
