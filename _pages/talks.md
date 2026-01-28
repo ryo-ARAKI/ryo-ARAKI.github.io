@@ -146,7 +146,7 @@ For the full list, see my [researchmap](https://researchmap.jp/araki.ryo).
   「閉じた系内の乱流に見られる大規模な時空間変動」 \
   [日本機械学会 関西学生会2017年度学生員卒業研究発表講演会](http://conf.kansai.jsme.or.jp/ksconf18-2/) \
   甲南大学，2018年3月10日 \
-  **ベストプレゼンテーション賞を受賞**
+  [**ベストプレゼンテーション賞を受賞**](https://jsmekansai.org/soukai93/report93/2017BPAlist.pdf)
 
 #### ポスター発表
 
