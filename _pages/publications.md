@@ -19,6 +19,8 @@ author_profile: true
 
 ## Preprint/submitted
 
+- Kotaro Minamio, Kosuke Nakagawa, **ARKI Ryo**, Takahiro Ishida, Takahiro Tsukahara \
+  "DNS study on the roughness wavelength selectivity of crossflow vortex transition due to distributed surface roughness"
 - Ryo Koshikawa, **ARAKI Ryo**, Qiong Liu, Kai Fukami \
   "Convolutional causal learning for aerodynamic flows" \
   [arXiv 2505.24132](https://arxiv.org/abs/2601.19104)
