@@ -23,7 +23,7 @@ author_profile: true
   "DNS study on the roughness wavelength selectivity of crossflow vortex transition due to distributed surface roughness"
 - Ryo Koshikawa, **ARAKI Ryo**, Qiong Liu, Kai Fukami \
   "Convolutional causal learning for aerodynamic flows" \
-  [arXiv 2505.24132](https://arxiv.org/abs/2601.19104)
+  [arXiv 2601.19104](https://arxiv.org/abs/2601.19104)
 
 ## Published
 
