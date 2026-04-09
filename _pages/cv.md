@@ -16,7 +16,7 @@ redirect_from:
 ## Education
 
 - **09/2023 Ph.D. of Science** The University of Osaka and **Doctorat en Mécanique des Fluides** École Centrale de Lyon (Double degree program)
-  - **Thesis** "[Temporal and Spatial Features of the Turbulent Kinetic Energy Cascade](https://theses.hal.science/tel-04473864)"
+  - **Thesis** "[Temporal and Spatial Features of the Turbulent Kinetic Energy Cascade](https://theses.hal.science/tel-04473864)" ([theses.fr](https://doi.org/10.70675/e794b6e5zfcd5z4587z9617z64e9aad84230))
   - **Supervisors** [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) and [Prof. Susumu Goto](http://fm.me.es.osaka-u.ac.jp/goto/)
 - **03/2020 Master of Engineering** The University of Osaka
   - **Thesis** "Large Spatio-temporal Fluctuation of von Karman Turbulence and its Energy Cascade Dynamics"
