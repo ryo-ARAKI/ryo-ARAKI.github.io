@@ -19,6 +19,8 @@ author_profile: true
 
 ## Preprint/submitted
 
+- Harumichi Mochizuki, **ARAKI Ryo**, Tomohiro Nimura, and Takahiro Tsukahara \
+  "Time estimation of scalar diffusion in homogeneous isotropic turbulence using deep learning"
 - Kotaro Minamio, Kosuke Nakagawa, **ARKI Ryo**, Takahiro Ishida, Takahiro Tsukahara \
   "DNS study on the roughness wavelength selectivity of crossflow vortex transition due to distributed surface roughness"
 - Ryo Koshikawa, **ARAKI Ryo**, Qiong Liu, Kai Fukami \
