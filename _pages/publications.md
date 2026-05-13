@@ -19,6 +19,9 @@ author_profile: true
 
 ## Preprint/submitted
 
+- Takeru Hashimoto, Takahiro Tsukahara, **ARAKI Ryo** \
+  "Information-Preserving SGS model based on the local inter-scale equilibrium hypothesis" \
+  [arXiv 2605.11843](https://arxiv.org/abs/2605.11843)
 - Harumichi Mochizuki, **ARAKI Ryo**, Tomohiro Nimura, and Takahiro Tsukahara \
   "Time estimation of scalar diffusion in homogeneous isotropic turbulence using deep learning"
 - Kotaro Minamio, Kosuke Nakagawa, **ARKI Ryo**, Takahiro Ishida, Takahiro Tsukahara \
