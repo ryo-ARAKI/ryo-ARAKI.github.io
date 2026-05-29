@@ -53,11 +53,11 @@ redirect_from:
 | KAKENHI Startup     | ¥1,000k  | ¥1,100k |
 | TUS Research Grants | ¥1,000k  | ¥1,000k |
 
-- **10/2025-3/2029 Exploration of New Science Using Mathematics to Predict and Control the Future (Mathematical Sciences for the Future)** JST PRESTO, [Grant Number JPMJPR25K1](https://projectdb.jst.go.jp/grant/JST-PROJECT-25143821/) (¥25,300,000)
+- **10/2025-3/2029 Exploration of New Science Using Mathematics to Predict and Control the Future (Mathematical Sciences for the Future)** JST PRESTO, [Grant Number JPMJPR25K1](https://projectdb.jst.go.jp/grant/JST-PROJECT-25143821/) (¥25,300k)
   - Project name: Information-theoretic picture of turbulence and spontaneous stochasticity
-- **7/2024-3/2026 Grant-in-Aid for Research Activity Start-up** JSPS KAKENHI, [Grant Number JP24K22942](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K22942/) (¥2,100,000)
+- **7/2024-3/2026 Grant-in-Aid for Research Activity Start-up** JSPS KAKENHI, [Grant Number JP24K22942](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K22942/) (¥2,100k)
   - Project name: "Forgetfulness" of developed turbulence and transfer of information
-- **4/2024-03/2026 Next Generation Researcher Support Fund** Tokyo University of Science Research Grants (¥2,000,000)
+- **4/2024-03/2026 Next Generation Researcher Support Fund** Tokyo University of Science Research Grants (¥2,000k)
   - Project name: Laminar-turbulent transition understood from "information"
 
 Only direct cost is calculated.
@@ -65,9 +65,9 @@ Only direct cost is calculated.
 ### Scholarships
 
 - **10/2020-09/2023 Scholarship at Overseas Educational Institution** [Takenaka Scholarship Foundation](http://www.takenaka-ikueikai.or.jp/en/index.html)
-  - ¥2,000,000 per year for living expense, tuition fees, plus ¥1,200,000 per year as research grant
-- **04/2018-03/2020 Master 21 Program** [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html) (¥2,420,000)
-  - ¥960,000 per year plus ¥500,000 for overseas activities.
-- **04/2018-03/2020 Type I Scholarship** (interest-free loan), Japan Student Services Organization (¥2,112,000)
+  - ¥2,000k per year for living expense, tuition fees, plus ¥1,200k per year as research grant
+- **04/2018-03/2020 Master 21 Program** [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html) (¥2,420k)
+  - ¥960k per year plus ¥500k for overseas activities.
+- **04/2018-03/2020 Type I Scholarship** (interest-free loan), Japan Student Services Organization (¥2,112k)
   - Exempted from repayment for students who have achieved an especially excellent record.
-- **04/2017-03/2018 Domestic Scholarship Student** [The Fujii International Scholarship Foundation](http://www.fujii-zaidan.or.jp/index.html) (¥360,000)
+- **04/2017-03/2018 Domestic Scholarship Student** [The Fujii International Scholarship Foundation](http://www.fujii-zaidan.or.jp/index.html) (¥360k)
