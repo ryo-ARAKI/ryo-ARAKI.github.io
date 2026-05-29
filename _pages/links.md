@@ -14,7 +14,6 @@ redirect_from:
 - [Tokyo University of Science/東京理科大学](https://www.tus.ac.jp/)
   - [Faculty of Science and Technology/創域理工学部](https://dept.tus.ac.jp/st/)
     - [Department of Mechanical and Aerospace Engineering/機械航空宇宙工学科](https://www.rs.tus.ac.jp/me/index.html)
-      - [Tsukahara laboratory/塚原研究室](https://www.rs.tus.ac.jp/~t2lab/index-j.html)
 
 ## Collaborators
 

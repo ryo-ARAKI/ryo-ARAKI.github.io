@@ -17,7 +17,7 @@ At the EFMC14 in Athens, Greece, on September 2022.
 
 ## Current Affiliation
 
-Assistant professor (fixed-term) at [Tsukahara laboratory](https://www.rs.tus.ac.jp/~t2lab/index.html), [Faculty of Science and Technology](https://dept.tus.ac.jp/st/), [Tokyo University of Science](https://www.tus.ac.jp/en/).
+Assistant professor (fixed-term) at [Faculty of Science and Technology](https://dept.tus.ac.jp/st/), [Tokyo University of Science](https://www.tus.ac.jp/en/).
 
 ## Research Interests
 
