@@ -14,17 +14,20 @@ author_profile: true
 ## 略歴
 
 - **2023年10月〜** 現職
+
+### 教育
+
 - **2023年9月**（ダブル・ディグリープログラム）
-  - **博士（理学）** 大阪大学基礎工学研究科
-  - **Doctorat en Mécanique des Fluides** École Centrale de Lyon
+  - **博士（理学）** 大阪大学基礎工学研究科 博士後期課程 修了
+  - **Doctorat en Mécanique des Fluides** École Centrale de Lyon Ecole, Doctorale N° ED 162: Mécanique, Energétique, Génie Civil, Acoustique
   - **博士論文** 「[乱流運動エネルギカスケードの時空間的特徴](https://theses.hal.science/tel-04473864)」（[theses.fr](https://doi.org/10.70675/e794b6e5zfcd5z4587z9617z64e9aad84230)）
   - **指導教員** [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189)および[後藤 晋 教授](http://fm.me.es.osaka-u.ac.jp/goto/)
-- **2020年3月 工学修士号** 大阪大学基礎工学研究科 博士前期課程修了
+- **2020年3月 工学修士号** 大阪大学基礎工学研究科 博士前期課程 修了
   - **修士論文** 「von Kármán 乱流の時空間大変動とエネルギカスケードの動力学」
   - **指導教員** 後藤 晋 教授
   - **基礎工学研究科長賞**
 - **2018年3月 工学学士号** 大阪大学基礎工学部 卒業
-- **2016年3月 工学準学士号** 舞鶴工業高等専門学校 機械工学科卒業
+- **2016年3月 工学準学士号** 舞鶴工業高等専門学校 機械工学科 卒業
 
 ### インターンシップなど
 
