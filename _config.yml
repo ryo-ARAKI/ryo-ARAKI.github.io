@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "dark"
+site_theme: "default"
 title: "ARAKI Ryo"
 title_separator: "-"
 name: &name "ARAKI Ryo"
@@ -101,6 +101,7 @@ facebook:
   app_id:
   publisher:
 og_image: # Open Graph/Twitter default site image
+og_description: # Open Graph/Twitter default site description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -141,6 +142,7 @@ exclude:
   - log
   - node_modules
   - package.json*
+  - package-lock.json
   - Rakefile
   - README
   - README.md
