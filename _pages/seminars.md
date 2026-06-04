@@ -5,6 +5,11 @@ permalink: /seminars/
 author_profile: true
 ---
 
+<style>
+.seminar__meta { margin-bottom: 0.25em; }
+.seminar__abstract { margin-top: 0; }
+</style>
+
 {% assign seminars = site.data.seminars | sort: "date" %}
 {% assign today = site.time | date: "%Y-%m-%d" %}
 
@@ -19,13 +24,13 @@ author_profile: true
 
 <article class="seminar">
   <h3>{{ seminar.title }}</h3>
-  <p>
+  <p class="seminar__meta">
     <strong>Speaker:</strong> {{ seminar.speaker }}（{{ seminar.affiliation }}）<br>
     <strong>Date:</strong> {{ seminar.date_label }} {{ seminar.time }}<br>
     <strong>Place:</strong> {{ seminar.place }}{% if seminar.flyer_url %}<br>
     <a href="{{ seminar.flyer_url }}">告知PDF</a>{% endif %}
   </p>
-  <details>
+  <details class="seminar__abstract">
     <summary>概要を表示</summary>
     {{ seminar.abstract | markdownify }}
     {% if seminar.references %}
@@ -58,13 +63,13 @@ author_profile: true
 
 <article class="seminar">
   <h3>{{ seminar.title }}</h3>
-  <p>
+  <p class="seminar__meta">
     <strong>Speaker:</strong> {{ seminar.speaker }}（{{ seminar.affiliation }}）<br>
     <strong>Date:</strong> {{ seminar.date_label }} {{ seminar.time }}<br>
     <strong>Place:</strong> {{ seminar.place }}{% if seminar.flyer_url %}<br>
     <a href="{{ seminar.flyer_url }}">告知PDF</a>{% endif %}
   </p>
-  <details>
+  <details class="seminar__abstract">
     <summary>概要を表示</summary>
     {{ seminar.abstract | markdownify }}
     {% if seminar.references %}
