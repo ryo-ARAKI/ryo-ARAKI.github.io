@@ -13,7 +13,7 @@ title: "ARAKI Ryo"
 title_separator: "-"
 name: &name "ARAKI Ryo"
 description: &description "Researcher on fluid dynamics and turbulence"
-url: https://ryo-araki.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url: https://ryo-araki.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "ryo-ARAKI/ryo-ARAKI.github.io"
 
@@ -167,17 +167,23 @@ exclude:
   - CHANGELOG
   - Capfile
   - config
+  - CONTRIBUTING.md
   - Dockerfile
+  - docker-compose.yaml
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
   - local
   - log
+  - markdown_generator
   - node_modules
   - package.json*
   - Rakefile
   - README
+  - README.md
+  - talkmap.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:

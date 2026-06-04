@@ -25,7 +25,7 @@ tags:
 
 アメリカのコロラド大学ボルダー校が毎年夏に開催する1ヶ月間の物理の学校．
 
-- 2022年：[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)（**参加した**．私の[参加記](https://ryo-araki.github.io//memo/2022_Boulder_school/)）
+- 2022年：[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)（**参加した**．私の[参加記](https://ryo-araki.github.io/memo/2022_Boulder_school/)）
 
 ## [Bridges over turbulent matters](https://turbazur.github.io/cargese2025/)
 
