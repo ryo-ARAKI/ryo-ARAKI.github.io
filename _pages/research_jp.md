@@ -55,7 +55,7 @@ author_profile: true
 我々は，情報熱力学で明らかになった情報の流れに関する普遍則を軸にして「情報流体力学」を展開していきたいと考えています．
 
 <div style="text-align: center;">
-<img src='/images/information_hydrodynamics.png' width="800">
+<img src='/images/information_hydrodynamics.png' width="800" alt="情報流体力学の模式図，乱流のエネルギスペクトル，渦構造の可視化" loading="lazy">
 </div>
 
 <div style="text-align: center;">

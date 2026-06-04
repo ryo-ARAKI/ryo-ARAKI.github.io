@@ -8,26 +8,26 @@ redirect_from:
 ---
 
 <div style="text-align:center">
-<img src='/images/202209_EFMC14.JPG' width="700">
+<img src='/images/202209_EFMC14.JPG' width="700" alt="ARAKI Ryo at EFMC14 in Athens, Greece" loading="lazy">
 </div>
 
 <div style="text-align:right;">
-At the EFMC14 in Athens, Greece, on September 2022.
+At EFMC14 in Athens, Greece, in September 2022.
 </div>
 
 ## Current Affiliation
 
-Assistant professor (fixed-term) at [Faculty of Science and Technology](https://dept.tus.ac.jp/st/), [Tokyo University of Science](https://www.tus.ac.jp/en/).
+Assistant professor (fixed-term) at the [Faculty of Science and Technology](https://dept.tus.ac.jp/st/), [Tokyo University of Science](https://www.tus.ac.jp/en/).
 
 ## Research Interests
 
-- Turbulence, in particular its energy cascade dynamics.
-- "Information hydrodynamics" (See [Research](https://ryo-araki.github.io/research) page).
+- Turbulence, especially energy cascade dynamics.
+- "Information hydrodynamics"; see the [Research](https://ryo-araki.github.io/research) page.
 
 ---
 
 <div style="text-align: center;">
-<img src='/images/Amanohashidate.jpg' width="600">
+<img src='/images/Amanohashidate.jpg' width="600" alt="Amanohashidate sandbar in Miyazu, Kyoto, Japan" loading="lazy">
 </div>
 
 <div style="text-align: right;">

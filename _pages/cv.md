@@ -21,23 +21,23 @@ redirect_from:
   - **Thesis** "[Temporal and Spatial Features of the Turbulent Kinetic Energy Cascade](https://theses.hal.science/tel-04473864)" ([theses.fr](https://doi.org/10.70675/e794b6e5zfcd5z4587z9617z64e9aad84230))
   - **Supervisors** [Dr. Wouter Bos](http://lmfa.ec-lyon.fr/spip.php?article189) and [Prof. Susumu Goto](http://fm.me.es.osaka-u.ac.jp/goto/)
 - **03/2020 Master of Engineering** The University of Osaka, Graduate School of Engineering Science
-  - **Thesis** "Large Spatio-temporal Fluctuation of von Karman Turbulence and its Energy Cascade Dynamics"
+  - **Thesis** "Large Spatio-temporal Fluctuation of von Kármán Turbulence and its Energy Cascade Dynamics"
   - **Supervisor** Prof. Susumu Goto
   - **Awarded "Graduate School of Engineering Science Outstanding Student Award"**
-- **03/2018 Batchelor of Engineering** The University of Osaka, School of Engineering Science
+- **03/2018 Bachelor of Engineering** The University of Osaka, School of Engineering Science
   - **Supervisor** Prof. Susumu Goto
 - **03/2016 Associate Degree of Engineering** National Institute of Technology, Maizuru College
 
 ## Other experiences
 
 - **08/2019 Research Internship** @The Japan Aerospace Exploration Agency (JAXA), Japan
-  - **Project** Research on acceleration of computational fluid simulation program for large-scale computation.
+  - **Project** Research on accelerating a computational fluid simulation program for large-scale computation.
   - **Supervisor** Dr. Seiji Tsutsumi
 - **03/2019-04/2019 Visiting Student** @The University of Exeter, UK
-  - **Project** Improve my spectral element-Fourier method code, especially focus on implementation of "adaptive-hybrid parallelisation algorithm".
+  - **Project** Improved my spectral element-Fourier method code, focusing especially on implementing an "adaptive-hybrid parallelisation algorithm".
   - **Supervisor** [Dr. David Moxey](https://davidmoxey.uk/)
 - **08/2014-09/2014 Research Internship** @University College London, UK
-  - **Project** Contribute to research projects at Pedestrian Accessibility Movement Environment Laboratory (PAMELA).
+  - **Project** Contributed to research projects at the Pedestrian Accessibility Movement Environment Laboratory (PAMELA).
 
 ## Skills
 
@@ -65,7 +65,7 @@ Only direct cost is calculated.
 ### Scholarships
 
 - **10/2020-09/2023 Scholarship at Overseas Educational Institution** [Takenaka Scholarship Foundation](http://www.takenaka-ikueikai.or.jp/en/index.html)
-  - ¥2,000k per year for living expense, tuition fees, plus ¥1,200k per year as research grant
+  - ¥2,000k per year for living expenses, tuition fees, plus ¥1,200k per year as research grant
 - **04/2018-03/2020 Master 21 Program** [Yoshida Scholarship Foundation](http://www.ysf.or.jp/englishpage/index.html) (¥2,420k)
   - ¥960k per year plus ¥500k for overseas activities.
 - **04/2018-03/2020 Type I Scholarship** (interest-free loan), Japan Student Services Organization (¥2,112k)

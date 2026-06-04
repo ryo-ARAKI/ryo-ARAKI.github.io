@@ -24,7 +24,7 @@ author_profile: true
   [arXiv 2605.11843](https://arxiv.org/abs/2605.11843)
 - Harumichi Mochizuki, **ARAKI Ryo**, Tomohiro Nimura, and Takahiro Tsukahara \
   "Time estimation of scalar diffusion in homogeneous isotropic turbulence using deep learning"
-- Kotaro Minamio, Kosuke Nakagawa, **ARKI Ryo**, Takahiro Ishida, Takahiro Tsukahara \
+- Kotaro Minamio, Kosuke Nakagawa, **ARAKI Ryo**, Takahiro Ishida, Takahiro Tsukahara \
   "DNS study on the roughness wavelength selectivity of crossflow vortex transition due to distributed surface roughness"
 - Ryo Koshikawa, **ARAKI Ryo**, Qiong Liu, Kai Fukami \
   "Convolutional causal learning for aerodynamic flows" \
@@ -44,7 +44,7 @@ author_profile: true
 - Shunsuke Someya, **ARAKI Ryo**, and Takahiro Tsukahara \
   "CNN for scalar-source distance estimation in grid-generated turbulence" \
   [_Applied Thermal Engineering_ **258**, 124516 (2024)](https://doi.org/10.1016/j.applthermaleng.2024.124516) (Open Access)
-- **ARAKI Ryo**, Alberto Vela-Martı́n, and Adrián Lozano-Durán \
+- **ARAKI Ryo**, Alberto Vela-Martín, and Adrián Lozano-Durán \
   "Forgetfulness of turbulent energy cascade associated with different mechanisms" \
   [_Journal of Physics: Conference Series_ **2753**, 012001 (2024)](https://dx.doi.org/10.1088/1742-6596/2753/1/012001) (Open Access)
 - Tomohiro Tanogami and **ARAKI Ryo** \
