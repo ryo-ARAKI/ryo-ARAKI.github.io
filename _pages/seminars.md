@@ -37,7 +37,7 @@ author_profile: true
     <p><strong>参考文献</strong></p>
     <ol>
       {% for reference in seminar.references %}
-      <li>{{ reference }}</li>
+      <li>{% if reference.url %}<a href="{{ reference.url }}">{{ reference.text }}</a>{% else %}{{ reference.text }}{% endif %}</li>
       {% endfor %}
     </ol>
     {% endif %}
@@ -76,7 +76,7 @@ author_profile: true
     <p><strong>参考文献</strong></p>
     <ol>
       {% for reference in seminar.references %}
-      <li>{{ reference }}</li>
+      <li>{% if reference.url %}<a href="{{ reference.url }}">{{ reference.text }}</a>{% else %}{{ reference.text }}{% endif %}</li>
       {% endfor %}
     </ol>
     {% endif %}

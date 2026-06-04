@@ -10,8 +10,9 @@
 
     本講演では、(1+1)次元の有向浸透現象に対して数値的に評価した情報量（レニーエントロピー）について報告する[2]。非平衡臨界点における臨界緩和の振る舞い、および活動相におけるカスプ構造を中心に紹介する。あわせて、計算に用いた数値手法としてテンソルネットワーク法の概要も述べる。
   references:
-    - "M. Henkel, H. Hinrichsen, and S. Lübeck, Non-Equilibrium Phase Transitions (Springer, New York, 2008), Vol. 1."
-    - "K. Harada and N. Kawashima, Entropy Governed by the Absorbing State of Directed Percolation, Physical Review Letters 123, 090601 (2019)."
+    - text: "M. Henkel, H. Hinrichsen, and S. Lübeck, Non-Equilibrium Phase Transitions (Springer, New York, 2008), Vol. 1."
+    - text: "K. Harada and N. Kawashima, Entropy Governed by the Absorbing State of Directed Percolation, Physical Review Letters 123, 090601 (2019)."
+      url: "https://doi.org/10.1103/PhysRevLett.123.090601"
 
 - title: "古典多体系における動的低ランク近似法"
   speaker: "皆川 諒"
@@ -41,5 +42,7 @@
 
     本講演では，これらの学術的成果に加えて，`LCS.jl` の開発を通じて得られた Julia 言語による HPC コードの設計手法についても紹介する．Julia 言語を用いることで，C/Fortran に匹敵する実行性能を目指しつつ，高水準な言語機能を活かした抽象化により，実行環境や機能の違いを局所化した拡張可能なコードを高い生産性で開発できる．さらに，ドキュメント生成，テスト，ベンチマークを開発過程に組み込むことで，HPC コードの堅牢性と保守性を高められる．これらを通じて，性能可搬性，高性能，高生産性を同時に追求する HPC コード開発手法について議論する．
   references:
-    - "Taketo Tominaga and Ryo Onishi, LCS.jl: A High-Performance, Multi-Platform Computational Model in Julia for Turbulent Particle-Laden Flows, arXiv:2604.11008 (2026)."
-    - "Taketo Tominaga and Ryo Onishi, Finite-Time Relaxation of Inertial Particle Clustering in Non-Equilibrium Turbulence, arXiv:2605.25539 (2026)."
+    - text: "Taketo Tominaga and Ryo Onishi, LCS.jl: A High-Performance, Multi-Platform Computational Model in Julia for Turbulent Particle-Laden Flows, arXiv:2604.11008 (2026)."
+      url: "https://arxiv.org/abs/2604.11008"
+    - text: "Taketo Tominaga and Ryo Onishi, Finite-Time Relaxation of Inertial Particle Clustering in Non-Equilibrium Turbulence, arXiv:2605.25539 (2026)."
+      url: "https://arxiv.org/abs/2605.25539"
