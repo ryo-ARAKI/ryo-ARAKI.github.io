@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "セミナー"
+title: "Seminars"
 permalink: /seminars/
 author_profile: true
 ---
@@ -13,9 +13,7 @@ author_profile: true
 {% assign seminars = site.data.seminars | sort: "date" %}
 {% assign today = site.time | date: "%Y-%m-%d" %}
 
-荒木が主催・共催するセミナー情報を掲載しています．
-
-## 今後のセミナー
+## Upcoming seminars
 
 {% assign upcoming_count = 0 %}
 {% for seminar in seminars %}
@@ -53,7 +51,7 @@ author_profile: true
 現在，予定されているセミナーはありません．
 {% endif %}
 
-## 過去のセミナー
+## Past seminars
 
 {% assign past_count = 0 %}
 {% assign seminars_desc = seminars | reverse %}
