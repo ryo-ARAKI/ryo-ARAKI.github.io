@@ -1,0 +1,45 @@
+- title: "有向浸透現象におけるレニーエントロピー"
+  speaker: "原田 健自"
+  affiliation: "京都大学 情報学研究科 助教"
+  date: "2026-02-19"
+  date_label: "2026年2月19日（木）"
+  time: "10:30--11:30"
+  place: "東京理科大学 野田キャンパス 7号館4階04号室"
+  abstract: |-
+    感染症の伝搬や乱流などを記述する確率過程の時間発展は、時間方向を浸透方向として捉えることで、有向浸透現象[1]として対応づけられる。とくに、有向浸透現象における活動相と非活動相の間の吸収状態相転移は、臨界現象として普遍性を示すと考えられており、これまで多くの関心を集めてきた。
+
+    本講演では、(1+1)次元の有向浸透現象に対して数値的に評価した情報量（レニーエントロピー）について報告する[2]。非平衡臨界点における臨界緩和の振る舞い、および活動相におけるカスプ構造を中心に紹介する。あわせて、計算に用いた数値手法としてテンソルネットワーク法の概要も述べる。
+  references:
+    - "M. Henkel, H. Hinrichsen, and S. Lübeck, Non-Equilibrium Phase Transitions (Springer, New York, 2008), Vol. 1."
+    - "K. Harada and N. Kawashima, Entropy Governed by the Absorbing State of Directed Percolation, Physical Review Letters 123, 090601 (2019)."
+
+- title: "古典多体系における動的低ランク近似法"
+  speaker: "皆川 諒"
+  affiliation: "京都大学 情報学研究科 M2"
+  date: "2026-02-19"
+  date_label: "2026年2月19日（木）"
+  time: "11:30--12:30"
+  place: "東京理科大学 野田キャンパス 7号館4階04号室"
+  abstract: |-
+    近年，非平衡定常状態だけでなく，非平衡多体系のダイナミクスの研究が盛んである．特に，エンタングルメントエントロピーや相互情報量など，多体系の波動関数や確率分布の情報論的側面に関する研究が注目を集めている．しかし，波動関数や確率分布の自由度は系の大きさに対して指数的に増大するため，直接的なシミュレーションは難しい．
+
+    一方で，応用数学分野では時間発展方程式の動的低ランク近似法と呼ばれる時間発展方程式の近似解法の研究が最近，活発に行われており，新たな近似計算法として注目されているが，多体系への応用はほとんど行われていない．
+
+    本講演では，動的低ランク近似をテンソルネットワーク表現に組み込み，1 次元動的イジングモデル，及び 1 次元 Contact Process に適用する事により，動的低ランク近似法の古典多体系に対する有効性の検証を行った結果を報告する．
+
+- title: "Julia 言語によるマルチプラットフォーム対応 分散混相流ソルバ LCS.jl の開発"
+  speaker: "富永 健斗"
+  affiliation: "東京科学大学 大学院工学院 機械系 D1"
+  date: "2026-06-17"
+  date_label: "2026年6月17日（水）"
+  time: "11:00--12:00"
+  place: "東京理科大学 野田キャンパス 7407教室"
+  abstract: |-
+    近年，高性能計算分野 (high performance computing; HPC) では，CPU に加えて GPU を搭載したスーパーコンピュータが主流になりつつある．これに伴い，CPU 環境を前提として最適化されてきた HPC コードを，GPU 環境へ移植する必要性が高まっている．このような移植では，いまだ広く利用される CPU 環境への対応を維持しつつ，多様なベンダーの GPU 環境にも対応できる性能可搬性が求められる．さらに，GPU の性能を引き出すため，メモリ階層や並列実行を考慮したアルゴリズムの再設計が必要となる．性能可搬性と高性能を両立する HPC コード開発手法の確立は，依然として重要な課題である．
+
+    そこで，我々は，Julia 言語と `KernelAbstractions.jl` を用いて，単一のソースコードを CPU/GPU 上で実行可能な single-source，multi-platform design に基づく混相乱流計算ソルバー Lagrangian Cloud Simulator in Julia (`LCS.jl`) を開発した．`LCS.jl` では，従来の CPU 向け逐次粒子通信アルゴリズムを，prefix-scan に基づく GPU-native な並列アルゴリズムへと再設計した．これにより，粒子通信コストを全実行時間の約 78% から約 10% まで削減した．さらに `LCS.jl` は，Fortran 実装と同等の CPU 性能，および 256 H100 GPUs まで 85% 以上の strong scaling 効率を達成した．GPU 計算では，CPU 計算に対して最大 18.0 倍の高速化を達成した．
+
+    本講演では，これらの学術的成果に加えて，`LCS.jl` の開発を通じて得られた Julia 言語による HPC コードの設計手法についても紹介する．Julia 言語を用いることで，C/Fortran に匹敵する実行性能を目指しつつ，高水準な言語機能を活かした抽象化により，実行環境や機能の違いを局所化した拡張可能なコードを高い生産性で開発できる．さらに，ドキュメント生成，テスト，ベンチマークを開発過程に組み込むことで，HPC コードの堅牢性と保守性を高められる．これらを通じて，性能可搬性，高性能，高生産性を同時に追求する HPC コード開発手法について議論する．
+  references:
+    - "Taketo Tominaga and Ryo Onishi, LCS.jl: A High-Performance, Multi-Platform Computational Model in Julia for Turbulent Particle-Laden Flows, arXiv:2604.11008 (2026)."
+    - "Taketo Tominaga and Ryo Onishi, Finite-Time Relaxation of Inertial Particle Clustering in Non-Equilibrium Turbulence, arXiv:2605.25539 (2026)."

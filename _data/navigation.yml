@@ -18,6 +18,9 @@ main:
   - title: "Presentations"
     url: /talks/
 
+  - title: "Seminars"
+    url: /seminars/
+
   - title: "Memo"
     url: /memo/
 
