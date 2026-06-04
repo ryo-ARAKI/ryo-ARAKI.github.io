@@ -1,27 +1,25 @@
 {
-  "name": "academic-pages",
-  "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "name": "ryo-araki-github-io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maintenance scripts for Ryo Araki's personal Jekyll site.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/ryo-ARAKI/ryo-ARAKI.github.io"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "github-pages",
+    "personal-site"
   ],
-  "contributors": [
-    "Michael Rose",
-    "Robert Zupko"
-  ],
+  "author": "ARAKI Ryo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/ryo-ARAKI/ryo-ARAKI.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://ryo-araki.github.io",
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 18"
   },
   "dependencies": {
     "fitvids": "^2.1.1",

@@ -1,13 +1,24 @@
-# Ignore the contents of the _site directory and other cache directories
+# Generated site and Jekyll caches
 _site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# Ignore the directory for local files during development
+# Local dependency installs
+.bundle/
+vendor/
+node_modules/
+
+# Local development files
 local/
+.worktrees/
+tmp/
+log/
+__pycache__/
+.DS_Store
 
-# Ignore the Gemfile that is generated
+# GitHub Pages manages Ruby dependency versions
 Gemfile.lock
 
-# Ingore files created by npm
-node_modules
+# Ignore files created by npm
 package-lock.json

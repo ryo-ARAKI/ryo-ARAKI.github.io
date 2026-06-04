@@ -1,74 +1,59 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# ryo-araki.github.io
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+Personal academic website for ARAKI Ryo, published at <https://ryo-araki.github.io> with GitHub Pages and Jekyll.
 
-# Getting Started
+## Content Source Of Truth
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+The site is maintained by hand. The public profile pages live in `_pages/`, and memo articles live in `_memo/` as the only custom collection. Publications, presentations, research pages, links, and Japanese profile pages are curated Markdown files rather than generated from TSV, Python, or notebook sources.
 
-See more info at https://academicpages.github.io/
+Use `_pages/about.md`, `_pages/cv.md`, `_pages/research.md`, `_pages/research_jp.md`, `_pages/publications.md`, `_pages/talks.md`, `_pages/japanese.md`, and `_pages/links.md` for the main public pages. Use `_memo/*.md` for memo entries.
 
-## Running locally
+## Local Preview And Build
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
+Install the GitHub Pages bundle outside the repository or under the ignored `vendor/` path:
 
 ```bash
-docker compose up
+BUNDLE_PATH=/home/ryo/github/ryo-ARAKI.github.io/vendor/bundle bundle install
 ```
 
-You should now be able to access the website from `localhost:4000`.
+Preview locally:
 
-# Maintenance
+```bash
+BUNDLE_PATH=/home/ryo/github/ryo-ARAKI.github.io/vendor/bundle bundle exec jekyll serve --safe --trace
+```
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+Build the generated site:
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+```bash
+BUNDLE_PATH=/home/ryo/github/ryo-ARAKI.github.io/vendor/bundle bundle exec jekyll build --safe --trace
+```
 
-## Bugfixes and enhancements
+GitHub Pages controls the deployed Ruby and gem versions. Keep `Gemfile.lock` ignored and do not commit it for normal site maintenance.
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+## JavaScript Maintenance
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+The committed `assets/js/main.min.js` is used by the site. The npm scripts in `package.json` are only for optional maintenance when changing files under `assets/js/`:
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+```bash
+npm install
+npm run build:js
+```
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+`package-lock.json` and `node_modules/` stay ignored.
+
+## Images And Files
+
+Keep images under `images/` and downloadable documents under `files/`. Prefer web-sized images before committing: use about 1200 px maximum width for ordinary photos and a larger width only when a research figure needs the detail. Strip metadata when possible, and add meaningful `alt` text plus `loading="lazy"` for inline images.
+
+## Verification
+
+Before publishing cleanup or content changes, run the relevant checks:
+
+```bash
+BUNDLE_PATH=/home/ryo/github/ryo-ARAKI.github.io/vendor/bundle bundle exec jekyll build --safe --trace
+ruby -rjson -e 'JSON.parse(File.read("images/manifest.json"))'
+ruby -rrexml/document -e 'REXML::Document.new(File.read("images/browserconfig.xml"))'
+ruby -ryaml -e 'YAML.load_file("_config.yml")'
+```
+
+After deleting pages or assets, inspect `_site/sitemap.xml` and check generated local `href`/`src` links so removed URLs and files are not still referenced.
