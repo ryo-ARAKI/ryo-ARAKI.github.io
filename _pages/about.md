@@ -24,6 +24,13 @@ Assistant professor (fixed-term) at the [Faculty of Science and Technology](http
 - Turbulence, especially energy cascade dynamics.
 - "Information hydrodynamics"; see the [Research](https://ryo-araki.github.io/research) page.
 
+## Recent highlights
+
+- JST PRESTO project, "Information-theoretic picture of turbulence and spontaneous stochasticity" (2025-2029).
+- Recent papers and preprints are listed on the [Publications](https://ryo-araki.github.io/publications) page.
+- Current research topics are summarized on the [Research](https://ryo-araki.github.io/research) page.
+- Seminars and conference presentations are listed on the [Presentations](https://ryo-araki.github.io/talks) page.
+
 ---
 
 <div style="text-align: center;">
