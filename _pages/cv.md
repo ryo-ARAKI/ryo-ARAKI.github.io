@@ -44,6 +44,33 @@ redirect_from:
 - **Language** Japanese (native), English (fluent, IELTS overall 7.5)
 - **Programming** Fortran, Python, Julia
 
+## Teaching Experience
+
+- **09/2025- Exercise on Aerodynamics**, Tokyo University of Science
+- **04/2024- Thermofluid Dynamics Exercise**, Tokyo University of Science
+- **10/2023- Mechanical and Aerospace Engineering Experiments**, Tokyo University of Science
+- **09/2024-03/2025 Exercise on Mechanics**, Tokyo University of Science
+- **10/2023-03/2024 Fluid Mechanics Exercise**, Tokyo University of Science
+
+## Committee Memberships
+
+- **2025- Steering Committee Member**, The Japan Society of Mechanical Engineers Young Members' Group
+- **07/2025 Executive Committee**, 11th International Symposium on Turbulence, Heat and Mass Transfer (THMT'25)
+
+## Professional Memberships
+
+- The Japan Society of Mechanical Engineers, since 12/2017
+- The Physical Society of Japan, since 12/2020
+- The Japan Society of Fluid Mechanics, since 12/2023
+
+## Outreach
+
+- **01/2026 Panelist**, "Modal decomposition of flows around wings based on causality," The Japan Society of Mechanical Engineers Young Members' Group, 2nd Technical Lecture and Networking Event
+- **01/2026 Panelist and organizer**, "From technical college to university transfer, doctoral study abroad, and university faculty," The Japan Society of Mechanical Engineers, 5th Course Doctor Networking Event
+- **07/2025 Panelist**, "Doctoral study at Grandes Ecoles," Overseas Graduate School Study Information Session 2025 Summer at Osaka University
+- **07/2022 Article**, "French PhD study abroad during COVID-19," JSIAM Online Magazine
+- **07/2021 Panelist**, French study abroad webinar during COVID-19, Campus France
+
 ## Competitive Funds
 
 |                     | 2025     | 2024    |
@@ -53,6 +80,8 @@ redirect_from:
 | KAKENHI Startup     | ¥1,000k  | ¥1,100k |
 | TUS Research Grants | ¥1,000k  | ¥1,000k |
 
+- **4/2026-3/2029 Grant-in-Aid for Scientific Research (B)** JSPS KAKENHI, [Grant Number JP26K01129](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K01129/), co-investigator (project total direct cost: ¥14,100k)
+  - Project name: Extracting causal relationships in unsteady aerodynamic flows with information-theoretic machine learning
 - **10/2025-3/2029 Exploration of New Science Using Mathematics to Predict and Control the Future (Mathematical Sciences for the Future)** JST PRESTO, [Grant Number JPMJPR25K1](https://projectdb.jst.go.jp/grant/JST-PROJECT-25143821/) (¥25,300k)
   - Project name: Information-theoretic picture of turbulence and spontaneous stochasticity
 - **7/2024-3/2026 Grant-in-Aid for Research Activity Start-up** JSPS KAKENHI, [Grant Number JP24K22942](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K22942/) (¥2,100k)

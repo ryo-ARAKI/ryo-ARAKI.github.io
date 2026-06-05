@@ -10,6 +10,9 @@ author_profile: true
 ## Seminars
 
 - **ARAKI Ryo** \
+  "Information-theoretic picture of turbulence with 'dual causality' concept" \
+  Fluid Mechanics Seminar Series at Tohoku Aero, Tohoku University, February 26 2026
+- **ARAKI Ryo** \
   "Causal mode decomposition of separated aerodynamic flows" \
   [PhD Seminar Series](https://phd-aerospace.uc3m.es/2025/08/29/phd-seminar-series-how-universal-are-lagrangian-statistics-of-turbulence-insights-from-the-hierarchy-of-coherent-vortices-forgetful-turbulent-energy-cascade/), Universidad Carlos III de Madrid (UC3M), September 4 2025
 - **ARAKI Ryo** \
@@ -27,6 +30,20 @@ author_profile: true
 List of presentations in which I am the presenter or the corresponding author.
 For the full list, see my [researchmap](https://researchmap.jp/araki.ryo).
 
+- **ARAKI Ryo** \
+  "Information-theoretic picture of turbulence: cascade and spontaneous stochasticity" \
+  JST CREST open workshop "Mathematical Foundations and Applications of Fluid Mechanics" \
+  Kyoto University, Kyoto, Japan, February 25-27 2026 \
+  **Invited**
+- **ARAKI Ryo** \
+  "Causality in turbulence: towards an information-theoretic picture of turbulence" \
+  Energy Dissipation Rate in Turbulence \
+  University of Osaka, Osaka, Japan, October 28-31 2025 \
+  **Invited**
+- **ARAKI Ryo** and Kai Fukami \
+  "Time-varying causal mode extraction using information-theoretic machine learning from unsteady separated airfoil wakes" \
+  [The 63rd Aircraft Symposium](https://branch.jsass.or.jp/aero/symposium/symposium63/) \
+  Japan, October 17 2025
 - **ARAKI Ryo** \
   "Energy and information transfer mechanisms in developed turbulence" \
   [2nd European Fluid Dynamics Conference (EFDC2)](https://www.efdc2.com/) \
@@ -110,10 +127,13 @@ For the full list, see my [researchmap](https://researchmap.jp/araki.ryo).
 
 #### 口頭発表
 
+- **荒木 亮** \
+  「乱流の自発的確率性と情報理論的描像」 \
+  JSTさきがけ「未来数理科学」第3回領域会議，2025年11月26日
 - **荒木 亮**，Alberto Vela-Martín，Adrián Lozano-Durán \
   「乱流の情報理論描像とエネルギカスケード 」 \
   [日本流体力学会 年会 2025](https://www2.nagare.or.jp/nenkai2025/) \
-  大阪公立大学，2024年9月17日〜19日
+  大阪公立大学，2025年9月17日〜19日
 - **荒木 亮**，Alberto Vela-Martín，Adrián Lozano-Durán \
   「エネルギカスケードに伴う情報の輸送とその物理機構」 \
   [日本流体力学会 年会 2024](https://www2.nagare.or.jp/nenkai2024/) \
@@ -150,6 +170,9 @@ For the full list, see my [researchmap](https://researchmap.jp/araki.ryo).
 
 #### ポスター発表
 
+- **荒木 亮**，橋本 丈瑠，田之上 智宏 \
+  「2次元ゆらぐ乱流の情報熱力学描像と直接数値計算」 \
+  「動的物質科学」キックオフシンポジウム，2026年4月28日
 - **荒木 亮**，「乱流中の情報輸送の物理機構と情報を保存する乱流モデル」 \
   [第3回 MfIP連携探索ワークショップ：数学を軸とする新たな価値の探索・創出](https://sites.google.com/view/mfip-matching250314/) \
   武蔵野大学 有明キャンパス（東京都），2025年3月14日
