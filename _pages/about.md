@@ -15,6 +15,11 @@ redirect_from:
 At EFMC14 in Athens, Greece, in September 2022.
 </div>
 
+## Recent highlights
+
+- New preprint: "[Information-Preserving SGS model based on the local inter-scale equilibrium hypothesis](https://arxiv.org/abs/2605.11843)"
+- JST PRESTO project "Information-theoretic picture of turbulence and spontaneous stochasticity" (2025-2029) has began!
+
 ## Current Affiliation
 
 Assistant professor (fixed-term) at the [Faculty of Science and Technology](https://dept.tus.ac.jp/st/), [Tokyo University of Science](https://www.tus.ac.jp/en/).

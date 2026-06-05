@@ -5,6 +5,13 @@ permalink: /japanese/
 author_profile: true
 ---
 
+## 最近のハイライト
+
+- 新しいプレプリントを公開しました："[Information-Preserving SGS model based on the local inter-scale equilibrium hypothesis](https://arxiv.org/abs/2605.11843)"
+- JSTさきがけ「乱流の自発的確率性と情報理論的描像」（2025-2029年度）が始まりました！
+
+## 自己紹介
+
 - 氏名：荒木 亮（あらき りょう）
 - 所属：[東京理科大学](https://www.tus.ac.jp/) [創域理工学部](https://dept.tus.ac.jp/st/) [機械航空宇宙工学科](https://www.rs.tus.ac.jp/me/index.html) 嘱託助教（任期つき）
   - 私の指導を受けることに興味がある人は，[研究テーマ](https://ryo-araki.github.io/research_jp)や[研究室チュートリアル](https://github.com/t2lab-it/lab_tutorial)を読んでみてください．
@@ -50,6 +57,11 @@ author_profile: true
 ### 指導歴
 
 - 2024年度：卒業論文「情報を保存するサブグリッドスケール乱流モデル」
+
+## 公開資料・ソフトウェア
+
+- [研究室チュートリアル](https://github.com/t2lab-it/lab_tutorial)：研究室生活，研究の進め方，論文・発表資料の作り方などに関する資料
+- [研究・学習リソース集](https://github.com/t2lab-it/resource)：教科書，講義ノート，ウェビナー，ソフトウェアなどのリンク集
 
 ### 委員歴
 
