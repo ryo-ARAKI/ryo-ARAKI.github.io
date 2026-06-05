@@ -18,7 +18,7 @@ At EFMC14 in Athens, Greece, in September 2022.
 ## Recent highlights
 
 - New preprint: "[Information-Preserving SGS model based on the local inter-scale equilibrium hypothesis](https://arxiv.org/abs/2605.11843)"
-- JST PRESTO project "Information-theoretic picture of turbulence and spontaneous stochasticity" (2025-2029) has began!
+- JST PRESTO project "[Information-theoretic picture of turbulence and spontaneous stochasticity](https://www.jst.go.jp/kisoken/presto/en/project/1112115/1112115_2025.html#anchor-1)" (2025-2029) has began!
 
 ## Current Affiliation
 

@@ -8,7 +8,7 @@ author_profile: true
 ## 最近のハイライト
 
 - 新しいプレプリントを公開しました："[Information-Preserving SGS model based on the local inter-scale equilibrium hypothesis](https://arxiv.org/abs/2605.11843)"
-- JSTさきがけ「乱流の自発的確率性と情報理論的描像」（2025-2029年度）が始まりました！
+- JSTさきがけ「[乱流の自発的確率性と情報理論的描像](https://www.jst.go.jp/kisoken/presto/project/1112115/1112115_2025.html#anchor-1)」（2025-2029年度）が始まりました！
 
 ## 自己紹介
 
