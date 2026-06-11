@@ -26,12 +26,12 @@ author_profile: true
   "Time estimation of scalar diffusion in homogeneous isotropic turbulence using deep learning"
 - Kotaro Minamio, Kosuke Nakagawa, **ARAKI Ryo**, Takahiro Ishida, Takahiro Tsukahara \
   "DNS study on the roughness wavelength selectivity of crossflow vortex transition due to distributed surface roughness"
-- Ryo Koshikawa, **ARAKI Ryo**, Qiong Liu, Kai Fukami \
-  "Convolutional causal learning for aerodynamic flows" \
-  [arXiv 2601.19104](https://arxiv.org/abs/2601.19104)
 
 ## Published
 
+- Ryo Koshikawa, **ARAKI Ryo**, Qiong Liu, Kai Fukami \
+  "Convolutional causal learning for aerodynamic flows" \
+  [_Journal of Fluid Mechanics_, **1037**, A6 (2026)](https://doi.org/10.1017/jfm.2026.11699) (Open Access); [arXiv 2601.19104](https://arxiv.org/abs/2601.19104)
 - Kai Fukami and **ARAKI Ryo** \
   "Information-theoretic machine learning for time-varying mode decomposition of separated aerodynamic flows" \
   [_AIAA Journal_ **64**, 2, 605-613 (2026)](https://doi.org/10.2514/1.J065914); [arXiv 2505.24132](https://arxiv.org/abs/2505.24132)
