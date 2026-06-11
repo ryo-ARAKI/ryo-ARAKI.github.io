@@ -7,6 +7,7 @@ author_profile: true
 
 ## 最近のハイライト
 
+- （2026-06-11）新しい論文が _JFM_ から出版されました！："[Convolutional causal learning for aerodynamic flows](https://doi.org/10.1017/jfm.2026.11699)"
 - （2026-05-12）新しいプレプリントを公開しました："[Information-Preserving SGS model based on the local inter-scale equilibrium hypothesis](https://arxiv.org/abs/2605.11843)"
 - （2025-10-01）JSTさきがけ「[乱流の自発的確率性と情報理論的描像](https://www.jst.go.jp/kisoken/presto/project/1112115/1112115_2025.html#anchor-1)」（2025-2029年度）が始まりました！
 
