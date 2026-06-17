@@ -33,13 +33,14 @@ tags:
 
 - 2023年7月：[100 Years of Turbulent Cascades](https://univ-cotedazur.eu/events/turbulence-semester/summer-school)（**参加した**）
 
-## [International Advanced Courses: CISM](https://cism.it/en/activities/courses/)
+## [International Advanced Courses: CISM](https://www.cism.it/event)
 
 イタリア北部のウディネにあるInternational Centre for Mechanical Sciences（CISM）で開催される1週間の集中コース．
 
-- 2025 April 7-11, [Instabilities in Turbulence](https://cism.it/en/activities/courses/C2501/)（**参加した**）
-- 2025 July 21-25, [Non-Spherical Particles in Turbulence](https://cism.it/en/activities/courses/C2510/)
-- 2025 September 8-12, [Lagrangian Approaches to Multiphysics Two-phase Flows](https://cism.it/en/activities/courses/C2512/)
+- [2025年](https://www.cism.it/2025-courses-description)のコース
+  - April 7-11, Instabilities in Turbulence（**参加した**）
+  - July 21-25, Non-Spherical Particles in Turbulence
+  - September 8-12, Lagrangian Approaches to Multiphysics Two-phase Flows
 
 ## [ERCOFTAC event list](https://www.ercoftac.org/events/events_list/)
 
