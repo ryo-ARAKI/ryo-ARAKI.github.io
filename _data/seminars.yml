@@ -46,3 +46,26 @@
       url: "https://arxiv.org/abs/2604.11008"
     - text: "Taketo Tominaga and Ryo Onishi, Finite-Time Relaxation of Inertial Particle Clustering in Non-Equilibrium Turbulence, arXiv:2605.25539 (2026)."
       url: "https://arxiv.org/abs/2605.25539"
+
+- title: "データ駆動型方程式探索のための対称性に基づく候補項フィルタリング"
+  speaker: "横倉 淳也"
+  affiliation: "東京大学 理学系研究科 M2"
+  date: "2026-07-03"
+  date_label: "2026年7月3日（金）"
+  time: "11:00--12:00"
+  place: "東京理科大学 神楽坂キャンパス 353教室"
+  abstract: |-
+    データ駆動による支配方程式推定において、対称性を考慮することは、非物理的な推定結果の抑制やノイズ耐性の向上といった効果のある重要な要素である。
+    しかし従来手法では、手作業による候補項の選別[1]や、推定過程での反復的な対称性の付与[2]などが主なアプローチであり、高次・高階系への適用や計算量の観点で課題があった。
+    本発表では、探索空間に対して対称性を満たす部分空間を事前に構成する手法を提案する[3]。
+    対称変換を探索空間上の線形作用として定式化し、離散・連続対称性および不変・共変条件を統一的に線形方程式として表現することで、対称性を満たす項の集合を体系的に抽出する。
+    これにより探索空間そのものを自動的に制約でき、既存のデータ駆動型推定手法の前処理として自然な統合が可能である。
+    提案手法をToner--Tu系およびKardar--Parisi--Zhang方程式に適用し、既知の支配方程式の再現と高次項の抽出における有効性を確認した。
+    さらに、本手法を実装したライブラリを公開しており、簡単なハンズオンを通じてその使用方法も紹介する。
+  references:
+    - text: "D. R. Gurevich et al., _J. Fluid Mech._ *996*, A25 (2024)."
+      url: "https://doi.org/10.1017/jfm.2024.813"
+    - text: "G. E. Karniadakis et al., _Nat. Rev. Phys._ *3*, 422--440 (2021)."
+      url: "https://doi.org/10.1038/s42254-021-00314-5"
+    - text: "J. Yokokura and K. A. Takeuchi, arXiv:2604.01592 (2026)."
+      url: "https://arxiv.org/abs/2604.01592"
