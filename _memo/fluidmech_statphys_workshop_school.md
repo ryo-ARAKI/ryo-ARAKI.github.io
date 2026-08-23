@@ -17,6 +17,11 @@ tags:
 乱流分野では[New Challenges in Turbulence Research](https://nctr.eu/index.php/en/)が隔年で開講されている．
 次回は[New Challenges in Turbulence Research VIII (NCTR VIII)](https://www.houches-school-physics.com/program/program-2027/new-challenges-in-turbulence-research-viii-nctr-viii--1733311.kjsp)（2027/2/21-26）．
 
+その他には
+
+- 2027年
+  - 5月9-20日：[Mathematical Statistical Physics School](https://math-statphys.sciencesconf.org)
+
 ## [Summer Program: CTR](https://ctr.stanford.edu/summer-program)
 
 アメリカのスタンフォード大学のCenter for Turbulence Research（CTR）で偶数年に開催される一ヶ月の研究型プログラム．
@@ -37,10 +42,17 @@ tags:
 
 イタリア北部のウディネにあるInternational Centre for Mechanical Sciences（CISM）で開催される1週間の集中コース．
 
-- [2025年](https://www.cism.it/2025-courses-description)のコース
-  - April 7-11, Instabilities in Turbulence（**参加した**）
-  - July 21-25, Non-Spherical Particles in Turbulence
-  - September 8-12, Lagrangian Approaches to Multiphysics Two-phase Flows
+- [2027年](https://www.cism.it/blog/notizie-1/preliminary-programme-2027-83)※未確定
+  - 5月10-14日：Data-Driven Modelling for Fluid Dynamics
+  - 6月7-11日：Brownian Motion, Hydrodynamics Fluid-Particle Interactions, and Fluctuation-Dissipation Relations
+  - 7月19-23日：Discrete Element Method for Modelling Powder, Granular and Fluid-Particle Flow
+  - 10月4-8日：Emergent Hydrodynamic-Mediated Behaviour in Micro-Organisms
+- 2026年
+  - 4月20-25日：Fluid-Structure Interaction of Bioinspired Systems
+- [2025年](https://www.cism.it/2025-courses-description)
+  - 4月7-11日：Instabilities in Turbulence（**参加した**）
+  - 7月21-25日：Non-Spherical Particles in Turbulence
+  - 9月8-12日：Lagrangian Approaches to Multiphysics Two-phase Flows
 
 ## [ERCOFTAC event list](https://www.ercoftac.org/events/events_list/)
 
@@ -57,7 +69,7 @@ European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の�
 - 2023年：[Cardiovascular Fluid Mechanics](https://www.ercoftac.org/events/ercoftac-montestigliano-spring-school-2023/)
 - 2019年：[Network Science for Fluid Dynamics](https://www.ercoftac.org/events/ercoftac_montestigliano_spring_school_2/)
 
-### [Hands on Machine Learning for Fluid Dynamics](https://www.vki.ac.be/index.php/126-lecture-series--events/lecture-series/1011-vki-course-hands-on-machine-learning-for-fluid-dynamics-2026?utm_source=chatgpt.com)
+### [Hands on Machine Learning for Fluid Dynamics](https://www.vki.ac.be/index.php/126-lecture-series--events/lecture-series/1011-vki-course-hands-on-machine-learning-for-fluid-dynamics-2026)
 
 ベルギーの[von Karman Institute for Fluid Dynamics](https://www.vki.ac.be/index.php)で毎年2月に開催される集中コース
 
@@ -116,6 +128,10 @@ Centre Européen de Calcul Atomique et Moléculaire（CECAM）が主催するワ
 ## [Events: ICTP](https://www.ictp.it/home/scientific-calendar)
 
 イタリアのトリエステにあるInternational Centre for Theoretical Physics（ICTP）が主催するイベントの一覧．
+
+- 2027年
+  - 7月5-16日：[Ghana School on Non-Equilibrium Physics](https://indico.ictp.it/event/11443)
+  - 2月12-15日：[Spring College in the Physics of Complex Systems](https://indico.ictp.it/event/11412)
 
 ## その他
 
