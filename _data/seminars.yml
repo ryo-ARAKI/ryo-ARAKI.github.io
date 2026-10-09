@@ -124,3 +124,30 @@
   references:
     - text: "T. Yoneda, arXiv:2602.01071 (2026)."
       url: "https://arxiv.org/abs/2602.01071"
+- title: "情報から捉える散逸系のダイナミクス：微視的なゆらぎから巨視的な振動・カオスへ"
+  speaker: "松本 健心"
+  affiliation: "京都大学 理学研究科 博士後期課程3年"
+  date: "2026-10-21"
+  date_label: "2026年10月21日（水）"
+  time: "16:00--17:00"
+  place: "東京理科大学 神楽坂キャンパス 362教室（3号館6階）+オンライン（Teams配信）"
+  abstract: |-
+    非平衡系では、エネルギーや物質の流れによって振動などの動的な秩序が維持され、さらにカオスのような複雑な時間発展が現れる。
+    こうした散逸構造とそのダイナミクスは、巨視的には決定論的な非線形方程式で記述される一方、その背後には微視的なゆらぎを伴う確率過程がある。
+    本講演では、巨視的な現象を微視的な記述から捉えることを目指す。
+    まず、情報量と散逸の関係を扱う情報熱力学の基本的な考え方を紹介する。
+    そこで、情報流を定量化する学習率を学習率行列へ拡張し、定常状態での直交変換のもとで情報流の最大値を表すlearning capacityを定式化するとともに、過剰な情報流が散逸を伴うことを表す不等式を導く[1]。
+    次に、振動が発生するHopf分岐に着目する。
+    Hopf分岐点において学習率が決定論的極限で非滑らかに変化することを示す[2]。
+    最後に、カオスを取り上げる。
+    二時刻間の相互情報量から情報損失を定量化し、適切な極限操作のもとでその平均損失率がKolmogorov--Sinaiエントロピーに一致することを説明する[3]。
+    これらを通じて、散逸系における振動やカオスを、確率過程に基づく情報論的量によって特徴づける視点を議論する。
+  references:
+    - text: "Kenshin Matsumoto, Shin-ichi Sasa, and Andreas Dechant, Learning rate matrix and information-thermodynamic trade-off relation, Journal of Statistical Mechanics: Theory and Experiment 2025(9), 093202 (2025)."
+      url: "https://doi.org/10.1088/1742-5468/adf4be"
+    - text: "Kenshin Matsumoto and Shin-ichi Sasa, Singularity of information flow at the Hopf bifurcation point, Physical Review Research 8(3), 033324 (2026)."
+      url: "https://doi.org/10.1103/ljc9-72gq"
+    - text: "Kenshin Matsumoto and Shin-ichi Sasa, Information-theoretic characterization of macroscopic chaos emerging from the chemical master equation, arXiv:2609.11340 (2026)."
+      url: "https://arxiv.org/abs/2609.11340"
+  note: |-
+    [参加登録フォーム](https://forms.cloud.microsoft/r/yX2UNvMzVN)
