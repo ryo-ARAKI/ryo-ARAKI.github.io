@@ -5,7 +5,8 @@ permalink: /memo/fluidmech_statphys_workshop_school/
 tags:
 ---
 
-流体力学や統計物理をテーマとするワークショップやスクール情報の私用まとめです．
+流体力学や統計物理をテーマに，講義や実習，共同研究などを通じて勉強・交流する機会のあるワークショップ，スクール，研究プログラムの私用まとめです．
+研究発表・成果交換が中心となる学会はあえて対象外としています．
 
 ## [Les Houches School of Physics](https://www.houches-school-physics.com)
 
@@ -56,9 +57,7 @@ tags:
 
 ## [ERCOFTAC event list](https://www.ercoftac.org/events/events_list/)
 
-European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）の主催するイベントリスト．
-
-- 2026年3月：[3rd ERCOFTAC "Machine learning for fluid dynamics" workshop](https://ml4fluids2026.github.io/)
+European Research Community on Flow, Turbulence and Combustion（ERCOFTAC）が主催するイベント一覧．
 
 ### [Young ERCOFTAC Montestigliano Spring School for Graduate Students](https://www.ercoftac.org/about/young-ercoftac-spring-school-in-montestigliano/)
 
@@ -86,9 +85,9 @@ vKIの[イベントリスト](https://www.vki.ac.be/index.php/events-ls)も要�
 - 2021年：[Fluids under Control](https://prague-sum.com/fluids-under-control-august-2021/)
 - さらに過去：[Past events](https://prague-sum.com/past-events/)を参照
 
-## [Advanced Cources/Conferences/Workshops: CRM](https://www.crm.cat/workshops-conferences/)
+## [Advanced Courses: CRM](https://www.crm.cat/workshops-conferences/)
 
-スペインのバルセロナにあるCentre de Recerca Matemàtica（CRM）が主催するイベントの一覧．
+スペインのバルセロナにあるCentre de Recerca Matemàtica（CRM）が主催するイベント一覧．
 
 - 2025年10月：[Summer School on Statistical Physics of Complex Systems](https://www.crm.cat/xiii-gefenol-summer-school-on-statistical-physics-of-complex-systems/)
 
@@ -97,9 +96,9 @@ vKIの[イベントリスト](https://www.vki.ac.be/index.php/events-ls)も要�
 - Tutorial on Information Theory, Juan Manuel López, Instituto de Física de Cantabria
  -->
 
-## [Conferences: IHES](https://www.ihes.fr/en/events/#conferences)
+## [Summer Schools: IHES](https://www.ihes.fr/en/applications/summer-school/)
 
-フランスのパリ近郊にあるInstitut des Hautes Études Scientifiques（IHES）が主催するイベントの一覧．
+フランスのパリ近郊にあるInstitut des Hautes Études Scientifiques（IHES）が主催するサマースクール．
 
 - 2025年6-7月：[Statistical Aspects of Nonlinear Physics](https://indico.math.cnrs.fr/event/12319/)
   - StatPhys29のサテライトイベント．
@@ -107,9 +106,10 @@ vKIの[イベントリスト](https://www.vki.ac.be/index.php/events-ls)も要�
 
 ## [Program: CECAM](https://www.cecam.org/program?type=all&month=all&location=all)
 
-Centre Européen de Calcul Atomique et Moléculaire（CECAM）が主催するワークショップ，スクール，カンファレンスの一覧．
+Centre Européen de Calcul Atomique et Moléculaire（CECAM）が主催するイベント一覧．
 
 - 2025年9月：[Dynamics of Non-Equilibrium Variables: Multiscale-multiphysics applications of fluctuating hydrodynamics](https://www.cecam.org/workshop-details/dynamics-of-non-equilibrium-variables-multiscale-multiphysics-applications-of-fluctuating-hydrodynamics-1408)@Universidad de Zaragoza, Spain
+  - 最初の2日間はチュートリアル講義と実習，残りの3日間は研究発表．
 
 ## [Advanced Summer School on Mathematical Fluids Dynamics](https://mfd.dma.ens.fr/)
 
@@ -117,17 +117,18 @@ Centre Européen de Calcul Atomique et Moléculaire（CECAM）が主催するワ
 
 ## [FLOW Schools and Workshops](https://www.flow.kth.se/courses/previous-flow-schools-and-workshops-1.849666)
 
-スウェーデンのストックホルム王立工科大学（KTH）のLinné FLOW Centreが主催するイベントの一覧．
+スウェーデンのストックホルム王立工科大学（KTH）のLinné FLOW Centreが主催するイベント一覧．
 
 ## [Calendars: CIRM](https://www.cirm-math.com/calendars.html)
 
-フランスのマルセイユにあるCentre International de Rencontres Mathématiques（CIRM）という数学の研究所が主催するイベントの一覧．
+フランスのマルセイユにあるCentre International de Rencontres Mathématiques（CIRM）という数学の研究所が主催するイベント一覧．
 
 - 2025年5月：[Physics and Mathematics of hydrodynamic and wave turbulence](https://conferences.cirm-math.fr/3173.html)
+  - 連続講義を中心とするリサーチスクール．
 
 ## [Events: ICTP](https://www.ictp.it/home/scientific-calendar)
 
-イタリアのトリエステにあるInternational Centre for Theoretical Physics（ICTP）が主催するイベントの一覧．
+イタリアのトリエステにあるInternational Centre for Theoretical Physics（ICTP）が主催するイベント一覧．
 
 - 2027年
   - 7月5-16日：[Ghana School on Non-Equilibrium Physics](https://indico.ictp.it/event/11443)
@@ -135,19 +136,22 @@ Centre Européen de Calcul Atomique et Moléculaire（CECAM）が主催するワ
 
 ## その他
 
-- [Aspen Center for Physics](https://aspenphys.org/)
+- [Summer Program: Aspen Center for Physics](https://aspenphys.org/summer/)
 - [International School of Physics "Enrico Fermi"](https://en.sif.it/courses/fermi_school)
-- [Gordon Research Conferences](https://www.grc.org/)
-  - 2026年1月25-30日：[Integrating Theoretical Models and Big Data to Understand Predator-Prey Dynamics](https://www.grc.org/predator-prey-interactions-conference/2026/default.aspx)
 - [Events: Basque Center for Applied Mathematics](https://www.bcamath.org/en/news-events/events)
-  - [2nd Bilbao Workshop on Fluid Dynamics](https://www.bcamath.org/events/2ndBiFluidDyn/en/)
 - [Lake Como School of Advanced Studies](https://lakecomoschool.org/)
 
 ## 単発イベントのリスト
 
 - 2027年8月2-20日：[Fluctuating Hydrodynamics: From Particles to Stochastic PDEs](https://bernoulli.epfl.ch/programs/fluctuating-hydrodynamics-from-particles-to-stochastic-pdes/)@Bernoulli Center, EPFL, Lausanne, Switzerland
 - 2027年2月15-19日：[Detours and Shortcuts Outside Equilibrium](https://www.pks.mpg.de/dash27)@Max Planck Institute for the Physics of Complex Systems, Dresden, Germany
-- 2026年4月13日-6月10日[Mathematical Developments in Geophysical Fluid Dynamics, Paris](https://indico.math.cnrs.fr/event/13866/)@Institut Henri Poincaré, Paris, France
+
+<details markdown="1">
+<summary>過去のイベント</summary>
+
+- 2026年4月13日-7月10日：[Mathematical Developments in Geophysical Fluid Dynamics, Paris](https://indico.math.cnrs.fr/event/13866/)@Institut Henri Poincaré, Paris, France
 - 2025年5月12-15日：[Non-Equilibrium Turbulence and Cascade Dynamics](https://www.conferencemanager.dk/phdsummerschoolnon-equilibriumturbulenceandcascadedynamics/conference)@Technical University of Denmark, Denmark
   - [Clara Velte先生](https://orbit.dtu.dk/en/persons/clara-marika-velte)が主催
 - 2025年4月7-11日：[School on Non-Equilibrium Statistical Physics](https://sites.google.com/view/noneqstatphys/home)@University of Barcelona, Spain
+
+</details>
