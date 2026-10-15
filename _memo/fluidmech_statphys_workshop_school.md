@@ -145,6 +145,8 @@ Centre Européen de Calcul Atomique et Moléculaire（CECAM）が主催するワ
 
 ## 単発イベントのリスト
 
+- 2027年8月2-20日：[Fluctuating Hydrodynamics: From Particles to Stochastic PDEs](https://bernoulli.epfl.ch/programs/fluctuating-hydrodynamics-from-particles-to-stochastic-pdes/)@Bernoulli Center, EPFL, Lausanne, Switzerland
+- 2027年2月15-19日：[Detours and Shortcuts Outside Equilibrium](https://www.pks.mpg.de/dash27)@Max Planck Institute for the Physics of Complex Systems, Dresden, Germany
 - 2026年4月13日-6月10日[Mathematical Developments in Geophysical Fluid Dynamics, Paris](https://indico.math.cnrs.fr/event/13866/)@Institut Henri Poincaré, Paris, France
 - 2025年5月12-15日：[Non-Equilibrium Turbulence and Cascade Dynamics](https://www.conferencemanager.dk/phdsummerschoolnon-equilibriumturbulenceandcascadedynamics/conference)@Technical University of Denmark, Denmark
   - [Clara Velte先生](https://orbit.dtu.dk/en/persons/clara-marika-velte)が主催
