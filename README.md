@@ -10,7 +10,7 @@ Use `_pages/about.md`, `_pages/cv.md`, `_pages/research.md`, `_pages/research_jp
 
 ## Local Preview And Build
 
-Install the GitHub Pages bundle outside the repository or under the ignored `vendor/` path:
+Install the Jekyll 4 bundle outside the repository or under the ignored `vendor/` path:
 
 ```bash
 BUNDLE_PATH=/home/ryo/github/ryo-ARAKI.github.io/vendor/bundle bundle install
@@ -28,7 +28,14 @@ Build the generated site:
 BUNDLE_PATH=/home/ryo/github/ryo-ARAKI.github.io/vendor/bundle bundle exec jekyll build --safe --trace
 ```
 
-GitHub Pages controls the deployed Ruby and gem versions. Keep `Gemfile.lock` ignored and do not commit it for normal site maintenance.
+The GitHub Actions workflows use Ruby 3.2 and the Jekyll 4 dependencies in `Gemfile`.
+Keep `Gemfile.lock` ignored and do not commit it for normal site maintenance.
+
+## GitHub Pages Deployment
+
+The workflows validate pull requests targeting `master` and build and deploy pushes to `master`.
+To activate this deployment method, select **GitHub Actions** under **Settings → Pages → Build and deployment → Source** before pushing the migration to `master`.
+The repository currently uses the legacy branch build; merging locally does not change that setting or publish the site.
 
 ## JavaScript Maintenance
 
