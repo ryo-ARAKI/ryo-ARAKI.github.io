@@ -73,14 +73,15 @@ redirect_from:
 
 ## Competitive Funds
 
-|                     | 2025     | 2024    |
-| ------------------- | -------- | ------- |
-| Summary             | ¥10,340k | ¥2,100k |
-| PRESTO              | ¥8,340k  |         |
-| KAKENHI Startup     | ¥1,000k  | ¥1,100k |
-| TUS Research Grants | ¥1,000k  | ¥1,000k |
+|                     | 2026    | 2025     | 2024    |
+| ------------------- | ------- | -------- | ------- |
+| 合計                | ¥6,430k | ¥10,340k | ¥2,100k |
+| KAKENHI Kiban (B)   | ¥1,350k | -        | -       |
+| PRESTO              | ¥5,080k | ¥8,340k  | -       |
+| KAKENHI Startup     | -       | ¥1,000k  | ¥1,100k |
+| TUS Research Grants | -       | ¥1,000k  | ¥1,000k |
 
-- **4/2026-3/2029 Grant-in-Aid for Scientific Research (B)** JSPS KAKENHI, [Grant Number JP26K01129](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K01129/), co-investigator (project total direct cost: ¥14,100k)
+- **4/2026-3/2029 Grant-in-Aid for Scientific Research (B)** JSPS KAKENHI, [Grant Number JP26K01129](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K01129/), co-investigator (principal investigator: Prof. Kai Fukami@Tohoku University; project total direct cost: ¥14,100k)
   - Project name: Extracting causal relationships in unsteady aerodynamic flows with information-theoretic machine learning
 - **10/2025-3/2029 Exploration of New Science Using Mathematics to Predict and Control the Future (Mathematical Sciences for the Future)** JST PRESTO, [Grant Number JPMJPR25K1](https://projectdb.jst.go.jp/grant/JST-PROJECT-25143821/) (¥25,300k)
   - Project name: Information-theoretic picture of turbulence and spontaneous stochasticity
