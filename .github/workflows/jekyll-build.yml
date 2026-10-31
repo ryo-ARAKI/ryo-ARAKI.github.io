@@ -19,6 +19,17 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+
+      - name: Install UglifyJS
+        run: npm install -g uglify-js
+
+      - name: Build JavaScript
+        run: npm run build:js
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:

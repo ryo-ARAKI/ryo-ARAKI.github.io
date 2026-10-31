@@ -22,3 +22,9 @@ Gemfile.lock
 
 # Ignore files created by npm
 package-lock.json
+
+# Local editor settings
+.vscode/
+
+# JavaScript generated during builds
+assets/js/main.min.js
