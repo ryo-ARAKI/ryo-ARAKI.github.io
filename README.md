@@ -16,6 +16,13 @@ Install the Jekyll 4 bundle outside the repository or under the ignored `vendor/
 BUNDLE_PATH=/home/ryo/github/ryo-ARAKI.github.io/vendor/bundle bundle install
 ```
 
+Install the JavaScript dependencies and generate the browser script before the first local preview or build:
+
+```sh
+npm install
+npm run build:js
+```
+
 Preview locally:
 
 ```bash
@@ -39,14 +46,17 @@ The repository currently uses the legacy branch build; merging locally does not 
 
 ## JavaScript Maintenance
 
-The committed `assets/js/main.min.js` is used by the site. The npm scripts in `package.json` are only for optional maintenance when changing files under `assets/js/`:
+The site loads `assets/js/main.min.js`, which is generated from the JavaScript sources and ignored by Git.
+GitHub Actions generates this file automatically for both pull-request checks and deployment.
+For local previews and builds, generate it after a fresh checkout and regenerate it whenever the JavaScript sources change:
 
 ```bash
 npm install
 npm run build:js
 ```
 
-`package-lock.json` and `node_modules/` stay ignored.
+`assets/js/main.min.js`, `package-lock.json`, and `node_modules/` stay ignored.
+jQuery is loaded separately from the CDN configured in `_includes/head/custom.html`.
 
 ## Images And Files
 
