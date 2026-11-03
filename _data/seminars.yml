@@ -149,3 +149,22 @@
       url: "https://doi.org/10.1103/ljc9-72gq"
     - text: "Kenshin Matsumoto and Shin-ichi Sasa, Information-theoretic characterization of macroscopic chaos emerging from the chemical master equation, arXiv:2609.11340 (2026)."
       url: "https://arxiv.org/abs/2609.11340"
+- title: "熱力学法則を埋め込んだ機械学習法による観測データからの流体構成則獲得法"
+  speaker: "白鳥 英"
+  affiliation: "東京都市大学 理工学部 機械システム工学科 教授"
+  date: "2026-11-09"
+  date_label: "2026年11月9日（月）"
+  time: "16:00--17:00"
+  place: "東京理科大学 神楽坂キャンパス 211教室（2号館1階）+オンライン（Teams配信）"
+  abstract: |-
+    数値シミュレーションは製品開発やインフラ設計に不可欠な技術となっているが，現実の観測データとの乖離が生じることも少なくない。その要因として，物性値や境界条件の不確かさだけでなく，支配方程式そのものに不完全なモデル化や未考慮の物理過程が含まれている場合がある。このような状況では，観測データから支配方程式や構成則を同定する「物理モデル学習」が有望なアプローチとして注目されている．
+
+    物理モデル学習においては，(1) 学習条件外への汎化性，(2) 獲得されたモデルの物理的解釈性，(3) 候補関数ライブラリへの依存を必要としないこと，の三点が重要である。しかし既存手法は，これらを同時に満たすことが難しかった．
+
+    本講演では，熱力学法則を機械学習に埋め込むことで，上記三つの性質を兼ね備えた新しい物理モデル学習法 GIMLET (Generalizable and Interpretable Model Learning through Embedded Thermodynamics) を紹介する。提案手法では，未知の構成則を自由エネルギー関数および散逸関数として表現し，その汎関数微分を用いて支配方程式を構成する。観測データとの誤差と支配方程式の残差を同時に最小化することで，観測データを最もよく説明する熱力学関数を学習する。これにより，候補関数ライブラリを事前に与えることなく，熱力学的整合性を保ったまま構成則を発見できる．
+
+    提案手法を Burgers方程式，Kuramoto-Sivashinsky方程式，およびニュートン流体・非ニュートン流体の Navier-Stokes方程式に適用し，高い汎化性能と解釈性を有するモデルが獲得できることを示した。講演では手法の考え方と数値検証結果を紹介するとともに，今後の発展性と課題について議論する．
+  references:
+    - text: "Suguru Shiratori, Elham Kiyani, Khemraj Shukla, and George Em Karniadakis, GIMLET: Generalizable and Interpretable Model Learning through Embedded Thermodynamics, arXiv:2512.19936 (2025)."
+      url: "https://arxiv.org/abs/2512.19936"
+  note: "[参加登録フォーム](https://forms.cloud.microsoft/r/pTfEEhqENA)"
