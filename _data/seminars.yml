@@ -168,3 +168,24 @@
     - text: "Suguru Shiratori, Elham Kiyani, Khemraj Shukla, and George Em Karniadakis, GIMLET: Generalizable and Interpretable Model Learning through Embedded Thermodynamics, arXiv:2512.19936 (2025)."
       url: "https://arxiv.org/abs/2512.19936"
   note: "[参加登録フォーム](https://forms.cloud.microsoft/r/pTfEEhqENA)"
+- title: "化学反応系の非平衡臨界現象・カオスにおける散逸のゆらぎ"
+  speaker: "玉野 恭多"
+  affiliation: "京都大学 理学研究科 博士後期課程1年"
+  date: "2026-12-14"
+  date_label: "2026年12月14日（月）"
+  time: "16:00--17:00"
+  place: "東京理科大学 神楽坂キャンパス 361教室（3号館6階）+オンライン（Teams配信）"
+  abstract: |-
+    平衡系の臨界現象は、臨界指数による普遍性の分類やRushbrooke不等式などの指数間の関係を通じ、体系的に理解されてきた。
+    一方、非平衡系にも巨視的な転移が見られ、外部からの駆動と散逸によって維持される系では、平衡系には見られない巨視的な自発振動やカオスなど、多様な状態が現れうる。
+    近年、ゆらぐ系の熱力学（Stochastic Thermodynamics）の発展により、確率的な軌道上のエントロピー生成が熱力学と整合的に定義され、揺らぎの定理、熱力学的不確定性関係、熱力学的速度限界などの普遍的関係が明らかになった。
+    しかし、巨視的な非平衡転移やカオスにおいて、エントロピー生成がどう振る舞い、いかなる普遍性を示すかは十分に理解されていない。
+    本発表では、こうした非平衡現象の代表例である化学反応系を対象に、エントロピー生成とその揺らぎについて得られた結果を紹介する。
+    まず、局所分岐におけるエントロピー生成の応答と揺らぎの臨界指数を分類し、指数間に成り立つ普遍的不等式を述べる[1]。
+    さらに、周期倍加カスケードとカオスにおけるエントロピー生成揺らぎの特異性と異常な増幅を議論する[2]。
+  references:
+    - text: "K. Tamano and K. Saito, Universal Criticality of Entropy Production in Chemical Reaction Networks, Phys. Rev. Lett. 137, 207101 (2026)."
+      url: "https://doi.org/10.1103/j2x1-tlq7"
+    - text: "K. Tamano and K. Saito, Thermodynamic Signatures of the Period-Doubling Route to Chemical Chaos, arXiv:2611.06037 (2026)."
+      url: "https://arxiv.org/abs/2611.06037"
+  note: "[参加登録フォーム](https://forms.cloud.microsoft/r/GDMj5z6D0k) / [京都大学プレスリリース](https://www.kyoto-u.ac.jp/ja/research-news/2026-11-09-1)"
